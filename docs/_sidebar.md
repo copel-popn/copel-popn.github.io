@@ -7,3 +7,4 @@
 * [西比拉精灵记](/sibula/README.md)
 
   * [泰达](/sibula/tidus.md)
+  * [米安](/sibula/mian.md)
