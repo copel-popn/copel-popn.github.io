@@ -27,11 +27,11 @@ Metaverse本身是一个由电脑空间组成的地方，所以生存于其中�
 
 | 角色   |日文原名|对应乐曲 |初出版本|备注|
 | ----------- | ----------- | ---------- | --------- |  --------- | 
-|[艾克雷尔<BR>艾克雷尔·福音](/World-of-Metaverse/eclair.md)   |エクレール<br> エクレール・エヴァンジール| We Gonna Journey <br> We Gonna Party -Feline Groove Mix- | Chunithm/Chunithm Air | 少数跟随版本追加剧情片段的人物。剧情为一切后续内容的起始。
-|[RG-XIII 达因斯雷夫](/World-of-Metaverse/dainsleif.md)|RG-XIII ダインスレイヴ	| Contrapasso -inferno- | Chunithm Plus | 曲目先行于游戏收录于OST 《World Of Metaverse》 
-|[断绝的破坏神](/World-of-Metaverse/devastate.md)|断絶の破壊神 |Devastating Blaster | Chunithm Air Plus| 
-|[RG-XXX 提亚马特](/World-of-Metaverse/tiamat.md)|RG-XXX ティアマット| TiamaT:F minor | Chunithm Air Plus |
-|[拉托娜](/World-of-Metaverse/latona.md)|ラトーナ・ヘイズ| Yume no hajimari | Chunithm Paradise | 该人物剧情的时间点远早于故事开始，算是地上世界篇的分歧点。从中也能看到地上篇部分内容的起因。|
+|[艾克雷尔<BR>艾克雷尔·福音](/metaverse/World-of-Metaverse/eclair.md)   |エクレール<br> エクレール・エヴァンジール| We Gonna Journey <br> We Gonna Party -Feline Groove Mix- | Chunithm/Chunithm Air | 少数跟随版本追加剧情片段的人物。剧情为一切后续内容的起始。
+|[RG-XIII 达因斯雷夫](/metaverse/World-of-Metaverse/dainsleif.md)|RG-XIII ダインスレイヴ	| Contrapasso -inferno- | Chunithm Plus | 曲目先行于游戏收录于OST 《World Of Metaverse》 
+|[断绝的破坏神](/metaverse/World-of-Metaverse/devastate.md)|断絶の破壊神 |Devastating Blaster | Chunithm Air Plus| 
+|[RG-XXX 提亚马特](/metaverse/World-of-Metaverse/tiamat.md)|RG-XXX ティアマット| TiamaT:F minor | Chunithm Air Plus |
+|[拉托娜](/metaverse/World-of-Metaverse/latona.md)|ラトーナ・ヘイズ| Yume no hajimari | Chunithm Paradise | 该人物剧情的时间点远早于故事开始，算是地上世界篇的分歧点。从中也能看到地上篇部分内容的起因。|
 
 * * *
 
@@ -135,7 +135,7 @@ Metaverse本身是一个由电脑空间组成的地方，所以生存于其中�
 
 | 角色   |日文原名|对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
-|[奥米加·昆提斯](/Ground-of-Metaverse/omega.md)|オメガ・クィントゥス|混沌を越えし我らが神聖なる調律主を讃えよ| Chunithm Air Plus |该人物故事以圣经式的文体描述了地上再造的过程。时间点对应旧人类战争结束后。
+|[奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)|オメガ・クィントゥス|混沌を越えし我らが神聖なる調律主を讃えよ| Chunithm Air Plus |该人物故事以圣经式的文体描述了地上再造的过程。时间点对应旧人类战争结束后。
 |伊泽维尔·亚戈鲁修 |イゼヴェル・ヤグルーシュ|Last Celebration| Chunithm Paradise|
 |梅尼·特尔塞拉|メーネ・テルセーラ| ANU|Chunithm Paradise |
 
