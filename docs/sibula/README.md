@@ -11,19 +11,19 @@ Paradise Ep2推出的角色和剧情为Crystal Ep2的前传内容。对应的宣
 
 这个系列的角色立绘和封面并不对应，而是分开来绘制的。
 
-| 角色   |对应乐曲 |初出版本|
-| ----------- | ----------- | ---------- |
-| [泰达·艾薇尼亚斯](/sibula/tidus.md)  | 《混乱》 ～ Muspell      | Chunithm Crystal|
-|[米安·泰尔丝乌拉斯](/sibula/mian.md)| 《理想》 ～ Cloudland|Chunithm Crystal|
-| [西艾洛·梅薇](/sibula/cieo.md)  | 《逃避》 ～ The Deserter     | Chunithm Crystal|
-|[朱娜·萨拉基亚](/sibula/juna.md)| 《最愛》 ～ Curse|Chunithm Crystal|
-| [圣女 安娜·玛尔格雷迪](/sibula/anna.md)  | 《運命》 ～ Ray of Hope| Chunithm Crystal|
-|[創造神 伊迪亚](/sibula/idea.md)|《破滅》 ～ Rhapsody for The End|Chunithm Crystal|
-| [露琪亚·雷贝尔娜蒂特](/sibula/lucia.md)  | 《狂乱》 ～ Cataclysm| Chunithm Paradise|
-|[米安·克雷斯塔尼](/sibula/mian2.md)|《投影》 ～ Oh My Baby Doll|Chunithm Paradise|
-| [希斯缇娜·梅薇](/sibula/sistina.md)  |《信仰》 ～ Eudaimonia| Chunithm Paradise|
-|[朱娜·菲利克斯](/sibula/juna2.md)|《選別》 ～ Refuge|Chunithm Paradise|
-| [维斯塔·格洛丽奥萨·佛缇娅](/sibula/vesta.md)  | 《本能》 ～ ReCoda| Chunithm Paradise|
+| 角色   |日文原名|对应乐曲 |初出版本|
+| ----------- | ----------- | ---------- | ---------- |
+| [泰达·艾薇尼亚斯](/sibula/tidus.md)  |ティータ・アヴェニアス| 《混乱》 ～ Muspell      | Chunithm Crystal|
+|[米安·泰尔丝乌拉斯](/sibula/mian.md)|ミァン・テルスウラス| 《理想》 ～ Cloudland|Chunithm Crystal|
+| [西艾洛·梅薇](/sibula/cieo.md)  |シエロ・メーヴェ |《逃避》 ～ The Deserter     | Chunithm Crystal|
+|[朱娜·萨拉基亚](/sibula/juna.md)| ジュナ・サラキア|《最愛》 ～ Curse|Chunithm Crystal|
+| [圣女 安娜·玛尔格雷迪](/sibula/anna.md) |聖女 アンナ・マルグレーテ| 《運命》 ～ Ray of Hope| Chunithm Crystal|
+|[創造神 伊迪亚](/sibula/idea.md)|創造神 イデア|《破滅》 ～ Rhapsody for The End|Chunithm Crystal|
+| [露琪亚·雷贝尔娜蒂特](/sibula/lucia.md)|ルチア・レ・ベルナデート  | 《狂乱》 ～ Cataclysm| Chunithm Paradise|
+|[米安·克雷斯塔尼](/sibula/mian2.md)|ミァン・クレスターニ|《投影》 ～ Oh My Baby Doll|Chunithm Paradise|
+| [希斯缇娜·梅薇](/sibula/sistina.md) |システィーナ・メーヴェ |《信仰》 ～ Eudaimonia| Chunithm Paradise|
+|[朱娜·菲利克斯](/sibula/juna2.md)|ジュナ・フェリクス|《選別》 ～ Refuge|Chunithm Paradise|
+| [维斯塔·格洛丽奥萨·佛缇娅](/sibula/vesta.md)|ウェスタ・グロリオサ・フォティア  | 《本能》 ～ ReCoda| Chunithm Paradise|
 
 ![timeline](timeline.jpg "timeline")
 

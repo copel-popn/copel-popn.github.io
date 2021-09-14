@@ -5,8 +5,9 @@
   * [穴户美铃](/relation/misuzu.md)
 
 * [Metaverse](/metaverse/README.md)
-
-
+  * 旧人类战争篇
+    * [艾克雷尔](/metaverse/World-of-Metaverse/eclair.md)
+  * 地上新人篇
 
 * [西比拉精灵记](/sibula/README.md)
 

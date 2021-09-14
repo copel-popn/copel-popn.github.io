@@ -25,13 +25,13 @@ Metaverse本身是一个由电脑空间组成的地方，所以生存于其中�
 
 讲述地球走到穷途末路，人类被自己创造的造物毁灭，从而步入电脑世界的故事。（基本已完结，根据故事背景分歧可以分出两条路线）
 
-| 角色   |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- |
-|艾克雷尔<BR>艾克雷尔·福音   | We Gonna Journey <br> We Gonna Party -Feline Groove Mix- | Chunithm/Chunithm Air | 少数跟随版本追加剧情片段的人物。剧情为一切后续内容的起始。
-|RG-XIII 达因斯雷夫| Contrapasso -inferno- | Chunithm Plus | 曲目先行于游戏收录于OST 《World Of Metaverse》 
-|断绝的破坏神| Devastating Blaster | Chunithm Air Plus| 
-|RG-XXX 提亚马特| TiamaT:F minor | Chunithm Air Plus |
-|拉托娜·海兹| Yume no hajimari | Chunithm Paradise | 该人物剧情的时间点远早于故事开始，算是地上世界篇的分歧点。从中也能看到地上篇部分内容的起因。|
+| 角色   |日文原名|对应乐曲 |初出版本|备注|
+| ----------- | ----------- | ---------- | --------- |  --------- | 
+|[艾克雷尔<BR>艾克雷尔·福音](/World-of-Metaverse/eclair.md)   |エクレール<br> エクレール・エヴァンジール| We Gonna Journey <br> We Gonna Party -Feline Groove Mix- | Chunithm/Chunithm Air | 少数跟随版本追加剧情片段的人物。剧情为一切后续内容的起始。
+|[RG-XIII 达因斯雷夫](/World-of-Metaverse/dainsleif.md)|RG-XIII ダインスレイヴ	| Contrapasso -inferno- | Chunithm Plus | 曲目先行于游戏收录于OST 《World Of Metaverse》 
+|[断绝的破坏神](/World-of-Metaverse/devastate.md)|断絶の破壊神 |Devastating Blaster | Chunithm Air Plus| 
+|[RG-XXX 提亚马特](/World-of-Metaverse/tiamat.md)|RG-XXX ティアマット| TiamaT:F minor | Chunithm Air Plus |
+|[拉托娜](/World-of-Metaverse/latona.md)|ラトーナ・ヘイズ| Yume no hajimari | Chunithm Paradise | 该人物剧情的时间点远早于故事开始，算是地上世界篇的分歧点。从中也能看到地上篇部分内容的起因。|
 
 * * *
 
@@ -44,82 +44,83 @@ Metaverse本身是一个由电脑空间组成的地方，所以生存于其中�
 
 然而，在这一切事件的背后，又有人在默默地看着事态的发展……？
 
-| 角色   |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- |
-| MIR-201 赫卡蒂·贝亚托里斯| Drivessover | Chunithm Star Plus | 
-| MIR-202 阿尔忒弥斯·蕾娜 | Wake up Dreamer | Chunithm Star |
-| MIR-203 塞蕾娜·雪莉露 | Dual Fractal  | Chunithm Star |
-| 统制主 提丰 |BlazinG AIR | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
-| 利希德修茨 | World Vanquisher | Chunithm Star |
-| WISEMAN |macrocosmos | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
-| 远古之蓝 | Twice up Scenery | Chunithm Star | 统治Metaverse的“最古”其中一人。
-| MTA-XXX 潘多拉·涅墨西斯 | Iudicium | Chunithm Star |
-| 格兰雷斯 | 業 -善なる神とこの世の悪について- | Chunithm Star Plus | 游离于该系列之外的外传人物。讲述同步于电脑世界发生的另一个事件。
+| 角色  |日文原名 |对应乐曲 |初出版本| 备注
+| ----------- | ----------- | ---------- | --------- | --------- |
+| MIR-201 赫卡蒂·贝亚托里斯|MIR-201【ヘカティ・ベアトリクス】| Drivessover | Chunithm Star Plus | 
+| MIR-202 阿尔忒弥斯·蕾娜 |MIR-202【アルテミス・レナ】	| Wake up Dreamer | Chunithm Star |
+| MIR-203 塞蕾娜·雪莉露|MIR-203【セレネ・シェリル】 | Dual Fractal  | Chunithm Star |
+| 统制主 提丰|ティフォン |BlazinG AIR | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
+| 利希德修茨|リヒトシュッツェ | World Vanquisher | Chunithm Star |
+| WISEMAN|ワイズマン |macrocosmos | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
+| 探求者 远古之蓝|オールドブルー | Twice up Scenery | Chunithm Star | 统治Metaverse的“最古”其中一人。
+| MTA-XXX 潘多拉·涅墨西斯|MTA-XXX【パンドラネメシス】 | Iudicium | Chunithm Star |
+| 格兰雷斯|グランレイス | 業 -善なる神とこの世の悪について- | Chunithm Star Plus | 游离于该系列之外的外传人物。讲述同步于电脑世界发生的另一个事件。
 
 
 ### 间章-Observe the Metaverse
 
 提丰一战后，Metaverse元气大伤。剩余的“最古”已经无法稳定操纵稳固世界的运营了。而在此期间，数据之海中的某个阴影，也开始了行动……
 
-| 角色   |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- |
-| MDA-01 天狼星| Paqqin | Chunithm Air|
-| MDA-21 轩辕十四 | Supersonic Generation | Chunithm Air Plus |
-| 厄里斯·涅墨西斯 | Surveiller et punir | Chunithm Air
-| 布里兰特| Teriqma| Chunithm
-| 格拉维·诺瓦|Cyberozar|Chunithm
-|修伯利斯 |紅華刑|Chunithm Air
-|安歇尔&西梅翁|Xevel | Chunithm Star Plus
+| 角色  |日文原名 |对应乐曲 |初出版本| 备注
+| ----------- | ----------- | ---------- | --------- | --------- |
+| MDA-01 天狼星|MDA-01【シリウス】| Paqqin | Chunithm Air|
+| MDA-21 轩辕十四 |MDA-21【レグルス】| Supersonic Generation | Chunithm Air Plus |
+| 厄里斯·涅墨西斯|エリスネメシス | Surveiller et punir | Chunithm Air
+| 布里兰特|ブリランテ| Teriqma| Chunithm
+| 格拉维·诺瓦|グラーヴェ・ノーヴァ	|Cyberozar|Chunithm
+|修伯利斯 |シュープリス|紅華刑|Chunithm Air
+|安歇尔&西梅翁|アシェル＆シメオン|Xevel | Chunithm Star Plus
 
 
 除以上主线，Metaverse内部还生活着其他各式各样的人类或者程序。虽然同样收录于OST但是无关于主线剧情。
-| 角色   |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- |
+
+| 角色   |日文原名|对应乐曲 |初出版本| 备注
+| ----------- | ----------- | ---------- | --------- | --------- |
 
 
 ### Reconnect the Metaverse
 
 三姐妹打倒提丰之后，经历了一段时间，由旧人类的最终兵器“提亚马特”的碎片分裂构成的恶性程序“混沌七器·涅墨西斯”系列正式袭来！Metaverse已是大厦将倾之势，又有何人能拯救这里呢？
 
-| 角色   |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- |
-| Dr.尤巴尔 | Sqlupp| Chunithm Amazon |
-| Dr.梅德| strelitzia|Chunithm Amazon Plus
-| Dr.缇欧 |暗晦にハイライト|Chunithm Amazon Plus
-| 狄安娜·普利梅拉 |Life|Chunithm Amazon
-| 露娜·诺瓦 |Innocent Truth|Chunithm Amazon
-| 憎恶的战神 阿雷斯 |Climax|Chunithm Amazon Plus
-|哲学主 捷夫提 |電光石火|Chunithm Amazon Plus
-| 裁定者 塞拉菲塔 |Vibrant Verve	|Chunithm Amazon Plus
-| 贝尔泽布特·涅墨西斯 |8-EM|Chunithm Amazon Plus
-| 新约·涅墨西斯 |Killing Rhythm|Chunithm Amazon Plus
+| 角色   |日文原名|对应乐曲 |初出版本| 备注
+| ----------- | ----------- | ---------- | --------- | --------- |
+| Dr.尤巴尔·霍尔米斯达斯|Dr.ユバル・ホルミスダス | Sqlupp| Chunithm Amazon |
+| Dr.梅德·巴萨奈德尔|Dr.メト・バサナテル| strelitzia|Chunithm Amazon Plus
+| Dr.缇欧·梅尔基奥尔|Dr.テオ・メルキオル|暗晦にハイライト|Chunithm Amazon Plus
+| XES-72 狄安娜·普利梅拉|XES-72【ディアナ・プリメーラ】 |Life|Chunithm Amazon
+| XGN-72 露娜·诺瓦|XGN-72【ルナ・ノーヴァ】 |Innocent Truth|Chunithm Amazon
+| 憎恶的战神 阿雷斯|憎悪の戦神 アレウス |Climax|Chunithm Amazon Plus
+|哲学主 捷夫提|哲学主 ジェフティ |電光石火|Chunithm Amazon Plus
+| 裁定者 塞拉菲塔 |裁定者 セラフィータ|Vibrant Verve	|Chunithm Amazon Plus
+| 贝尔泽布特·涅墨西斯|ヴェルゼビュートネメシス |8-EM|Chunithm Amazon Plus
+| 新约·涅墨西斯|テスタメントネメシス |Killing Rhythm|Chunithm Amazon Plus
 
 ### Revive the Metaverse
 
 经历了第一次涅墨西斯战争之后，涅墨西斯的势力再度袭来。Metaverse世界终将走向灭亡，而新的世界即将诞生。光暗交汇之际，人类和程序的战争最后将走向何方？
 
-| 角色   |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- |
-| NEO | Infantoon Fantasy | Chunithm|
-| 金恩·载因 | Nijirate Fanatics | Chunithm Crystal|
-| 塞蕾·海兹 |ヴンダーカンマー| Chunithm Crystal 
-| 埋葬者 斯托姆 |Fidget Dancer |Chunithm Crystal
-|再生者 迪安 |Megameteor| Chunithm Crystal
-|黄泉的盟主 尼加尔 |Trrricksters!!|Chunithm Crystal|
-|远古破坏者 贝格尔米尔| The Metaverse -First story of the SeelischTact-| Chunithm Crystal Plus
+| 角色   |日文原名|对应乐曲 |初出版本| 备注
+| ----------- | ----------- | ---------- | --------- | --------- |
+| NEO |NEO| Infantoon Fantasy | Chunithm|
+| 金恩·载因|ジーン・ザイン	 | Nijirate Fanatics | Chunithm Crystal|
+| 塞蕾·海兹 |セーレ・ヘイズ|ヴンダーカンマー| Chunithm Crystal 
+| 埋葬者 斯托姆|埋葬者 ストゥム |Fidget Dancer |Chunithm Crystal
+|再生者 迪安|再生者 ディアン |Megameteor| Chunithm Crystal
+|黄泉的盟主 尼加尔 |黄泉の盟主 ネルガル|Trrricksters!!|Chunithm Crystal|
+|远古破坏者 贝格尔米尔|古き破壊者 ベルゲルミル| The Metaverse -First story of the SeelischTact-| Chunithm Crystal Plus
 
 
 ### 新世界 
 
 光暗合一，新的世界最终诞生。但是，在这片重获新生的大地上，仍旧有过去的亡灵没有消灭。一场新的冒险在两名带着宿命的少女间展开了……
 
-| 角色   |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- |
-| 塞拉菲娜·维斯·阿尼玛特 |モノクロトワイライト	|Chunithm Crystal Plus
-|塞夏特·夏福特利希 |U ARE| Chunithm Crystal Plus
-|远古的混沌巨人|ハードコア・シンドローム| Chunithm Crystal Plus
-|憎恶之源的古龙|Hainuwele| Chunithm Crystal Plus
-|导师 米姆·米库拉| 宿星審判| Chunithm Crystal Plus
+| 角色  |日文原名 |对应乐曲 |初出版本| 备注
+| ----------- | ----------- | ---------- | --------- | --------- |
+| 塞拉菲娜·维斯·阿尼玛特|セラフィナ・ヴィス・アニマート |モノクロトワイライト	|Chunithm Crystal Plus
+|塞夏特·夏福特利希|セシャト・シャフトリッヒ |U ARE| Chunithm Crystal Plus
+|远古的混沌巨人|古き混沌の巨人|ハードコア・シンドローム| Chunithm Crystal Plus
+|憎恶之源的古龙|憎悪の始まりたる古竜|Hainuwele| Chunithm Crystal Plus
+|导师 米姆·米库拉|導師 ミィム・ミクラー| 宿星審判| Chunithm Crystal Plus
 
 
 * * * 
@@ -132,10 +133,10 @@ Metaverse本身是一个由电脑空间组成的地方，所以生存于其中�
 目前连载中。时间基本同步于电脑世界篇。
 
 
-| 角色   |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- |
-|欧米茄·昆提斯|混沌を越えし我らが神聖なる調律主を讃えよ| Chunithm Air Plus |该人物故事以圣经式的文体描述了地上再造的过程。时间点对应旧人类战争结束后。
-|伊泽薇儿 |Last Celebration| Chunithm Paradise|
-|梅尼·特尔塞拉| ANU|Chunithm Paradise |
+| 角色   |日文原名|对应乐曲 |初出版本| 备注
+| ----------- | ----------- | ---------- | --------- | --------- |
+|[奥米加·昆提斯](/Ground-of-Metaverse/omega.md)|オメガ・クィントゥス|混沌を越えし我らが神聖なる調律主を讃えよ| Chunithm Air Plus |该人物故事以圣经式的文体描述了地上再造的过程。时间点对应旧人类战争结束后。
+|伊泽维尔·亚戈鲁修 |イゼヴェル・ヤグルーシュ|Last Celebration| Chunithm Paradise|
+|梅尼·特尔塞拉|メーネ・テルセーラ| ANU|Chunithm Paradise |
 
 
