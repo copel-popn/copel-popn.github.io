@@ -3,6 +3,7 @@
 
   * [奈伊](/relation/NAI.md)
   * [穴户美铃](/relation/misuzu.md)
+  * [御手洗千里](/relation/chisato.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
@@ -11,6 +12,10 @@
     * [断绝的破坏神](/metaverse/World-of-Metaverse/devastate.md)
     * [提亚马特](/metaverse/World-of-Metaverse/tiamat.md)
     * [拉托娜](/metaverse/World-of-Metaverse/latona.md)
+  * 电脑世界篇
+    * Liberate the Metaverse
+      * [MIR-202 阿尔忒弥斯·蕾娜](/metaverse/Liberate-the-Metaverse/MIR202.md)
+
   * 地上新人篇
     * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)
 
