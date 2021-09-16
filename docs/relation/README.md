@@ -8,3 +8,4 @@
 | ----------- | ----------- | ---------- | ---------- |
 | [奈伊](/relation/NAI.md) |ナイ | テリトリーバトル      | Chunithm Paradise|
 |[穴户美铃](/relation/misuzu.md)|宍戸 美鈴| レーイレーイ|Chunithm Crystal|
+|[御手洗千里](/relation/chisato.md)|御手洗　千里（みたらい　ちさと）|ロング・スロー・アライブ| Chunithm Crystal Plus
