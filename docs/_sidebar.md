@@ -4,6 +4,7 @@
   * [奈伊](/relation/NAI.md)
   * [穴户美铃](/relation/misuzu.md)
   * [御手洗千里](/relation/chisato.md)
+  * [三田奈奈子](/relation/nanako.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
