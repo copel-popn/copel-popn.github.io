@@ -16,6 +16,7 @@
   * 电脑世界篇
     * Liberate the Metaverse
       * [MIR-202 阿尔忒弥斯·蕾娜](/metaverse/Liberate-the-Metaverse/MIR202.md)
+      * [远古之蓝](/metaverse/Liberate-the-Metaverse/oldblue.md)
 
   * 地上新人篇
     * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)
