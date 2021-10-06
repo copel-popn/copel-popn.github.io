@@ -1,5 +1,4 @@
-![typhon](/Metaverse/Liberate-the-Metaverse/typhon.png)
-
+![typhon](typhon.png "")
 # 提丰
 
 |角色信息| |
