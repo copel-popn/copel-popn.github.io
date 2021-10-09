@@ -48,12 +48,12 @@ Metaverse本身是一个由电脑空间组成的地方，所以生存于其中�
 | 角色  |日文原名 |对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
 | MIR-201 赫卡蒂·贝亚托里斯|MIR-201【ヘカティ・ベアトリクス】| Drivessover | Chunithm Star Plus | 
-| MIR-202 阿尔忒弥斯·蕾娜 |MIR-202【アルテミス・レナ】	| Wake up Dreamer | Chunithm Star |
-| MIR-203 塞蕾娜·雪莉露|MIR-203【セレネ・シェリル】 | Dual Fractal  | Chunithm Star |
-| 统制主 提丰|ティフォン |BlazinG AIR | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
-| 利希德修茨|リヒトシュッツェ | World Vanquisher | Chunithm Star |
+| [MIR-202 阿尔忒弥斯·蕾娜](/metaverse/Liberate-the-Metaverse/MIR202.md) |MIR-202【アルテミス・レナ】	| Wake up Dreamer | Chunithm Star |
+|[ MIR-203 塞蕾娜·雪莉露](/metaverse/Liberate-the-Metaverse/MIR203.md)|MIR-203【セレネ・シェリル】 | Dual Fractal  | Chunithm Star |
+| [统制主 提丰](/metaverse/Liberate-the-Metaverse/typhon.md)|ティフォン |BlazinG AIR | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
+| [利希德修茨](/metaverse/Liberate-the-Metaverse/wv.md)|リヒトシュッツェ | World Vanquisher | Chunithm Star |
 | WISEMAN|ワイズマン |macrocosmos | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
-| 探求者 远古之蓝|オールドブルー | Twice up Scenery | Chunithm Star | 统治Metaverse的“最古”其中一人。
+| [探求者 远古之蓝](/metaverse/Liberate-the-Metaverse/oldblue.md)|オールドブルー | Twice up Scenery | Chunithm Star | 统治Metaverse的“最古”其中一人。
 | MTA-XXX 潘多拉·涅墨西斯|MTA-XXX【パンドラネメシス】 | Iudicium | Chunithm Star |
 | 格兰雷斯|グランレイス | 業 -善なる神とこの世の悪について- | Chunithm Star Plus | 游离于该系列之外的外传人物。讲述同步于电脑世界发生的另一个事件。
 
