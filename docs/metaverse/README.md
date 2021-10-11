@@ -16,7 +16,13 @@ Metaverse本身是一个由电脑空间组成的地方，所以生存于其中�
 
 真人：由旧人类战争被驱逐掉人类之后所诞生的合成人类，前身是战前由企业KHD以不人道实验所开发的机器人经过迭代发展而来。目前担负着为人类再造地球环境的职责，但是由于电脑世界的崩坏，出现了一定的异常。
 
-“最古”：自Metaverse生成，艾克雷尔创世完成后形成的12个程序体。具有最高的权限可以进行管理。
+“最古”：自Metaverse生成，艾克雷尔创世完成后离开，选举形成的12个程序体。具有最高的权限可以进行管理。各自具有不同的职能和能力。根据其设计和能力有着各自的称号
+
+已人物化的有：统制主·提丰、探求者·远古之蓝、调律者·WISEMAN、哲学主·捷夫提、裁定者·塞拉菲塔、再生者·迪安、全天之支配者·雪儿
+
+仍未人物化：斗争主·盖提亚、大地支配者·吉斯库克、确率主·西克扎尔
+
+特殊情况：布利斯利希德、霍尔贝尔格
 
 “涅墨西斯”：由旧人类战争的兵器碎片分裂而成的恶性程序，一共七体。本身具有感染别的程序的能力。目的只有将Metaverse毁灭。
 
@@ -106,6 +112,7 @@ Metaverse本身是一个由电脑空间组成的地方，所以生存于其中�
 | 金恩·载因|ジーン・ザイン	 | Nijirate Fanatics | Chunithm Crystal|
 | 塞蕾·海兹 |セーレ・ヘイズ|ヴンダーカンマー| Chunithm Crystal 
 | 埋葬者 斯托姆|埋葬者 ストゥム |Fidget Dancer |Chunithm Crystal
+| 全天之支配者 雪儿 | 全天の支配者 シエル |Destination |Chunithm Crystal  
 |再生者 迪安|再生者 ディアン |Megameteor| Chunithm Crystal
 |黄泉的盟主 尼加尔 |黄泉の盟主 ネルガル|Trrricksters!!|Chunithm Crystal|
 |远古破坏者 贝格尔米尔|古き破壊者 ベルゲルミル| The Metaverse -First story of the SeelischTact-| Chunithm Crystal Plus
