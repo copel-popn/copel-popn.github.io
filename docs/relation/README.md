@@ -9,3 +9,5 @@
 | [奈伊](/relation/NAI.md) |ナイ | テリトリーバトル      | Chunithm Paradise|
 |[穴户美铃](/relation/misuzu.md)|宍戸 美鈴| レーイレーイ|Chunithm Crystal|
 |[御手洗千里](/relation/chisato.md)|御手洗　千里（みたらい　ちさと）|ロング・スロー・アライブ| Chunithm Crystal Plus
+|[三田奈奈子](/relation/nanako.md)|三田 ナナコ|中学2年生のアンドロイド|Chunithm Amazon Plus
+|[荒场流子](/relation/arako.md)|荒场流子|Invitation|Chunithm
