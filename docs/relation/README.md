@@ -10,4 +10,6 @@
 |[穴户美铃](/relation/misuzu.md)|宍戸 美鈴| レーイレーイ|Chunithm Crystal|
 |[御手洗千里](/relation/chisato.md)|御手洗　千里（みたらい　ちさと）|ロング・スロー・アライブ| Chunithm Crystal Plus
 |[三田奈奈子](/relation/nanako.md)|三田 ナナコ|中学2年生のアンドロイド|Chunithm Amazon Plus
-|[荒场流子](/relation/arako.md)|荒场流子|Invitation|Chunithm
+|[荒场流子](/relation/arako.md)|荒場流子(あらば　るこ)|Invitation|Chunithm
+|[舞园星斗](/relation/seito.md)|舞園　星斗（まいぞの　せいと）|RevolutionGame|Chunithm Air| 
+|[荒场流子/NEW GAME](/relation/arako2.md)|荒場流子(あらば　るこ)|人生攻略☆Tips|Chunithm NEW|

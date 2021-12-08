@@ -6,6 +6,8 @@
   * [御手洗千里](/relation/chisato.md)
   * [三田奈奈子](/relation/nanako.md)
   * [荒场流子](/relation/arako.md)
+  * [舞园星斗](/relation/seito.md)
+  * [荒场流子/NEW GAME](/relation/arako2.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
