@@ -13,3 +13,4 @@
 |[荒场流子](/relation/arako.md)|荒場流子(あらば　るこ)|Invitation|Chunithm
 |[舞园星斗](/relation/seito.md)|舞園　星斗（まいぞの　せいと）|RevolutionGame|Chunithm Air| 
 |[荒场流子/NEW GAME](/relation/arako2.md)|荒場流子(あらば　るこ)|人生攻略☆Tips|Chunithm NEW|
+|[不来方永爱](/relation/toa.md)| 不来方とあ|蜘蛛の糸| Chunithm NEW
