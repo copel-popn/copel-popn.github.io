@@ -30,7 +30,8 @@
   * 地上新人篇
     * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)
 
-
+* [愚民大陆](/gumin/README.md)
+  * [八咫乌钢太郎](/gumin/koutaro.md)
 
 * [西比拉精灵记](/sibula/README.md)
 
