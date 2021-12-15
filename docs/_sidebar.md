@@ -8,7 +8,8 @@
   * [荒场流子](/relation/arako.md)
   * [舞园星斗](/relation/seito.md)
   * [荒场流子/NEW GAME](/relation/arako2.md)
-  * [不来方永爱](/relation/toa.md)
+  * [不来方永爱](/relation/toa.md) 
+  * [姬月露娜](/relation/luna.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
