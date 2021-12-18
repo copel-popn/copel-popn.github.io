@@ -15,3 +15,4 @@
 |[荒场流子/NEW GAME](/relation/arako2.md)|荒場流子(あらば　るこ)|人生攻略☆Tips|Chunithm NEW|
 |[不来方永爱](/relation/toa.md)| 不来方とあ|蜘蛛の糸| Chunithm NEW
 |[姬月露娜](/relation/luna.md)|姫月 るーな| 再生不能 | Chunithm Paradise Lost
+|[文迪特·让·拉迪奥尔](/relation/vindet.md)|ヴィンデット・ジャン・ラディオール| Tattoo| Chunithm Paradise Lost

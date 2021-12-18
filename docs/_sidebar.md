@@ -10,6 +10,7 @@
   * [荒场流子/NEW GAME](/relation/arako2.md)
   * [不来方永爱](/relation/toa.md) 
   * [姬月露娜](/relation/luna.md)
+  * [文迪特·让·拉迪奥尔](/relation/vindet.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
