@@ -16,3 +16,4 @@
 |[不来方永爱](/relation/toa.md)| 不来方とあ|蜘蛛の糸| Chunithm NEW
 |[姬月露娜](/relation/luna.md)|姫月 るーな| 再生不能 | Chunithm Paradise Lost
 |[文迪特·让·拉迪奥尔](/relation/vindet.md)|ヴィンデット・ジャン・ラディオール| Tattoo| Chunithm Paradise Lost
+|[艾尔莎·冯·奥迪特](/relation/elsa.md)|エルザ・フォン・オーディット|パームカルマ| Chunithm Crystal Plus
