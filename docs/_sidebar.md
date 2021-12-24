@@ -11,6 +11,7 @@
   * [不来方永爱](/relation/toa.md) 
   * [姬月露娜](/relation/luna.md)
   * [文迪特·让·拉迪奥尔](/relation/vindet.md)
+  * [艾尔莎·冯·奥迪特](/relation/elsa.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
