@@ -49,3 +49,7 @@
   * [希斯缇娜](/sibula/sistina.md)
   * [朱娜·菲力克斯](/sibula/juna2.md)
   * [维斯塔](/sibula/vesta.md)
+  * [原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)
+  * [原初的巫女·萨拉基亚](/sibula/saragia.md)
+  * [原初的巫女·艾薇尼亚斯](/sibula/avenis.md)
+  * [原初的巫女·梅薇](/sibula/merve.md)
