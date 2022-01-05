@@ -27,7 +27,7 @@ Paradise Ep2推出的角色和剧情为Crystal Ep2的前传内容。对应的宣
 |原初的巫女·艾薇尼亚斯|原初の巫女アヴェニアス|《自戒》 ～ Paganelope | Chunithm NEW
 |[原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)|原初の巫女テルスウラス|《紀律》 ～ As One| Chunithm NEW
 |原初的巫女·梅薇|原初の巫女メーヴェ|《種子》 ～ Set You Free| Chunithm NEW
-|原初的巫女·萨拉基亚|原初の巫女サラキア|《偏愛》 ～ Shattered Memories| Chunithm NEW
+|[原初的巫女·萨拉基亚](saragia.md)|原初の巫女サラキア|《偏愛》 ～ Shattered Memories| Chunithm NEW
 
 ![timeline](timeline.jpg "timeline")
 
