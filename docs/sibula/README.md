@@ -24,11 +24,10 @@ Paradise Ep2推出的角色和剧情为Crystal Ep2的前传内容。对应的宣
 | [希斯缇娜·梅薇](/sibula/sistina.md) |システィーナ・メーヴェ |《信仰》 ～ Eudaimonia| Chunithm Paradise|
 |[朱娜·菲利克斯](/sibula/juna2.md)|ジュナ・フェリクス|《選別》 ～ Refuge|Chunithm Paradise|
 | [维斯塔·格洛丽奥萨·佛缇娅](/sibula/vesta.md)|ウェスタ・グロリオサ・フォティア  | 《本能》 ～ ReCoda| Chunithm Paradise|
-|原初的巫女·艾薇尼亚斯|原初の巫女アヴェニアス|《自戒》 ～ Paganelope | Chunithm NEW
+|[原初的巫女·艾薇尼亚斯](/sibula/avenis.md)|原初の巫女アヴェニアス|《自戒》 ～ Paganelope | Chunithm NEW
 |[原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)|原初の巫女テルスウラス|《紀律》 ～ As One| Chunithm NEW
-|原初的巫女·梅薇|原初の巫女メーヴェ|《種子》 ～ Set You Free| Chunithm NEW
-|[原初的巫女·萨拉基亚](saragia.md)|原初の巫女サラキア|《偏愛》 ～ Shattered Memories| Chunithm NEW
+|[原初的巫女·梅薇](/sibula/mever.md)|原初の巫女メーヴェ|《種子》 ～ Set You Free| Chunithm NEW
+|[原初的巫女·萨拉基亚](/sibula/saragia.md)|原初の巫女サラキア|《偏愛》 ～ Shattered Memories| Chunithm NEW
 
 ![timeline](timeline.jpg "timeline")
-
 

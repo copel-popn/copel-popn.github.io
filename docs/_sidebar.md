@@ -52,4 +52,4 @@
   * [原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)
   * [原初的巫女·萨拉基亚](/sibula/saragia.md)
   * [原初的巫女·艾薇尼亚斯](/sibula/avenis.md)
-  * [原初的巫女·梅薇](/sibula/merve.md)
+  * [原初的巫女·梅薇](/sibula/mever.md)
