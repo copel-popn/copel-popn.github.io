@@ -29,6 +29,8 @@
       * [提丰](/metaverse/Liberate-the-Metaverse/typhon.md)
 	  * [MIR-203 塞蕾娜·雪莉露](/metaverse/Liberate-the-Metaverse/MIR203.md)
 	  * [MIR-201 赫卡蒂·贝亚托里斯](/metaverse/Liberate-the-Metaverse/MIR201.md)
+    * Observe the Metaverse
+      * [MDA-01 天狼星](/metaverse/Observe-the-Metaverse/MDA01.md)
 
   * 地上新人篇
     * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)

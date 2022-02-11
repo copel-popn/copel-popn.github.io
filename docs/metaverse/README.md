@@ -97,14 +97,22 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 
 | 角色  |日文原名 |对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
-| MDA-01 天狼星|MDA-01【シリウス】| Paqqin | Chunithm Air|
+| [MDA-01 天狼星](/metaverse/Observe-the-Metaverse/MDA01.md)|MDA-01【シリウス】| Paqqin | Chunithm Air|
 | MDA-21 轩辕十四 |MDA-21【レグルス】| Supersonic Generation | Chunithm Air Plus |
-| 厄里斯·涅墨西斯|エリスネメシス | Surveiller et punir | Chunithm Air
-| 布里兰特|ブリランテ| Teriqma| Chunithm
-| 格拉维·诺瓦|グラーヴェ・ノーヴァ	|Cyberozar|Chunithm
-|修伯利斯 |シュープリス|紅華刑|Chunithm Air
-|安歇尔&西梅翁|アシェル＆シメオン|Xevel | Chunithm Star Plus
+| 厄里斯·涅墨西斯|エリスネメシス | Surveiller et punir | Chunithm Air| 该角色的剧情为暗线，各个章节牵涉到多名角色的故事内幕。
+|修伯利斯 |シュープリス|紅華刑|Chunithm Air|
+|安歇尔&西梅翁|アシェル＆シメオン|Xevel | Chunithm Star Plus|该角色剧情独立与其他人物所在的时间点，具体发生时间不明。
 
+### 间章2——ES计划
+
+两名角色与Reconnect the Metaverse有直接关联。
+
+虽然收录于《Observe the Metaverse》中，但是相对应的角色关联剧情直到后续章节才被揭晓。由于编写时间甚早，会有一定程度的出入。
+
+| 角色  |日文原名 |对应乐曲 |初出版本| 备注
+| ----------- | ----------- | ---------- | --------- | --------- |
+| 布里兰特|ブリランテ| Teriqma| Chunithm|
+| 格拉维·诺瓦|グラーヴェ・ノーヴァ	|Cyberozar|Chunithm|
 
 除以上主线，Metaverse内部还生活着其他各式各样的人类或者程序。虽然同样收录于OST但是无关于主线剧情。
 
