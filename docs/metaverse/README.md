@@ -95,15 +95,17 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 
 提丰一战后，Metaverse元气大伤。剩余的“最古”已经无法稳定操纵稳固世界的运营了。而在此期间，数据之海中的某个阴影，也开始了行动……
 
+该章节的人物由于成文时间较早，大多数时间线比较零散，所以剧情比较独立，部分甚至直到后续版本才有引用和回收伏笔。
+
 | 角色  |日文原名 |对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
 | [MDA-01 天狼星](/metaverse/Observe-the-Metaverse/MDA01.md)|MDA-01【シリウス】| Paqqin | Chunithm Air|
 | [MDA-21 轩辕十四](/metaverse/Observe-the-Metaverse/MDA21.md) |MDA-21【レグルス】| Supersonic Generation | Chunithm Air Plus |
 | 厄里斯·涅墨西斯|エリスネメシス | Surveiller et punir | Chunithm Air| 该角色的剧情为暗线，各个章节牵涉到多名角色的故事内幕。
-|修伯利斯 |シュープリス|紅華刑|Chunithm Air|
+|修伯利斯 |シュープリス|紅華刑|Chunithm Air|该人物的故事属于起源故事，时间线早于天狼星的故事线。
 |安歇尔&西梅翁|アシェル＆シメオン|Xevel | Chunithm Star Plus|该角色剧情独立与其他人物所在的时间点，具体发生时间不明。
 
-### 间章2——ES计划
+### 间章2——ES/GN计划
 
 两名角色与Reconnect the Metaverse有直接关联。
 
