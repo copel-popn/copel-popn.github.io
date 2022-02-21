@@ -32,6 +32,7 @@
     * Observe the Metaverse
       * [MDA-01 天狼星](/metaverse/Observe-the-Metaverse/MDA01.md)
       * [MDA-21 轩辕十四](/metaverse/Observe-the-Metaverse/MDA21.md)
+      * [修伯利斯](/metaverse/Observe-the-Metaverse/supplice.md)
 
   * 地上新人篇
     * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)

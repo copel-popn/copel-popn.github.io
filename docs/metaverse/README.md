@@ -102,7 +102,7 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 | [MDA-01 天狼星](/metaverse/Observe-the-Metaverse/MDA01.md)|MDA-01【シリウス】| Paqqin | Chunithm Air|
 | [MDA-21 轩辕十四](/metaverse/Observe-the-Metaverse/MDA21.md) |MDA-21【レグルス】| Supersonic Generation | Chunithm Air Plus |
 | 厄里斯·涅墨西斯|エリスネメシス | Surveiller et punir | Chunithm Air| 该角色的剧情为暗线，各个章节牵涉到多名角色的故事内幕。
-|修伯利斯 |シュープリス|紅華刑|Chunithm Air|该人物的故事属于起源故事，时间线早于天狼星的故事线。
+| [修伯利斯](/metaverse/Observe-the-Metaverse/supplice.md) |シュープリス|紅華刑|Chunithm Air|该人物的故事属于起源故事，时间线早于天狼星的故事线。
 |安歇尔&西梅翁|アシェル＆シメオン|Xevel | Chunithm Star Plus|该角色剧情独立与其他人物所在的时间点，具体发生时间不明。
 
 ### 间章2——ES/GN计划
