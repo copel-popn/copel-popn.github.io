@@ -17,3 +17,4 @@
 |[姬月露娜](/relation/luna.md)|姫月 るーな| 再生不能 | Chunithm Paradise Lost
 |[文迪特·让·拉迪奥尔](/relation/vindet.md)|ヴィンデット・ジャン・ラディオール| Tattoo| Chunithm Paradise Lost
 |[艾尔莎·冯·奥迪特](/relation/elsa.md)|エルザ・フォン・オーディット|パームカルマ| Chunithm Crystal Plus
+|[尤古多拉希尔](/relation/yggdrasil.md)|ユグドラシル|Blazing Break|CHUNITHM NEW
