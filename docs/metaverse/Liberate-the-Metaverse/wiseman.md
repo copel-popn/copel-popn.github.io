@@ -17,7 +17,7 @@ Episode 4对应的人物剧情为MTA-XXX 潘多拉·涅墨西斯。
 
 Episode 5和10对应[三姐妹剧情。](/metaverse/Liberate-the-Metaverse/MIR202.md)
 
-Episode 6到8对应[利希德修茨剧情。] (/metaverse/Liberate-the-Metaverse/wv.md)
+Episode 6到8对应[利希德修茨剧情。](/metaverse/Liberate-the-Metaverse/wv.md)
 
 
 ## Episode 1 SPEC:WISEMAN
