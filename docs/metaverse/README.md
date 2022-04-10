@@ -87,7 +87,7 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 | [利希德修茨](/metaverse/Liberate-the-Metaverse/wv.md)|リヒトシュッツェ | World Vanquisher | Chunithm Star |
 | [WISEMAN](/metaverse/Liberate-the-Metaverse/wiseman.md)|ワイズマン |macrocosmos | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
 | [探求者 远古之蓝](/metaverse/Liberate-the-Metaverse/oldblue.md)|オールドブルー | Twice up Scenery | Chunithm Star | 统治Metaverse的“最古”其中一人。
-| MTA-XXX 潘多拉·涅墨西斯|MTA-XXX【パンドラネメシス】 | Iudicium | Chunithm Star |
+| [MTA-XXX 潘多拉·涅墨西斯](/metaverse/Liberate-the-Metaverse/pandora.md)|MTA-XXX【パンドラネメシス】 | Iudicium | Chunithm Star |
 | 格兰雷斯|グランレイス | 業 -善なる神とこの世の悪について- | Chunithm Star Plus | 游离于该系列之外的外传人物。讲述同步于电脑世界发生的另一个事件。
 
 

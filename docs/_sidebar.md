@@ -28,9 +28,10 @@
       * [远古之蓝](/metaverse/Liberate-the-Metaverse/oldblue.md)
       * [利希德修茨](/metaverse/Liberate-the-Metaverse/wv.md)
       * [提丰](/metaverse/Liberate-the-Metaverse/typhon.md)
-	  * [MIR-203 塞蕾娜·雪莉露](/metaverse/Liberate-the-Metaverse/MIR203.md)
-	  * [MIR-201 赫卡蒂·贝亚托里斯](/metaverse/Liberate-the-Metaverse/MIR201.md)
-    *  [WISEMAN](/metaverse/Liberate-the-Metaverse/wiseman.md)
+	    * [MIR-203 塞蕾娜·雪莉露](/metaverse/Liberate-the-Metaverse/MIR203.md)
+	    * [MIR-201 赫卡蒂·贝亚托里斯](/metaverse/Liberate-the-Metaverse/MIR201.md)
+      * [WISEMAN](/metaverse/Liberate-the-Metaverse/wiseman.md)
+      * [MTA-XXX 潘多拉·涅墨西斯](/metaverse/Liberate-the-Metaverse/pandora.md)
     * Observe the Metaverse
       * [MDA-01 天狼星](/metaverse/Observe-the-Metaverse/MDA01.md)
       * [MDA-21 轩辕十四](/metaverse/Observe-the-Metaverse/MDA21.md)
