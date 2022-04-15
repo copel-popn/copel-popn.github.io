@@ -114,7 +114,7 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 | 角色  |日文原名 |对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
 | [辉煌号](/metaverse/Observe-the-Metaverse/brillante.md)|ブリランテ| Teriqma| Chunithm|
-| 格拉维·诺瓦|グラーヴェ・ノーヴァ	|Cyberozar|Chunithm PLUS|
+| [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)|グラーヴェ・ノーヴァ	|Cyberozar|Chunithm PLUS|
 
 除以上主线，Metaverse内部还生活着其他各式各样的人类或者程序。虽然同样收录于OST但是无关于主线剧情。
 
