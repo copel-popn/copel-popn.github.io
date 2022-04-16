@@ -13,6 +13,7 @@
   * [文迪特·让·拉迪奥尔](/relation/vindet.md)
   * [艾尔莎·冯·奥迪特](/relation/elsa.md)
   * [尤古多拉希尔](/relation/yggdrasil.md)
+  * [黑须纮](/relation/kurosu.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
