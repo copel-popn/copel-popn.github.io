@@ -40,6 +40,7 @@
       * [厄里斯·涅墨西斯](/metaverse/Observe-the-Metaverse/elise.md)
       * [辉煌号](/metaverse/Observe-the-Metaverse/brillante.md)
       * [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)
+    * [Reconnect the Metaverse](/metaverse/Reconnect-the-Metaverse/README.md)
 
   * 地上新人篇
     * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)
