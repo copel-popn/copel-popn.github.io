@@ -118,9 +118,6 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 
 除以上主线，Metaverse内部还生活着其他各式各样的人类或者程序。虽然同样收录于OST但是无关于主线剧情。
 
-| 角色   |日文原名|对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-
 
 ### Reconnect the Metaverse
 
@@ -131,7 +128,7 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 | Dr.尤巴尔·霍尔米斯达斯|Dr.ユバル・ホルミスダス | Sqlupp| Chunithm Amazon |
 | Dr.梅德·巴萨奈德尔|Dr.メト・バサナテル| strelitzia|Chunithm Amazon Plus
 | Dr.缇欧·梅尔基奥尔|Dr.テオ・メルキオル|暗晦にハイライト|Chunithm Amazon Plus
-| XES-72 狄安娜·普利梅拉|XES-72【ディアナ・プリメーラ】 |Life|Chunithm Amazon
+| [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)|XES-72【ディアナ・プリメーラ】 |Life|Chunithm Amazon
 | XGN-72 露娜·诺瓦|XGN-72【ルナ・ノーヴァ】 |Innocent Truth|Chunithm Amazon
 | 憎恶的战神 阿雷斯|憎悪の戦神 アレウス |Climax|Chunithm Amazon Plus
 |哲学主 捷夫提|哲学主 ジェフティ |電光石火|Chunithm Amazon Plus
