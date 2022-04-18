@@ -41,7 +41,7 @@
       * [辉煌号](/metaverse/Observe-the-Metaverse/brillante.md)
       * [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)
     * [Reconnect the Metaverse](/metaverse/Reconnect-the-Metaverse/README.md)
-      *[XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)
+      * [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)
 
 
   * 地上新人篇
