@@ -42,6 +42,7 @@
       * [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)
     * [Reconnect the Metaverse](/metaverse/Reconnect-the-Metaverse/README.md)
       * [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)
+      * [XGN-72 露娜·诺瓦](/metaverse/Reconnect-the-Metaverse/luna.md)
 
 
   * 地上新人篇
