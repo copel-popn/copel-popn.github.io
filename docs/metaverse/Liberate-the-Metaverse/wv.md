@@ -11,6 +11,7 @@
 | 对应曲   |World Vanquisher   |
 | 初出   | Chunithm Star      |
 
+注：角色名“利希德修茨”语源为德语“Richtschütze”。意思为“炮手”。
 
 ## Episode 1 利希德修茨
 
