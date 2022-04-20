@@ -14,6 +14,7 @@
   * [艾尔莎·冯·奥迪特](/relation/elsa.md)
   * [尤古多拉希尔](/relation/yggdrasil.md)
   * [黑须纮](/relation/kurosu.md)
+  * [水户 雫](/relation/shizuku.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇

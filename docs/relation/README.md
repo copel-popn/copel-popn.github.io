@@ -19,3 +19,4 @@
 |[艾尔莎·冯·奥迪特](/relation/elsa.md)|エルザ・フォン・オーディット|パームカルマ| Chunithm Crystal Plus
 |[尤古多拉希尔](/relation/yggdrasil.md)|ユグドラシル|Blazing Break|CHUNITHM NEW
 |[黑须纮](/relation/kurosu.md)|黑须 纮（くろす　ひろ）  |パズルリボン|CHUNITHM NEW PLUS
+|[水户 雫](/relation/shizuku.md)|水户 雫|レイニーカラー・ウォーターカラー |CHUNITHM PARADISE LOST
