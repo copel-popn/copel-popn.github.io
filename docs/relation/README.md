@@ -20,3 +20,5 @@
 |[尤古多拉希尔](/relation/yggdrasil.md)|ユグドラシル|Blazing Break|CHUNITHM NEW
 |[黑须纮](/relation/kurosu.md)|黑须 纮（くろす　ひろ）  |パズルリボン|CHUNITHM NEW PLUS
 |[水户 雫](/relation/shizuku.md)|水户 雫|レイニーカラー・ウォーターカラー |CHUNITHM PARADISE LOST
+|[丽丽爱丽丝·秋水仙](/relation/colchicum.md)|リリアリス･コルチカム|玩具狂奏曲 -終焉-<BR>アナタニナルノ|Chunithm Air
+|[HAR-女主角-09型“涅瑞达”](/relation/har09.md)|HAR-ヒロイン09【ネレイダム】|Rendezvous<BR>愛のシンギュラリティ|Chunithm Star
