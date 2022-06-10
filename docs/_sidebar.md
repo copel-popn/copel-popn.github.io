@@ -46,10 +46,17 @@
     * [Reconnect the Metaverse](/metaverse/Reconnect-the-Metaverse/README.md)
       * [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)
       * [XGN-72 露娜·诺瓦](/metaverse/Reconnect-the-Metaverse/luna.md)
+      * [裁定者 塞拉菲塔](/metaverse/Reconnect-the-Metaverse/serafita.md)
+      * [憎恶的战神·阿雷斯](/metaverse/Reconnect-the-Metaverse/ares.md)
 
+
+      
 
   * 地上新人篇
     * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)
+
+* [Genesis of Destiny](/genesis/README.md)
+  * [暴虐的基泽库尔](/genesis/gizegul.md)
 
 * [愚民大陆](/gumin/README.md)
   * [八咫乌钢太郎](/gumin/koutaro.md)

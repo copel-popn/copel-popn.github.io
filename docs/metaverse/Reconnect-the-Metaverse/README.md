@@ -23,7 +23,7 @@
 |头像| 角色   |日文原名|备注|
 | ----------- | ----------- | ----------- | ---------- | 
 |![jehuti](jehuti1.png "")|哲学主 捷夫提|哲学主 ジェフティ |
-|![serafita](serafita1.png "")| 裁定者 塞拉菲塔 |裁定者 セラフィータ
+|![serafita](serafita1.png "")| [裁定者 塞拉菲塔](/metaverse/Reconnect-the-Metaverse/serafita.md) |裁定者 セラフィータ
 |![wiseman](Wiseman1.png "")| [WISEMAN](/metaverse/Liberate-the-Metaverse/wiseman.md)|ワイズマン |有参与剧情，但人物剧情与此部分无关。
 
 
@@ -31,7 +31,7 @@
 
 |头像| 角色   |日文原名|备注|
 | ----------- | ----------- | ----------- | ---------- | 
-|![ares](ares1.png "")| 憎恶的战神 阿雷斯|憎悪の戦神 アレウス |
+|![ares](ares1.png "")|[憎恶的战神•阿雷斯](/metaverse/Reconnect-the-Metaverse/serafita|憎悪の戦神 アレウス |
 |![velzub](velzub1.png "")| 贝尔泽布特·涅墨西斯|ヴェルゼビュートネメシス 
 |![testament](testament1.png "")| 特斯塔蒙特·涅墨西斯|テスタメントネメシス |
 |![elise](elise1.png "")|厄里斯·涅墨西斯|エリスネメシス |有参与剧情，但人物剧情只有部分有关联。
