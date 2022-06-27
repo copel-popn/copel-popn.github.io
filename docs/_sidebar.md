@@ -57,6 +57,7 @@
 
 * [Genesis of Destiny](/genesis/README.md)
   * [暴虐的基泽库尔](/genesis/gizegul.md)
+  * [EMANON](/genesis/EMANON.md)
 
 * [愚民大陆](/gumin/README.md)
   * [八咫乌钢太郎](/gumin/koutaro.md)

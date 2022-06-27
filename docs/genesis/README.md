@@ -8,4 +8,4 @@
 | 角色   |日文原名|对应乐曲 |初出版本|备注|
 | ----------- | ----------- | ---------- | --------- |  --------- | 
 [暴虐的基泽库尔](/genesis/gizegul.md)|暴虐のギーゼグール|Sparking Revolver|Chunithm STAR PLUS
-EMANON|EMANON| Reverberate|CHUNITHM NEW PLUS
+[EMANON](/genesis/EMANON.md)|EMANON| Reverberate|CHUNITHM NEW PLUS
