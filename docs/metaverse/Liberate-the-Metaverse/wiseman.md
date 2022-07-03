@@ -21,7 +21,7 @@ Episode 6到8对应[利希德修茨剧情。](/metaverse/Liberate-the-Metaverse/
 
 
 ## Episode 1 SPEC:WISEMAN
-> 我的名字是WISEMAN。虽然曾为“最古”的医院，但是我对提丰的做法有着疑问，并且离开了他。
+> 我的名字是WISEMAN。虽然曾为“最古”的一员，但是我对提丰的做法有着疑问，最后选择离开了他。
 
 人类的摇篮，永久乐土Metaverse。在管理着Metaverse的神祖·艾克雷尔消失之后，诞生不久的乐园需要新的统治者进行管理。
 
