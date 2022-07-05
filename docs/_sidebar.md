@@ -48,6 +48,7 @@
       * [XGN-72 露娜·诺瓦](/metaverse/Reconnect-the-Metaverse/luna.md)
       * [裁定者 塞拉菲塔](/metaverse/Reconnect-the-Metaverse/serafita.md)
       * [憎恶的战神·阿雷斯](/metaverse/Reconnect-the-Metaverse/ares.md)
+      * [哲学主 捷夫提](/metaverse/Reconnect-the-Metaverse/jehuti.md)
 
 
       

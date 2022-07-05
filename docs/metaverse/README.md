@@ -129,9 +129,9 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 | Dr.梅德·巴萨奈德尔|Dr.メト・バサナテル| strelitzia|Chunithm Amazon Plus
 | Dr.缇欧·梅尔基奥尔|Dr.テオ・メルキオル|暗晦にハイライト|Chunithm Amazon Plus
 | [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)|XES-72【ディアナ・プリメーラ】 |Life|Chunithm Amazon
-| XGN-72 露娜·诺瓦|XGN-72【ルナ・ノーヴァ】 |Innocent Truth|Chunithm Amazon
+| [XGN-72 露娜·诺瓦](/metaverse/Reconnect-the-Metaverse/luna.md)|XGN-72【ルナ・ノーヴァ】 |Innocent Truth|Chunithm Amazon
 | [憎恶的战神·阿雷斯](/metaverse/Reconnect-the-Metaverse/ares.md) |憎悪の戦神 アレウス |Climax|Chunithm Amazon Plus
-|哲学主 捷夫提|哲学主 ジェフティ |電光石火|Chunithm Amazon Plus
+|[哲学主 捷夫提](/metaverse/Reconnect-the-Metaverse/jehuti.md)|哲学主 ジェフティ |電光石火|Chunithm Amazon Plus
 | [裁定者 塞拉菲塔](/metaverse/Reconnect-the-Metaverse/serafita.md) |裁定者 セラフィータ|Vibrant Verve	|Chunithm Amazon Plus
 | 贝尔泽布特·涅墨西斯|ヴェルゼビュートネメシス |8-EM|Chunithm Amazon Plus
 | 泰斯塔蒙特·涅墨西斯|テスタメントネメシス |Killing Rhythm|Chunithm Amazon Plus
