@@ -41,7 +41,7 @@
       * [MDA-21 轩辕十四](/metaverse/Observe-the-Metaverse/MDA21.md)
       * [修伯利斯](/metaverse/Observe-the-Metaverse/supplice.md)
       * [厄里斯·涅墨西斯](/metaverse/Observe-the-Metaverse/elise.md)
-      * [辉煌号](/metaverse/Observe-the-Metaverse/brillante.md)
+      * [布里兰特](/metaverse/Observe-the-Metaverse/brillante.md)
       * [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)
     * [Reconnect the Metaverse](/metaverse/Reconnect-the-Metaverse/README.md)
       * [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)
