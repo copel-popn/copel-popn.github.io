@@ -105,15 +105,18 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 | [修伯利斯](/metaverse/Observe-the-Metaverse/supplice.md) |シュープリス|紅華刑|Chunithm Air|该人物的故事属于起源故事，时间线早于天狼星的故事线。
 |安歇尔&西梅翁|アシェル＆シメオン|Xevel | Chunithm Star Plus|该角色剧情独立与其他人物所在的时间点，具体发生时间不明。
 
-### 间章2——ES/GN计划
+### 间章2——ES计划
 
 两名角色与Reconnect the Metaverse有直接关联。
+
+ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做出拥有强大的战斗能力，以及探查能力，以及能够在危急关头对应战况‘进化’的系统的程序进行的程序开发计划。
+其计划的成果对应了下面的两个人物。
 
 虽然收录于《Observe the Metaverse》中，但是相对应的角色关联剧情直到后续章节才被揭晓。由于编写时间甚早，会有一定程度的出入。
 
 | 角色  |日文原名 |对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
-| [辉煌号](/metaverse/Observe-the-Metaverse/brillante.md)|ブリランテ| Teriqma| Chunithm|
+| [布里兰特](/metaverse/Observe-the-Metaverse/brillante.md)|ブリランテ| Teriqma| Chunithm|
 | [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)|グラーヴェ・ノーヴァ	|Cyberozar|Chunithm PLUS|
 
 除以上主线，Metaverse内部还生活着其他各式各样的人类或者程序。虽然同样收录于OST但是无关于主线剧情。
@@ -125,7 +128,7 @@ Metaverse:是由2015年由人类所提倡的，运用量子运算技术配合环
 
 | 角色   |日文原名|对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
-| Dr.尤巴尔·霍尔米斯达斯|Dr.ユバル・ホルミスダス | Sqlupp| Chunithm Amazon |
+| [Dr.尤巴尔·霍尔米斯达斯](/metaverse/Reconnect-the-Metaverse/uval.md)|Dr.ユバル・ホルミスダス | Sqlupp| Chunithm Amazon |
 | Dr.梅德·巴萨奈德尔|Dr.メト・バサナテル| strelitzia|Chunithm Amazon Plus
 | Dr.缇欧·梅尔基奥尔|Dr.テオ・メルキオル|暗晦にハイライト|Chunithm Amazon Plus
 | [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)|XES-72【ディアナ・プリメーラ】 |Life|Chunithm Amazon
