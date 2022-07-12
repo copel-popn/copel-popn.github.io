@@ -50,6 +50,7 @@
       * [憎恶的战神·阿雷斯](/metaverse/Reconnect-the-Metaverse/ares.md)
       * [哲学主 捷夫提](/metaverse/Reconnect-the-Metaverse/jehuti.md)
       * [Dr.尤巴尔·霍尔米斯达斯](/metaverse/Reconnect-the-Metaverse/uval.md)
+      * [Dr.梅德·巴萨奈德尔](/metaverse/Reconnect-the-Metaverse/med.md)
 
 
       

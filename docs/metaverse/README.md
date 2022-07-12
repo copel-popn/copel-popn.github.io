@@ -129,7 +129,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 | 角色   |日文原名|对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
 | [Dr.尤巴尔·霍尔米斯达斯](/metaverse/Reconnect-the-Metaverse/uval.md)|Dr.ユバル・ホルミスダス | Sqlupp| Chunithm Amazon |
-| Dr.梅德·巴萨奈德尔|Dr.メト・バサナテル| strelitzia|Chunithm Amazon Plus
+| [Dr.梅德·巴萨奈德尔](/metaverse/Reconnect-the-Metaverse/med.md)|Dr.メト・バサナテル| strelitzia|Chunithm Amazon Plus
 | Dr.缇欧·梅尔基奥尔|Dr.テオ・メルキオル|暗晦にハイライト|Chunithm Amazon Plus
 | [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)|XES-72【ディアナ・プリメーラ】 |Life|Chunithm Amazon
 | [XGN-72 露娜·诺瓦](/metaverse/Reconnect-the-Metaverse/luna.md)|XGN-72【ルナ・ノーヴァ】 |Innocent Truth|Chunithm Amazon
