@@ -51,6 +51,7 @@
       * [哲学主 捷夫提](/metaverse/Reconnect-the-Metaverse/jehuti.md)
       * [Dr.尤巴尔·霍尔米斯达斯](/metaverse/Reconnect-the-Metaverse/uval.md)
       * [Dr.梅德·巴萨奈德尔](/metaverse/Reconnect-the-Metaverse/med.md)
+      * [Dr.缇欧·梅尔基奥尔](/metaverse/Reconnect-the-Metaverse/teo.md)
 
 
       
