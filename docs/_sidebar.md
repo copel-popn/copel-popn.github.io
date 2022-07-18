@@ -65,6 +65,7 @@
 
 * [愚民大陆](/gumin/README.md)
   * [八咫乌钢太郎](/gumin/koutaro.md)
+  * [鬼蝮尤利娅](/gumin/yuria.md)
 
 * [西比拉精灵记](/sibula/README.md)
 
