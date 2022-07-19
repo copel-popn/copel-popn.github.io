@@ -137,7 +137,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |[哲学主 捷夫提](/metaverse/Reconnect-the-Metaverse/jehuti.md)|哲学主 ジェフティ |電光石火|Chunithm Amazon Plus
 | [裁定者 塞拉菲塔](/metaverse/Reconnect-the-Metaverse/serafita.md) |裁定者 セラフィータ|Vibrant Verve	|Chunithm Amazon Plus
 | 贝尔泽布特·涅墨西斯|ヴェルゼビュートネメシス |8-EM|Chunithm Amazon Plus
-| 泰斯塔蒙特·涅墨西斯|テスタメントネメシス |Killing Rhythm|Chunithm Amazon Plus
+| [泰斯塔蒙特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/testament.md)|テスタメントネメシス |Killing Rhythm|Chunithm Amazon Plus
 
 ### Revive the Metaverse
 

@@ -52,6 +52,7 @@
       * [Dr.尤巴尔·霍尔米斯达斯](/metaverse/Reconnect-the-Metaverse/uval.md)
       * [Dr.梅德·巴萨奈德尔](/metaverse/Reconnect-the-Metaverse/med.md)
       * [Dr.缇欧·梅尔基奥尔](/metaverse/Reconnect-the-Metaverse/teo.md)
+      * [泰斯塔蒙特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/testament.md)
 
 
       
