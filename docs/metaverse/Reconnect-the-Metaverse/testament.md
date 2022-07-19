@@ -5,7 +5,7 @@
 |名称|泰斯塔蒙特
 |年龄|UNKNOWN
 |职业|涅墨西斯程序的王“混沌七器”中的一员
-|对应曲|Killing Rhythm」
+|对应曲|Killing Rhythm
 |初出版本|Chunithm Amazon Plus
 |CV|钉宫理惠
 
