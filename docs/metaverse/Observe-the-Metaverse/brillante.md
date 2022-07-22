@@ -461,3 +461,5 @@ GN73的身上也搭载着FREQ。
 而我，将会见证着他们，踏上全新的土地。
 
 这就是我，ES1的任务。
+
+[（续）](/metaverse/Observe-the-Metaverse/grave.md)
