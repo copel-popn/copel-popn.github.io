@@ -54,6 +54,7 @@
       * [Dr.缇欧·梅尔基奥尔](/metaverse/Reconnect-the-Metaverse/teo.md)
       * [泰斯塔蒙特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/testament.md)
       * [贝尔泽布特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/velzub.md)
+      * [安歇尔&西梅翁](/metaverse/Liberate-the-Metaverse/xevel.md)
 
 
       
