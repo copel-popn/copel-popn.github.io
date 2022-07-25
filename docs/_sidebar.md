@@ -56,6 +56,7 @@
       * [贝尔泽布特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/velzub.md)
     * Revive the Metaverse
        * [安歇尔&西梅翁](/metaverse/Liberate-the-Metaverse/xevel.md)
+       * [NEO](/metaverse/Revive-the-Metaverse/neo.md)
      
 
 
