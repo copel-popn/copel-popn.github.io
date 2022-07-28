@@ -148,7 +148,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 | 角色   |日文原名|对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
 | [NEO](/metaverse/Revive-the-Metaverse/neo.md) |NEO| Infantoon Fantasy | Chunithm|
-| 金恩·载因|ジーン・ザイン	 | Nijirate Fanatics | Chunithm Crystal|
+| [金恩·载因](/metaverse/Revive-the-Metaverse/gene.md)|ジーン・ザイン	 | Nijirate Fanatics | Chunithm Crystal|
 | 塞蕾·海兹 |セーレ・ヘイズ|ヴンダーカンマー| Chunithm Crystal 
 | 埋葬者 斯托姆|埋葬者 ストゥム |Fidget Dancer |Chunithm Crystal
 | 全天之支配者 雪儿 | 全天の支配者 シエル |Destination |Chunithm Crystal  
