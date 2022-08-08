@@ -58,6 +58,7 @@
        * [安歇尔&西梅翁](/metaverse/Liberate-the-Metaverse/xevel.md)
        * [NEO](/metaverse/Revive-the-Metaverse/neo.md)
        * [金恩·载因](/metaverse/Revive-the-Metaverse/gene.md)
+       * [塞蕾·海兹](/metaverse/Revive-the-Metaverse/seele.md)
      
 
 
