@@ -199,7 +199,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 ## 地上真人篇·未来
 
 归还地球的人们终于察觉，眼前的地球并非他们所想的天堂。为了从反叛的真人中守护自己，人们和机械种携手拿起了武器进行了反抗。
-而在某场惊天动地的大战之后又经历了几年，全新的战斗即将打响……
+而在某场惊天动地的大战之后又经历了数年，全新的战斗即将打响……
 
 | 角色   |日文原名|对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
@@ -210,5 +210,10 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 尼尔·尤迪特|ニア・ユーディット|Strange Love|Chunithm New|
 艾萨克·多米南斯VIII|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
 米卡·多米南斯III|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
+丹迪|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
+罗德·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
+马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
+凯南·梅尔威亚斯|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
+
 
  [2]: http://chunithm.noysoft.com/usr/uploads/2022/06/642583952.png
