@@ -9,6 +9,7 @@
 | 职业 | 原“最古”成员/追放者(EXILE)  |
 | 对应曲   |Twice up Scenery |
 | 初出   | Chunithm Star      |
+|CV|杉田智和
 
 ## Episode 1 SPEC：远古之蓝
 > 我的名字是远古之蓝。虽然原本所属于“框架主脑”，不过现在只是个无依无靠的观测者罢了。也就是“追放者”（EXILE）。
