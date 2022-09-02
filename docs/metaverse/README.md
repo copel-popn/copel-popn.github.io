@@ -181,7 +181,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 | 角色   |日文原名|对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
-马尔库特的女神|	マルクトの女神|MALKUTH -The Last Ruler of Terrestrials-|Chunithm NEWPLUS|歌曲名和角色名对应了神秘学中卡巴拉生命之树的第十质点“王国”（Malkuth）。
+[马尔库特的女神](/metaverse/Ground-of-Metaverse/malkuth.md)|	マルクトの女神|MALKUTH -The Last Ruler of Terrestrials-|Chunithm NEWPLUS|歌曲名和角色名对应了神秘学中卡巴拉生命之树的第十质点“王国”（Malkuth）。
 觉醒者巴西安|覚醒者バシアン|DA’AT -The First Seeker of Souls-|Chunithm NEWPLUS|曲名对应了卡巴拉生命之树的隐藏质点“知识”（或称“智慧”，Da'at）
 
 
