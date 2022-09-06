@@ -9,7 +9,7 @@
 |身份 |EXILE（流放程序）
 |所属|框架主脑的代理构成体
 |对应乐曲|ヴンダーカンマー
-|初出|CHUNITHM Crystal Plus
+|初出|CHUNITHM Crystal
 
 
 
