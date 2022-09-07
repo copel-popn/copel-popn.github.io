@@ -8,7 +8,7 @@
 |年龄 |UNKNOWN
 |所属|框架主脑
 |对应乐曲|Destination
-|初出|CHUNITHM Crystal Plus
+|初出|CHUNITHM Crystal
 
 注：プリュイアヴェルス可以拆为pluie和verus两个部分，前者为法语中的降雨之意。后者verus在拉丁语中可以指光。
 
