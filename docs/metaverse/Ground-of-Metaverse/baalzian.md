@@ -11,6 +11,8 @@
 |对应乐曲|DA’AT -The First Seeker of Souls-
 |初出|Chunithm NEWPLUS|
 
+注：本篇故事对应上一篇[“马尔库特的女神”](/metaverse/Ground-of-Metaverse/malkuth.md)，未看过的可以前往前作进行阅读以获得最佳的阅读效果。
+
 ## Episode 1 从神的谎言中苏醒之人
 
 >我陷入了疯狂之中。从神所设计好的未来图景之中。但是，真正疯了的，到底是谁呢……
