@@ -29,6 +29,7 @@
     * [创始者 该隐](/metaverse/World-of-Metaverse/cain.md)
   * 地上新人篇·起源
     * [马尔库特的女神](/metaverse/Ground-of-Metaverse/malkuth.md)
+    * [觉醒者巴西安](/metaverse/Ground-of-Metaverse/baalzian.md)
   * 电脑世界篇
     * Liberate the Metaverse
       * [MIR-202 阿尔忒弥斯·蕾娜](/metaverse/Liberate-the-Metaverse/MIR202.md)
