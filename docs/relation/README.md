@@ -23,3 +23,4 @@
 |[丽丽爱丽丝·秋水仙](/relation/colchicum.md)|リリアリス･コルチカム|玩具狂奏曲 -終焉-<BR>アナタニナルノ|Chunithm Air
 |[HAR-女主角-09型“涅瑞达”](/relation/har09.md)|HAR-ヒロイン09【ネレイダム】|Rendezvous<BR>愛のシンギュラリティ|Chunithm Star
 |[九十九宗治郎](/relation/soujiro.md)|九十九　宗治郎（つくも　そうじろう）|夢路拍子|CHUNITHM NEW(仅国行版本被删除)
+|[黑龟北斗](/relation/hokuto.md)|黒亀　北斗|BOKUTO|Chunithm Air

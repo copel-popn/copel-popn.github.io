@@ -18,6 +18,7 @@
   * [丽丽爱丽丝·秋水仙](/relation/colchicum.md)
   * [HAR-女主角-09型“涅瑞达”](/relation/har09.md)
   * [九十九宗治郎](/relation/soujiro.md)
+  * [黑龟北斗](/relation/hokuto.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
