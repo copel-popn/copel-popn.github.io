@@ -1,4 +1,8 @@
 * [Chunithm Stories Project](README.md)
+* [彩绿](/irodorimidori/README.md)
+  *学园祭篇
+    *[明坂芹菜](/irodorimidori/serina1.md)]
+
 * [心连羁绊](/relation/README.md)
 
   * [奈伊](/relation/NAI.md)
