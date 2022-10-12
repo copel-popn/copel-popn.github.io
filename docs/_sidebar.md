@@ -4,6 +4,7 @@
   * 学园祭篇
     [明坂芹菜](/irodorimidori/serina1.md)
     [御形艾丽希安娜](/irodorimidori/aliciana1.md)
+    [天王洲荠](/irodorimidori/nazuna1.md)
 
 * [心连羁绊](/relation/README.md)
 
