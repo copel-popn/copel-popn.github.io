@@ -10,23 +10,29 @@
 <link rel="stylesheet" href="simple.css">
 <style>
 :root {
-  --theme-color   : rgb(243, 166, 7);
-  --sidebar-background:url(sidebarbg.png);
-  --sidebar-nav-link-color--active:black;
+
+  --mono-shade2:white;
+  --sidebar-background:linear-gradient(90deg, #1964dc 0%, #1634c9 30% 70%, #1964dc 100%);
+  --table-row-odd-background: rgba(181, 185, 187, 0.57);
+  --table-cell-border-color: transparent;
+  --sidebar-nav-link-color--active: cyan;
+}
+
 
 }
+
 </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
+    
       name: '',
       repo: '',
      loadSidebar:true,
      subMaxLevel:2,
-     auto2top: true
-
+     auto2top: true,
      
     }
   </script>
