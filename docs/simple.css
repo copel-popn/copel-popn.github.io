@@ -1,7 +1,7 @@
 
 main::after {
     content: '';
-    background-image: url(SUN_BG.png);
+    background-image: url(https://copel-popn.github.io/SUN_BG2.png);
     background-size: cover;
     position: absolute;
     top: 0;
