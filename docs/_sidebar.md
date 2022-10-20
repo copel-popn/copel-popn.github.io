@@ -6,6 +6,7 @@
     [御形艾丽希安娜](/irodorimidori/aliciana1.md)
     [天王洲荠](/irodorimidori/nazuna1.md)
     [小佛凪](/irodorimidori/nagi1.md)
+    [箱部鸣](/irodorimidori/naru1.md)
 
 * [心连羁绊](/relation/README.md)
 
@@ -84,6 +85,7 @@
 * [Genesis of Destiny](/genesis/README.md)
   * [暴虐的基泽库尔](/genesis/gizegul.md)
   * [EMANON](/genesis/EMANON.md)
+  * [库蒂露卡.普露米耶](/genesis/kudelica.md)
 
 * [愚民大陆](/gumin/README.md)
   * [八咫乌钢太郎](/gumin/koutaro.md)
