@@ -9,3 +9,4 @@
 | ----------- | ----------- | ---------- | --------- |  --------- | 
 [暴虐的基泽库尔](/genesis/gizegul.md)|暴虐のギーゼグール|Sparking Revolver|Chunithm STAR PLUS
 [EMANON](/genesis/EMANON.md)|EMANON| Reverberate|CHUNITHM NEW PLUS
+[库蒂露卡.普露米耶](/genesis/kudelica.md)|クーデルカ・プルミエール|Black Swan Lake| Chunithm Amazon Plus
