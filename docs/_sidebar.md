@@ -75,6 +75,7 @@
        * [塞蕾·海兹](/metaverse/Revive-the-Metaverse/seele.md)
        * [全天之支配者 雪儿](/metaverse/Revive-the-Metaverse/ciel.md)
        * [埋葬者 斯托姆](/metaverse/Revive-the-Metaverse/stum.md)
+       * [再生者 迪安](/metaverse/Revive-the-Metaverse/dyan.md)
      
 
 
