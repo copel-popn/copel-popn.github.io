@@ -168,7 +168,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 | [埋葬者 斯托姆](/metaverse/Revive-the-Metaverse/stum.md)|埋葬者 ストゥム |Fidget Dancer |Chunithm Crystal
 | [全天之支配者 雪儿](/metaverse/Revive-the-Metaverse/ciel.md) | 全天の支配者 シエル |Destination |Chunithm Crystal  
 |[再生者 迪安](/metaverse/Revive-the-Metaverse/dyan.md)|再生者 ディアン |Megameteor| Chunithm Crystal
-|黄泉的盟主 尼加尔 |黄泉の盟主 ネルガル|Trrricksters!!|Chunithm Crystal|
+|[黄泉的盟主 尼加尔](/metaverse/Revive-the-Metaverse/negal.md) |黄泉の盟主 ネルガル|Trrricksters!!|Chunithm Crystal|
 |远古破坏者 贝格尔米尔|古き破壊者 ベルゲルミル| The Metaverse -First story of the SeelischTact-| Chunithm Crystal Plus
 
 
