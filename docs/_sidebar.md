@@ -95,6 +95,7 @@
     * [八咫乌钢太郎](/gumin/koutaro.md)
     * [鬼蝮尤利娅](/gumin/yuria.md)
   * 关西篇
+    * [幡桐小历](/gumin/koyomi.md)
     
 * [西比拉精灵记](/sibula/README.md)
 

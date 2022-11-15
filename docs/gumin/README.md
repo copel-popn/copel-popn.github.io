@@ -13,8 +13,8 @@
 
 | 角色   |日文原名|对应乐曲 |初出版本|
 | ----------- | ----------- | ---------- | ---------- |
-| 八咫乌钢太郎|八咫烏 鋼太郎| オススメ☆♂♀☆でぃすとぴあ | Chunithm Air Plus
-|鬼蝮尤利娅|鬼蝮ユリア|とーきょー全域★アキハバラ？|Chunithm
+|[八咫乌钢太郎](/gumin/koutaro.md)|八咫烏 鋼太郎| オススメ☆♂♀☆でぃすとぴあ | Chunithm Air Plus
+|[鬼蝮尤利娅](/gumin/yuria.md)|鬼蝮ユリア|とーきょー全域★アキハバラ？|Chunithm
 |叶和都丽美|葉和 とれび|おまかせ！！トラブルメイ娘☆とれびちゃん| Chunithm Air Plus
 |观音寺笑瑠| 観音寺 にこる|キラメケ→Shoot it Now!|Chunithm STAR
 |津久井静乃|津久井 シズノ	|Kattobi KEIKYU Rider|Chunithm STAR
@@ -35,4 +35,4 @@
 李梅梅|リー・メイメイ|萌豚♥功夫♥大乱舞|Chunithm Paradise Lost
 土吕城由衣|土呂城 ゆい|Crack|Chunithm NEW
 淀川 沙音瑠|淀川 沙音瑠|Give me Love♡|Chunithm NEWPLUS
-幡桐小历|幡桐 こよみ|	推してもダメならひいてみな！|Chunithm SUN
+[幡桐小历](/gumin/koyomi.md)|幡桐 こよみ|	推してもダメならひいてみな！|Chunithm SUN
