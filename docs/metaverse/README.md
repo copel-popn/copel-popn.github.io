@@ -178,7 +178,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 | 角色  |日文原名 |对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
-| 塞拉菲娜·维斯·阿尼玛特|セラフィナ・ヴィス・アニマート |モノクロトワイライト	|Chunithm Crystal Plus
+|[塞拉菲娜·维斯·阿尼玛特](/metaverse/Revive-the-Metaverse/serafina.md)|セラフィナ・ヴィス・アニマート |モノクロトワイライト	|Chunithm Crystal Plus
 |塞夏特·夏福特利希|セシャト・シャフトリッヒ |U ARE| Chunithm Crystal Plus
 |远古的混沌巨人|古き混沌の巨人|ハードコア・シンドローム| Chunithm Crystal Plus
 |憎恶之源的古龙|憎悪の始まりたる古竜|Hainuwele| Chunithm Crystal Plus
