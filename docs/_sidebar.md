@@ -81,6 +81,8 @@
        * [索尔娜](/metaverse/Revive-the-Metaverse/sorona.md)
        * [塞拉菲娜·维斯·阿尼玛特](/metaverse/Revive-the-Metaverse/serafina.md)
 
+  * [Seelisch Tact](/seelicht/README.md)
+
 
 
 
