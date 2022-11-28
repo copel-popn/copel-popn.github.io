@@ -11,7 +11,7 @@
 
 | 角色   |日文原名|对应乐曲 |初出版本|备注|
 | ----------- | ----------- | ---------- | --------- |  --------- | 
-静间·黑崎|シズマ・クロサキ|Theme of SeelischTact|Chunithm
+[静间·黑崎](/seelicht/shizuma.md)|シズマ・クロサキ|Theme of SeelischTact|Chunithm
 菲涅·阿尔特里涅斯|フィーネ・アルトリネス|Grab your sword|Chunithm
 热砂的蒂斯|熱砂のディース|砂漠のハンティングガール♡|Chunithm
 克莱门司·吉克哈尔特|クレメンス・ジークハルト|The ether|Chunithm
