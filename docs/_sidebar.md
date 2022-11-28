@@ -82,6 +82,7 @@
        * [塞拉菲娜·维斯·阿尼玛特](/metaverse/Revive-the-Metaverse/serafina.md)
 
   * [Seelisch Tact](/seelicht/README.md)
+    * [静间·黑崎](/seelicht/shizuma.md)
 
 
 
