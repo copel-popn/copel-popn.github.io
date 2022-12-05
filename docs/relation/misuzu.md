@@ -10,7 +10,8 @@
 | 职业 |  音乐室的幽灵  |
 | 目标 | 成佛升天 | 
 | 对应曲   | レーイレーイ      |
-| 初出   | Crystal Ep.1      |
+| 初出   | Chunithm Crystal 
+|CV| 原由实
 
 
 ## Episode 1 少年，遭遇挫折
