@@ -81,6 +81,7 @@
        * [索尔娜](/metaverse/Revive-the-Metaverse/sorona.md)
        * [塞拉菲娜·维斯·阿尼玛特](/metaverse/Revive-the-Metaverse/serafina.md)
        * [塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)
+       * [憎恶之源的古龙](/metaverse/Revive-the-Metaverse/hainuwele.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
