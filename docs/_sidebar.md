@@ -77,6 +77,7 @@
        * [埋葬者 斯托姆](/metaverse/Revive-the-Metaverse/stum.md)
        * [再生者 迪安](/metaverse/Revive-the-Metaverse/dyan.md)
        * [黄泉的盟主 尼加尔](/metaverse/Revive-the-Metaverse/negal.md)
+       * [远古破坏者 贝格尔米尔](/metaverse/Revive-the-Metaverse/bergelmir.md)
     * Revive the Metaverse-新世界篇-
        * [索尔娜](/metaverse/Revive-the-Metaverse/sorona.md)
        * [塞拉菲娜·维斯·阿尼玛特](/metaverse/Revive-the-Metaverse/serafina.md)
