@@ -173,7 +173,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 | [全天之支配者 雪儿](/metaverse/Revive-the-Metaverse/ciel.md) | 全天の支配者 シエル |Destination |Chunithm Crystal  
 |[再生者 迪安](/metaverse/Revive-the-Metaverse/dyan.md)|再生者 ディアン |Megameteor| Chunithm Crystal
 |[黄泉的盟主 尼加尔](/metaverse/Revive-the-Metaverse/negal.md) |黄泉の盟主 ネルガル|Trrricksters!!|Chunithm Crystal|
-|远古破坏者 贝格尔米尔|古き破壊者 ベルゲルミル| The Metaverse -First story of the SeelischTact-| Chunithm Crystal Plus
+|[远古破坏者 贝格尔米尔](/metaverse/Revive-the-Metaverse/bergelmir.md)|古き破壊者 ベルゲルミル| The Metaverse -First story of the SeelischTact-| Chunithm Crystal Plus
 
 
 ### 新世界 
@@ -184,8 +184,8 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 | ----------- | ----------- | ---------- | --------- | --------- |
 |[塞拉菲娜·维斯·阿尼玛特](/metaverse/Revive-the-Metaverse/serafina.md)|セラフィナ・ヴィス・アニマート |モノクロトワイライト	|Chunithm Crystal Plus
 |[塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)|セシャト・シャフトリッヒ |U ARE| Chunithm Crystal Plus
-|远古的混沌巨人|古き混沌の巨人|ハードコア・シンドローム| Chunithm Crystal Plus
-|憎恶之源的古龙|憎悪の始まりたる古竜|Hainuwele| Chunithm Crystal Plus
+|[远古的混沌巨人](/metaverse/Revive-the-Metaverse/revol.md)|古き混沌の巨人|ハードコア・シンドローム| Chunithm Crystal Plus
+|[憎恶之源的古龙](/metaverse/Revive-the-Metaverse/hainuwele.md)|憎悪の始まりたる古竜|Hainuwele| Chunithm Crystal Plus|剧情衔接[塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)，后半部分的剧情与另外两篇人物故事属于同时间不同角度的描述。
 |导师 米姆·米库拉|導師 ミィム・ミクラー| 宿星審判| Chunithm Crystal Plus
 
 
