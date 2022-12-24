@@ -84,6 +84,7 @@
        * [塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)
        * [憎恶之源的古龙](/metaverse/Revive-the-Metaverse/hainuwele.md)
        * [远古的混沌巨人](/metaverse/Revive-the-Metaverse/revol.md)
+       * [导师 米姆·米库拉](/metaverse/Revive-the-Metaverse/meme.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)

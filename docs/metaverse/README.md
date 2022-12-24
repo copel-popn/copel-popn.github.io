@@ -188,7 +188,8 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |[塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)|セシャト・シャフトリッヒ |U ARE| Chunithm Crystal Plus
 |[远古的混沌巨人](/metaverse/Revive-the-Metaverse/revol.md)|古き混沌の巨人|ハードコア・シンドローム| Chunithm Crystal Plus
 |[憎恶之源的古龙](/metaverse/Revive-the-Metaverse/hainuwele.md)|憎悪の始まりたる古竜|Hainuwele| Chunithm Crystal Plus|剧情衔接[塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)，后半部分的剧情与另外两篇人物故事属于同时间不同角度的描述。
-|导师 米姆·米库拉|導師 ミィム・ミクラー| 宿星審判| Chunithm Crystal Plus
+|[导师 米姆·米库拉](/metaverse/Revive-the-Metaverse/meme.md)
+|導師 ミィム・ミクラー| 宿星審判| Chunithm Crystal Plus
 
 
 * * * 
