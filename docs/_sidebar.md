@@ -28,6 +28,7 @@
   * [HAR-女主角-09型“涅瑞达”](/relation/har09.md)
   * [九十九宗治郎](/relation/soujiro.md)
   * [黑龟北斗](/relation/hokuto.md)
+  * [东云彰/东云凛](/relation/shinonome.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
