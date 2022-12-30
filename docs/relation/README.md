@@ -25,3 +25,4 @@
 |[九十九宗治郎](/relation/soujiro.md)|九十九　宗治郎（つくも　そうじろう）|夢路拍子|CHUNITHM NEW(仅国行版本被删除)
 |[黑龟北斗](/relation/hokuto.md)|黒亀　北斗|BOKUTO|Chunithm Air
 [东云彰/东云凛](/relation/shinonome.md)|	東雲彰／りん（しののめ　あきら／りん）|こころここから|Chunithm
+[西尔维娅斯](/relation/folern.md)|シルヴィアス|folern|Chunithm Amazon
