@@ -7,6 +7,8 @@
     [天王洲荠](/irodorimidori/nazuna1.md)
     [小佛凪](/irodorimidori/nagi1.md)
     [箱部鸣](/irodorimidori/naru1.md)
+  * 学园MVP篇
+    [月铃那知](/irodorimidori/nachi.md)
 
 * [心连羁绊](/relation/README.md)
 
