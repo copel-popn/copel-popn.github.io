@@ -9,6 +9,7 @@
     [箱部鸣](/irodorimidori/naru1.md)
   * 学园MVP篇
     [月铃那知](/irodorimidori/nachi.md)
+    [月铃白奈](/irodorimidori/shirona.md)
 
 * [心连羁绊](/relation/README.md)
 
