@@ -1,12 +1,15 @@
 * [Chunithm Stories Project](README.md)
-
+* 
 * [彩绿](/irodorimidori/README.md)
   * 学园祭篇
-    [明坂芹菜](/irodorimidori/serina1.md)
-    [御形艾丽希安娜](/irodorimidori/aliciana1.md)
-    [天王洲荠](/irodorimidori/nazuna1.md)
-    [小佛凪](/irodorimidori/nagi1.md)
-    [箱部鸣](/irodorimidori/naru1.md)
+    * [明坂芹菜](/irodorimidori/serina1.md)
+    * [御形艾丽希安娜](/irodorimidori/aliciana1.md)
+    * [天王洲荠](/irodorimidori/nazuna1.md)
+    * [小佛凪](/irodorimidori/nagi1.md)
+    * [箱部鸣](/irodorimidori/naru1.md)
+  * 学园MVP篇
+    * [月铃那知](/irodorimidori/nachi.md)
+    * [月铃白奈](/irodorimidori/shirona.md)
 
 * [心连羁绊](/relation/README.md)
 
