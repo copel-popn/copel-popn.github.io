@@ -248,6 +248,9 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 罗德·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
 马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
 凯南·梅尔威亚斯|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
-
+艾莉夏·穆尔西亚|エリシャ・ムルシア|盟月|Chunithm SUN
+纳丁·纳塔奈尔|ナディン・ナタナエル|Bitter Juicy|Chunithm SUN
+德威格|ドヴェルグ|Disruptor Array|Chunithm SUN
+安夏尔·奥达奇亚|アンシャール・アウダーチア|Daphnis|Chunithm SUN
 
  [2]: http://chunithm.noysoft.com/usr/uploads/2022/06/642583952.png
