@@ -90,6 +90,9 @@
        * [憎恶之源的古龙](/metaverse/Revive-the-Metaverse/hainuwele.md)
        * [远古的混沌巨人](/metaverse/Revive-the-Metaverse/revol.md)
        * [导师 米姆·米库拉](/metaverse/Revive-the-Metaverse/meme.md)
+    * 地上新人篇
+      * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)
+      * [伊泽维尔·亚戈鲁修](/metaverse/Ground-of-Metaverse/izevel.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
@@ -98,8 +101,7 @@
 
 
 
-  * 地上新人篇
-    * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)
+  
 
 * [Genesis of Destiny](/genesis/README.md)
   * [暴虐的基泽库尔](/genesis/gizegul.md)

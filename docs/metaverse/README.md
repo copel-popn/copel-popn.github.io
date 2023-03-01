@@ -216,7 +216,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 | 角色   |日文原名|对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
 |[奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)|オメガ・クィントゥス|混沌を越えし我らが神聖なる調律主を讃えよ| Chunithm Air Plus |该人物故事以圣经式的文体描述了地上再造的过程。时间点对应“大灾厄”结束后。
-|伊泽维尔·亚戈鲁修 |イゼヴェル・ヤグルーシュ|Last Celebration| Chunithm Paradise|
+|[伊泽维尔·亚戈鲁修](/metaverse/Ground-of-Metaverse/izevel.md) |イゼヴェル・ヤグルーシュ|Last Celebration| Chunithm Paradise|
 |梅尼·特尔塞拉|メーネ・テルセーラ| ANU|Chunithm Paradise |
 |蕾娜·伊修梅尔| レナ・イシュメイル|月詠に鳴る|Chunithm Paradise Lost|
 |基德翁·莱泽| ギデオン・ライゼ|Blessing Rain|Chunithm Paradise Lost|
@@ -226,7 +226,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |布鲁·斯坦因 |ブルー・スタイン|X7124   |Chunithm Paradise Lost
 |扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
 |亚哈|エイハヴ|雪男|Chunithm NEW
-|帕丁西帕·阿西德菲尔|バテシバ・アヒトフェル|［CRYSTAL_ACCESS］|Chunithm NEW
+|拔示巴·阿西德菲尔|バテシバ・アヒトフェル|［CRYSTAL_ACCESS］|Chunithm NEW
 |米吉多·科古|メギド・ゴグ|UltraNeon|Chunithm NEW
 
 
