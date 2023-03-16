@@ -220,7 +220,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |梅尼·特尔塞拉|メーネ・テルセーラ| ANU|Chunithm Paradise |
 |蕾娜·伊修梅尔| レナ・イシュメイル|月詠に鳴る|Chunithm Paradise Lost|
 |基德翁·莱泽| ギデオン・ライゼ|Blessing Rain|Chunithm Paradise Lost|
-|约拿·莱泽 | ヨナ・ライゼ|C ＆ B|Chunithm Paradise Lost|
+|[约拿·莱泽](/metaverse/Ground-of-Metaverse/yona.md) | ヨナ・ライゼ|C ＆ B|Chunithm Paradise Lost|
 |萨乌尔·凯姆| サウル・カイム|Elemental Ethnic|Chunithm Paradise Lost|
 |米利安姆·贝米朵巴尔| ミリアム・ベミドバル|TECHNOPOLIS 2085|Chunithm Paradise Lost|
 |布鲁·斯坦因 |ブルー・スタイン|X7124   |Chunithm Paradise Lost
