@@ -230,7 +230,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |[奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)|オメガ・クィントゥス|混沌を越えし我らが神聖なる調律主を讃えよ| Chunithm Air Plus |该人物故事以圣经式的文体描述了地上再造的过程。时间点对应“大灾厄”结束后。
 |[伊泽维尔·亚戈鲁修](/metaverse/Ground-of-Metaverse/izevel.md) |イゼヴェル・ヤグルーシュ|Last Celebration| Chunithm Paradise|
 |梅尼·特尔塞拉|メーネ・テルセーラ| ANU|Chunithm Paradise |
-|蕾娜·伊修梅尔| レナ・イシュメイル|月詠に鳴る|Chunithm Paradise Lost|
+|[蕾娜•伊修梅尔](/metaverse/Ground-of-Metaverse/lena.md)| レナ・イシュメイル|月詠に鳴る|Chunithm Paradise Lost|
 |基德翁·莱泽| ギデオン・ライゼ|Blessing Rain|Chunithm Paradise Lost|
 |[约拿·莱泽](/metaverse/Ground-of-Metaverse/yona.md) | ヨナ・ライゼ|C ＆ B|Chunithm Paradise Lost|
 |萨乌尔·凯姆| サウル・カイム|Elemental Ethnic|Chunithm Paradise Lost|
