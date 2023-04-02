@@ -236,7 +236,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |萨乌尔·凯姆| サウル・カイム|Elemental Ethnic|Chunithm Paradise Lost|
 |米利安姆·贝米朵巴尔| ミリアム・ベミドバル|TECHNOPOLIS 2085|Chunithm Paradise Lost|
 |布鲁·斯坦因 |ブルー・スタイン|X7124   |Chunithm Paradise Lost
-|扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
+
 |亚哈|エイハヴ|雪男|Chunithm NEW
 |拔示巴·阿西德菲尔|バテシバ・アヒトフェル|［CRYSTAL_ACCESS］|Chunithm NEW
 |米吉多·科古|メギド・ゴグ|UltraNeon|Chunithm NEW
@@ -249,6 +249,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 | 角色   |日文原名|对应乐曲 |初出版本| 备注
 | ----------- | ----------- | ---------- | --------- | --------- |
+|扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
 泽法·尼亚德|ゼファー・ニアルデ|Qliphothgear|Chunithm New|
 索罗·摩尼亚|ソロ・モーニア|SQUAD-Phvntom-|Chunithm New|
 米思拉·特尔塞拉|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
