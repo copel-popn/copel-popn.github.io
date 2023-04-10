@@ -234,7 +234,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |[基德翁·莱泽](/metaverse/Ground-of-Metaverse/gideon.md)| ギデオン・ライゼ|Blessing Rain|Chunithm Paradise Lost|
 |[约拿·莱泽](/metaverse/Ground-of-Metaverse/yona.md) | ヨナ・ライゼ|C ＆ B|Chunithm Paradise Lost|
 |萨乌尔·凯姆| サウル・カイム|Elemental Ethnic|Chunithm Paradise Lost|
-|米利安姆·贝米朵巴尔| ミリアム・ベミドバル|TECHNOPOLIS 2085|Chunithm Paradise Lost|
+|[米利安姆·贝米朵巴尔](/metaverse/Ground-of-Metaverse/miliam.md)| ミリアム・ベミドバル|TECHNOPOLIS 2085|Chunithm Paradise Lost|
 |布鲁·斯坦因 |ブルー・スタイン|X7124   |Chunithm Paradise Lost
 
 |亚哈|エイハヴ|雪男|Chunithm NEW

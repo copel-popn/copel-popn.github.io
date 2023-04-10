@@ -96,6 +96,7 @@
       * [约拿·莱泽](/metaverse/Ground-of-Metaverse/yona.md)
       * [蕾娜•伊修梅尔](/metaverse/Ground-of-Metaverse/lena.md)
       * [基德翁·莱泽](/metaverse/Ground-of-Metaverse/gideon.md)
+      * [米利安姆·贝米朵巴尔](/metaverse/Ground-of-Metaverse/miliam.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
