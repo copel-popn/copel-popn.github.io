@@ -98,6 +98,7 @@
       * [基德翁·莱泽](/metaverse/Ground-of-Metaverse/gideon.md)
       * [米利安姆·贝米朵巴尔](/metaverse/Ground-of-Metaverse/miliam.md)
       * [萨乌尔•凯姆](/metaverse/Ground-of-Metaverse/saul.md)
+      * [布鲁·斯坦因](/metaverse/Ground-of-Metaverse/stein.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
