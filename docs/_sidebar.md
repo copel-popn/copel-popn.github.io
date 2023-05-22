@@ -33,6 +33,7 @@
   * [黑龟北斗](/relation/hokuto.md)
   * [东云彰/东云凛](/relation/shinonome.md)
   * [西尔维娅斯](/relation/folern.md)
+  * [艾修(ASH:3-013)](/relation/ash.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇

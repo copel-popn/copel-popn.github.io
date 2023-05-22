@@ -26,3 +26,4 @@
 |[黑龟北斗](/relation/hokuto.md)|黒亀　北斗|BOKUTO|Chunithm Air
 [东云彰/东云凛](/relation/shinonome.md)|	東雲彰／りん（しののめ　あきら／りん）|こころここから|Chunithm
 [西尔维娅斯](/relation/folern.md)|シルヴィアス|folern|Chunithm Amazon
+[艾修(ASH:3-013)](/relation/ash.md)|アッシュ（ASH:3-013）|ASH|CHUNITHM SUN PLUS
