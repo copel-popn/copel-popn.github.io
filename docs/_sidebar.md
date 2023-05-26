@@ -100,6 +100,8 @@
       * [米利安姆·贝米朵巴尔](/metaverse/Ground-of-Metaverse/miliam.md)
       * [萨乌尔•凯姆](/metaverse/Ground-of-Metaverse/saul.md)
       * [布鲁·斯坦因](/metaverse/Ground-of-Metaverse/stein.md)
+      * [米吉多·科古](/metaverse/Ground-of-Metaverse/megit.md)
+      * [亚哈](/metaverse/Ground-of-Metaverse/ahab.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)

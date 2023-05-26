@@ -236,9 +236,9 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |萨乌尔·凯姆| サウル・カイム|Elemental Ethnic|Chunithm Paradise Lost|
 |[米利安姆·贝米朵巴尔](/metaverse/Ground-of-Metaverse/miliam.md)| ミリアム・ベミドバル|TECHNOPOLIS 2085|Chunithm Paradise Lost|
 |[布鲁·斯坦因](/metaverse/Ground-of-Metaverse/stein.md) |ブルー・スタイン|X7124   |Chunithm Paradise Lost
-|亚哈|エイハヴ|雪男|Chunithm NEW
+|[亚哈](/metaverse/Ground-of-Metaverse/ahab.md)|エイハヴ|雪男|Chunithm NEW
 |拔示巴·阿西德菲尔|バテシバ・アヒトフェル|［CRYSTAL_ACCESS］|Chunithm NEW
-|米吉多·科古|メギド・ゴグ|UltraNeon|Chunithm NEW
+|[米吉多·科古](/metaverse/Ground-of-Metaverse/megit.md)|メギド・ゴグ|UltraNeon|Chunithm NEW
 
 
 ## 地上真人篇·未来
