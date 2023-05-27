@@ -10,7 +10,7 @@
 |对应乐曲|UltraNeon
 |初出|Chunithm NEW
 
-## Episode 1 终结（OMEGA）之后
+## Episode 1 <ruby>终结<rp>（</rp><rt>OMEGA</rt><rp>）</rp></ruby>之后
 
 >当引导地上再生的神明离去之后，为了消灭所有的抵抗者，“那个”诞生了。
 
@@ -90,7 +90,7 @@
 
 “咦？怎么回事……？”
 
-<——已确认到与乐园（Metaverse）的连接>
+<——已确认到与<ruby>乐园<rp>（</rp><rt>Metaverse</rt><rp>）</rp></ruby>的连接>
 
 随着无机质的声音响起，周围的系统被启动，房间的中心亮起了圆筒形的立体影像。
 
@@ -813,4 +813,4 @@
 
 
 
-[后续剧情请看下一篇。](/metaverse/Ground-of-Metaverse/ahab.md)
+[（续）](/metaverse/Ground-of-Metaverse/ahab.md)
