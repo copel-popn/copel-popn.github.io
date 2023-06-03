@@ -4,7 +4,7 @@
 打歌画面的背景也是模仿了NICONICO动画。
 除了一小部分人物两两相关或者两三人之间的故事有关联以外，大多数为独立的故事。
 
-|头像| 角色   |日文原名|对应乐曲 |初出版本|
+|<div style="width:115px">头像</div>| 角色   |日文原名|对应乐曲 |初出版本|
 | ----------- | ----------- | ----------- | ---------- | ---------- |
 ![relation](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p1.png?_=20230510.163623 "relation")| [奈伊](/relation/NAI.md) |ナイ | テリトリーバトル      | Chunithm Paradise|
 |![misuzu](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr5.png?_=20230510.163623 "misuzu")|[穴户美铃](/relation/misuzu.md)|宍戸 美鈴| レーイレーイ|Chunithm Crystal|
