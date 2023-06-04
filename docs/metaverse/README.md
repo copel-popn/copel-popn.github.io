@@ -93,14 +93,14 @@ VOX：Metaverse中用来管理虚拟世界的功能单元。整体为箱子形�
 
 讲述地球走到穷途末路，人类被自己创造的造物毁灭，从而步入电脑世界的故事。（基本已完结，根据故事背景分歧可以分出两条路线）
 
-| 角色   |日文原名|对应乐曲 |初出版本|备注|
-| ----------- | ----------- | ---------- | --------- |  --------- | 
-|[艾克雷尔<BR>艾克雷尔·福音](/metaverse/World-of-Metaverse/eclair.md)   |エクレール<br> エクレール・エヴァンジール| We Gonna Journey <br> We Gonna Party -Feline Groove Mix- | Chunithm/Chunithm Air | 少数跟随版本追加剧情片段的人物。剧情为一切后续内容的起始。
-|[RG-XIII 达因斯雷夫](/metaverse/World-of-Metaverse/dainsleif.md)|RG-XIII ダインスレイヴ	| Contrapasso -inferno- | Chunithm Plus | 曲目先行于游戏收录于OST 《World Of Metaverse》 
-|[断绝的破坏神](/metaverse/World-of-Metaverse/devastate.md)|断絶の破壊神 |Devastating Blaster | Chunithm Air Plus| 
-|[RG-XXX 提亚马特](/metaverse/World-of-Metaverse/tiamat.md)|RG-XXX ティアマット| TiamaT:F minor | Chunithm Air Plus |
-|[拉托娜](/metaverse/World-of-Metaverse/latona.md)|ラトーナ・ヘイズ| Yume no hajimari | Chunithm Paradise | 该人物剧情的时间点远早于故事开始，算是地上世界篇的分歧点。从中也能看到地上篇部分内容的起因。|
-|[创始者 该隐](/metaverse/World-of-Metaverse/cain.md)|創始者 カイン |祈 -我ら神祖と共に歩む者なり-| Chunithm Paradise Lost | 人物剧情的时间点与艾克雷尔并行。是以一切起因的始作俑者的视角进行的故事。由于内容大幅度包含了游戏迄今为止的大部分背景设定，提前阅读有一定可能影响其他故事的悬念。
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- | 
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c19.png?_=20230510.163623)<br>![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca16.png?_=20230510.163623)|[艾克雷尔<BR>艾克雷尔·福音](/metaverse/World-of-Metaverse/eclair.md)   |エクレール<br> エクレール・エヴァンジール| We Gonna Journey <br> We Gonna Party -Feline Groove Mix- | Chunithm/Chunithm Air | 少数跟随版本追加剧情片段的人物。剧情为一切后续内容的起始。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c46.png?_=20230510.163623)|[RG-XIII 达因斯雷夫](/metaverse/World-of-Metaverse/dainsleif.md)|RG-XIII ダインスレイヴ	| Contrapasso -inferno- | Chunithm Plus | 曲目先行于游戏收录于OST 《World Of Metaverse》 
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca2.png?_=20230510.163623)| [断绝的破坏神](/metaverse/World-of-Metaverse/devastate.md)|断絶の破壊神 |Devastating Blaster | Chunithm Air Plus| 
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca3.png?_=20230510.163623)|[RG-XXX 提亚马特](/metaverse/World-of-Metaverse/tiamat.md)|RG-XXX ティアマット| TiamaT:F minor | Chunithm Air Plus |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p5.png?_=20230510.163623)| [拉托娜](/metaverse/World-of-Metaverse/latona.md)|ラトーナ・ヘイズ| Yume no hajimari | Chunithm Paradise | 该人物剧情的时间点远早于故事开始，算是地上世界篇的分歧点。从中也能看到地上篇部分内容的起因。|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p45.png?_=20230510.163623)|[创始者 该隐](/metaverse/World-of-Metaverse/cain.md)|創始者 カイン |祈 -我ら神祖と共に歩む者なり-| Chunithm Paradise Lost | 人物剧情的时间点与艾克雷尔并行。是以一切起因的始作俑者的视角进行的故事。由于内容大幅度包含了游戏迄今为止的大部分背景设定，提前阅读有一定可能影响其他故事的悬念。
 
 * * *
 
@@ -113,17 +113,17 @@ VOX：Metaverse中用来管理虚拟世界的功能单元。整体为箱子形�
 
 然而，在这一切事件的背后，又有人在默默地看着事态的发展……？
 
-| 角色  |日文原名 |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-| [MIR-201 赫卡蒂·贝亚托里斯](/metaverse/Liberate-the-Metaverse/MIR201.md) |MIR-201【ヘカティ・ベアトリクス】| Drivessover | Chunithm Star Plus | 
-| [MIR-202 阿尔忒弥斯·蕾娜](/metaverse/Liberate-the-Metaverse/MIR202.md) |MIR-202【アルテミス・レナ】	| Wake up Dreamer | Chunithm Star |
-|[ MIR-203 塞蕾娜·雪莉露](/metaverse/Liberate-the-Metaverse/MIR203.md)|MIR-203【セレネ・シェリル】 | Dual Fractal  | Chunithm Star |
-| [统制主 提丰](/metaverse/Liberate-the-Metaverse/typhon.md)|ティフォン |BlazinG AIR | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
-| [利希德修茨](/metaverse/Liberate-the-Metaverse/wv.md)|リヒトシュッツェ | World Vanquisher | Chunithm Star |
-| [WISEMAN](/metaverse/Liberate-the-Metaverse/wiseman.md)|ワイズマン |macrocosmos | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
-| [探求者 远古之蓝](/metaverse/Liberate-the-Metaverse/oldblue.md)|オールドブルー | Twice up Scenery | Chunithm Star | 统治Metaverse的“最古”其中一人。
-| [MTA-XXX 潘多拉·涅墨西斯](/metaverse/Liberate-the-Metaverse/pandora.md)|MTA-XXX【パンドラネメシス】 | Iudicium | Chunithm Star |
-| 格兰雷斯|グランレイス | 業 -善なる神とこの世の悪について- | Chunithm Star Plus | 游离于该系列之外的外传人物。讲述同步于电脑世界发生的另一个事件。
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs34.png?_=20230510.163623)| [MIR-201 赫卡蒂·贝亚托里斯](/metaverse/Liberate-the-Metaverse/MIR201.md) |MIR-201【ヘカティ・ベアトリクス】| Drivessover | Chunithm Star Plus | 
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs12.png?_=20230510.163623)| [MIR-202 阿尔忒弥斯·蕾娜](/metaverse/Liberate-the-Metaverse/MIR202.md) |MIR-202【アルテミス・レナ】	| Wake up Dreamer | Chunithm Star |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs33.png?_=20230510.163623)|[ MIR-203 塞蕾娜·雪莉露](/metaverse/Liberate-the-Metaverse/MIR203.md)|MIR-203【セレネ・シェリル】 | Dual Fractal  | Chunithm Star |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs21.png?_=20230510.163623)| [统制主 提丰](/metaverse/Liberate-the-Metaverse/typhon.md)|ティフォン |BlazinG AIR | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs14.png?_=20230510.163623)| [利希德修茨](/metaverse/Liberate-the-Metaverse/wv.md)|リヒトシュッツェ | World Vanquisher | Chunithm Star |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs36.png?_=20230510.163623)| [WISEMAN](/metaverse/Liberate-the-Metaverse/wiseman.md)|ワイズマン |macrocosmos | Chunithm Star Plus | 统治Metaverse的“最古”其中一人。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs13.png?_=20230510.163623)| [探求者 远古之蓝](/metaverse/Liberate-the-Metaverse/oldblue.md)|オールドブルー | Twice up Scenery | Chunithm Star | 统治Metaverse的“最古”其中一人。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs15.png?_=20230510.163623)| [MTA-XXX 潘多拉·涅墨西斯](/metaverse/Liberate-the-Metaverse/pandora.md)|MTA-XXX【パンドラネメシス】 | Iudicium | Chunithm Star |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs37.png?_=20230510.163623)| 格兰雷斯|グランレイス | 業 -善なる神とこの世の悪について- | Chunithm Star Plus | 游离于该系列之外的外传人物。讲述同步于电脑世界发生的另一个事件。
 
 
 ### 间章-Observe the Metaverse
@@ -132,13 +132,13 @@ VOX：Metaverse中用来管理虚拟世界的功能单元。整体为箱子形�
 
 该章节的人物由于成文时间较早，大多数时间线比较零散，所以剧情比较独立，部分甚至直到后续版本才有引用和回收伏笔。
 
-| 角色  |日文原名 |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-| [MDA-01 天狼星](/metaverse/Observe-the-Metaverse/MDA01.md)|MDA-01【シリウス】| Paqqin | Chunithm Air|
-| [MDA-21 轩辕十四](/metaverse/Observe-the-Metaverse/MDA21.md) |MDA-21【レグルス】| Supersonic Generation | Chunithm Air Plus |
-| [厄里斯·涅墨西斯](/metaverse/Observe-the-Metaverse/elise.md)|エリスネメシス | Surveiller et punir | Chunithm Star Plus| 该角色的剧情为暗线，各个章节牵涉到多名角色的故事内幕。
-| [修伯利斯](/metaverse/Observe-the-Metaverse/supplice.md) |シュープリス|紅華刑|Chunithm Air|该人物的故事属于起源故事，时间线早于天狼星的故事线。
-|[安歇尔&西梅翁](/metaverse/Liberate-the-Metaverse/xevel.md)|アシェル＆シメオン|Xevel | Chunithm Star Plus|该角色剧情独立与其他人物所在的时间点，具体发生时间位于Revive the Metaverse篇附近。
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca24.png?_=20230510.163623)| [MDA-01 天狼星](/metaverse/Observe-the-Metaverse/MDA01.md)|MDA-01【シリウス】| Paqqin | Chunithm Air|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca1.png?_=20230510.163623)| [MDA-21 轩辕十四](/metaverse/Observe-the-Metaverse/MDA21.md) |MDA-21【レグルス】| Supersonic Generation | Chunithm Air Plus |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs35.png?_=20230510.163623)| [厄里斯·涅墨西斯](/metaverse/Observe-the-Metaverse/elise.md)|エリスネメシス | Surveiller et punir | Chunithm Star Plus| 该角色的剧情为暗线，各个章节牵涉到多名角色的故事内幕。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca25.png?_=20230510.163623)| [修伯利斯](/metaverse/Observe-the-Metaverse/supplice.md) |シュープリス|紅華刑|Chunithm Air|该人物的故事属于起源故事，时间线早于天狼星的故事线。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cso1.png?_=20230510.163623)|[安歇尔&西梅翁](/metaverse/Liberate-the-Metaverse/xevel.md)|アシェル＆シメオン|Xevel | Chunithm Star Plus|该角色剧情独立与其他人物所在的时间点，具体发生时间位于Revive the Metaverse篇附近。
 
 ### 间章2——ES计划
 
@@ -149,10 +149,10 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 虽然收录于《Observe the Metaverse》中，但是相对应的角色关联剧情直到后续章节才被揭晓。由于编写时间甚早，会有一定程度的出入。
 
-| 角色  |日文原名 |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-| [布里兰特](/metaverse/Observe-the-Metaverse/brillante.md)|ブリランテ| Teriqma| Chunithm|
-| [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)|グラーヴェ・ノーヴァ	|Cyberozar|Chunithm PLUS|
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c16.png?_=20230510.163623)| [布里兰特](/metaverse/Observe-the-Metaverse/brillante.md)|ブリランテ| Teriqma| Chunithm|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c39.png?_=20230510.163623)| [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)|グラーヴェ・ノーヴァ	|Cyberozar|Chunithm PLUS|
 
 除以上主线，Metaverse内部还生活着其他各式各样的人类或者程序。虽然同样收录于OST但是无关于主线剧情。
 
@@ -161,47 +161,46 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 三姐妹打倒提丰之后，经历了一段时间，由旧人类的最终兵器“提亚马特”的碎片分裂构成的恶性程序“混沌七器·涅墨西斯”系列正式袭来！Metaverse已是大厦将倾之势，又有何人能拯救这里呢？
 
-| 角色   |日文原名|对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-| [Dr.尤巴尔·霍尔米斯达斯](/metaverse/Reconnect-the-Metaverse/uval.md)|Dr.ユバル・ホルミスダス | Sqlupp| Chunithm Amazon |
-| [Dr.梅德·巴萨奈德尔](/metaverse/Reconnect-the-Metaverse/med.md)|Dr.メト・バサナテル| strelitzia|Chunithm Amazon Plus
-| [Dr.缇欧·梅尔基奥尔](/metaverse/Reconnect-the-Metaverse/teo.md)|Dr.テオ・メルキオル|暗晦にハイライト|Chunithm Amazon Plus
-| [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)|XES-72【ディアナ・プリメーラ】 |Life|Chunithm Amazon
-| [XGN-72 露娜·诺瓦](/metaverse/Reconnect-the-Metaverse/luna.md)|XGN-72【ルナ・ノーヴァ】 |Innocent Truth|Chunithm Amazon
-| [憎恶的战神·阿雷斯](/metaverse/Reconnect-the-Metaverse/ares.md) |憎悪の戦神 アレウス |Climax|Chunithm Amazon Plus
-|[哲学主 捷夫提](/metaverse/Reconnect-the-Metaverse/jehuti.md)|哲学主 ジェフティ |電光石火|Chunithm Amazon Plus
-| [裁定者 塞拉菲塔](/metaverse/Reconnect-the-Metaverse/serafita.md) |裁定者 セラフィータ|Vibrant Verve	|Chunithm Amazon Plus
-| [贝尔泽布特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/velzub.md)|ヴェルゼビュートネメシス |8-EM|Chunithm Amazon Plus
-| [泰斯塔蒙特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/testament.md)|テスタメントネメシス |Killing Rhythm|Chunithm Amazon Plus
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a28.png?_=20230510.163623)| [Dr.尤巴尔·霍尔米斯达斯](/metaverse/Reconnect-the-Metaverse/uval.md)|Dr.ユバル・ホルミスダス | Sqlupp| Chunithm Amazon |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a35.png?_=20230510.163623)| [Dr.梅德·巴萨奈德尔](/metaverse/Reconnect-the-Metaverse/med.md)|Dr.メト・バサナテル| strelitzia|Chunithm Amazon Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a44.png?_=20230510.163623)| [Dr.缇欧·梅尔基奥尔](/metaverse/Reconnect-the-Metaverse/teo.md)|Dr.テオ・メルキオル|暗晦にハイライト|Chunithm Amazon Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a25.png?_=20230510.163623)| [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)|XES-72【ディアナ・プリメーラ】 |Life|Chunithm Amazon
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a26.png?_=20230510.163623)| [XGN-72 露娜·诺瓦](/metaverse/Reconnect-the-Metaverse/luna.md)|XGN-72【ルナ・ノーヴァ】 |Innocent Truth|Chunithm Amazon
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a29.png?_=20230510.163623)| [憎恶的战神·阿雷斯](/metaverse/Reconnect-the-Metaverse/ares.md) |憎悪の戦神 アレウス |Climax|Chunithm Amazon Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a34.png?_=20230510.163623)|[哲学主 捷夫提](/metaverse/Reconnect-the-Metaverse/jehuti.md)|哲学主 ジェフティ |電光石火|Chunithm Amazon Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a43.png?_=20230510.163623)| [裁定者 塞拉菲塔](/metaverse/Reconnect-the-Metaverse/serafita.md) |裁定者 セラフィータ|Vibrant Verve	|Chunithm Amazon Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a45.png?_=20230510.163623)| [贝尔泽布特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/velzub.md)|ヴェルゼビュートネメシス |8-EM|Chunithm Amazon Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a46.png?_=20230510.163623)| [泰斯塔蒙特·涅墨西斯](/metaverse/Reconnect-the-Metaverse/testament.md)|テスタメントネメシス |Killing Rhythm|Chunithm Amazon Plus
 
 ### Revive the Metaverse
 
 经历了第一次涅墨西斯战争之后，涅墨西斯的势力再度袭来。Metaverse世界终将走向灭亡，而新的世界即将诞生。光暗交汇之际，人类和程序的战争最后将走向何方？
 
-| 角色   |日文原名|对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-| [NEO](/metaverse/Revive-the-Metaverse/neo.md) |NEO| Infantoon Fantasy | Chunithm|
-| [金恩·载因](/metaverse/Revive-the-Metaverse/gene.md)|ジーン・ザイン	 | Nijirate Fanatics | Chunithm Crystal|
-| [塞蕾·海兹](/metaverse/Revive-the-Metaverse/seele.md) |セーレ・ヘイズ|ヴンダーカンマー| Chunithm Crystal 
-| [埋葬者 斯托姆](/metaverse/Revive-the-Metaverse/stum.md)|埋葬者 ストゥム |Fidget Dancer |Chunithm Crystal
-| [全天之支配者 雪儿](/metaverse/Revive-the-Metaverse/ciel.md) | 全天の支配者 シエル |Destination |Chunithm Crystal  
-|[再生者 迪安](/metaverse/Revive-the-Metaverse/dyan.md)|再生者 ディアン |Megameteor| Chunithm Crystal
-|[黄泉的盟主 尼加尔](/metaverse/Revive-the-Metaverse/negal.md) |黄泉の盟主 ネルガル|Trrricksters!!|Chunithm Crystal|
-|[远古破坏者 贝格尔米尔](/metaverse/Revive-the-Metaverse/bergelmir.md)|古き破壊者 ベルゲルミル| The Metaverse -First story of the SeelischTact-| Chunithm Crystal Plus
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c5.png?_=20230510.163623)| [NEO](/metaverse/Revive-the-Metaverse/neo.md) |NEO| Infantoon Fantasy | Chunithm|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr7.png?_=20230510.163623)| [金恩·载因](/metaverse/Revive-the-Metaverse/gene.md)|ジーン・ザイン	 | Nijirate Fanatics | Chunithm Crystal|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr24.png?_=20230510.163623)| [塞蕾·海兹](/metaverse/Revive-the-Metaverse/seele.md) |セーレ・ヘイズ|ヴンダーカンマー| Chunithm Crystal 
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr26.png?_=20230510.163623)| [埋葬者 斯托姆](/metaverse/Revive-the-Metaverse/stum.md)|埋葬者 ストゥム |Fidget Dancer |Chunithm Crystal
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr25.png?_=20230510.163623)| [全天之支配者 雪儿](/metaverse/Revive-the-Metaverse/ciel.md) | 全天の支配者 シエル |Destination |Chunithm Crystal  
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr27.png?_=20230510.163623)|[再生者 迪安](/metaverse/Revive-the-Metaverse/dyan.md)|再生者 ディアン |Megameteor| Chunithm Crystal
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr28.png?_=20230510.163623)|[黄泉的盟主 尼加尔](/metaverse/Revive-the-Metaverse/negal.md) |黄泉の盟主 ネルガル|Trrricksters!!|Chunithm Crystal|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr53.png?_=20230510.163623)|[远古破坏者 贝格尔米尔](/metaverse/Revive-the-Metaverse/bergelmir.md)|古き破壊者 ベルゲルミル| The Metaverse -First story of the SeelischTact-| Chunithm Crystal Plus
 
 
 ### 新世界 
 
 光暗合一，新的世界最终诞生。但是，在这片重获新生的大地上，仍旧有过去的亡灵没有消灭。一场新的冒险在两名带着宿命的少女间展开了……
 
-| 角色  |日文原名 |对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-|[塞拉菲娜·维斯·阿尼玛特](/metaverse/Revive-the-Metaverse/serafina.md)|セラフィナ・ヴィス・アニマート |モノクロトワイライト	|Chunithm Crystal Plus
-|[塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)|セシャト・シャフトリッヒ |U ARE| Chunithm Crystal Plus
-|[远古的混沌巨人](/metaverse/Revive-the-Metaverse/revol.md)|古き混沌の巨人|ハードコア・シンドローム| Chunithm Crystal Plus
-|[憎恶之源的古龙](/metaverse/Revive-the-Metaverse/hainuwele.md)|憎悪の始まりたる古竜|Hainuwele| Chunithm Crystal Plus|剧情衔接[塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)，后半部分的剧情与另外两篇人物故事属于同时间不同角度的描述。
-|[导师 米姆·米库拉](/metaverse/Revive-the-Metaverse/meme.md)
-|導師 ミィム・ミクラー| 宿星審判| Chunithm Crystal Plus
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr33.png?_=20230510.163623)| [塞拉菲娜·维斯·阿尼玛特](/metaverse/Revive-the-Metaverse/serafina.md)|セラフィナ・ヴィス・アニマート |モノクロトワイライト	|Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr49.png?_=20230510.163623)| [塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)|セシャト・シャフトリッヒ |U ARE| Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr50.png?_=20230510.163623)| [远古的混沌巨人](/metaverse/Revive-the-Metaverse/revol.md)|古き混沌の巨人|ハードコア・シンドローム| Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr51.png?_=20230510.163623)| [憎恶之源的古龙](/metaverse/Revive-the-Metaverse/hainuwele.md)|憎悪の始まりたる古竜|Hainuwele| Chunithm Crystal Plus|剧情衔接[塞夏特·夏福特利希](/metaverse/Revive-the-Metaverse/shaftlicht.md)，后半部分的剧情与另外两篇人物故事属于同时间不同角度的描述。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr52.png?_=20230510.163623) |[导师 米姆·米库拉](/metaverse/Revive-the-Metaverse/meme.md)|導師 ミィム・ミクラー| 宿星審判| Chunithm Crystal Plus
 
 
 * * * 
@@ -213,32 +212,34 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 故事时间线远早于地上真人篇，为真人篇的起源故事。
 
-| 角色   |日文原名|对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-[马尔库特的女神](/metaverse/Ground-of-Metaverse/malkuth.md)|	マルクトの女神|MALKUTH -The Last Ruler of Terrestrials-|Chunithm NEWPLUS|歌曲名和角色名对应了神秘学中卡巴拉生命之树的第十质点“王国”（Malkuth）。
-[觉醒者巴西安](/metaverse/Ground-of-Metaverse/baalzian.md)|覚醒者バシアン|DA’AT -The First Seeker of Souls-|Chunithm NEWPLUS|曲名对应了卡巴拉生命之树的隐藏质点“知识”（或称“智慧”，Da'at）
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_c_1.png?_=20230510.163623)| [马尔库特的女神](/metaverse/Ground-of-Metaverse/malkuth.md)|	マルクトの女神|MALKUTH -The Last Ruler of Terrestrials-|Chunithm NEWPLUS|歌曲名和角色名对应了神秘学中卡巴拉生命之树的第十质点“王国”（Malkuth）。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_c_2.png?_=20230510.163623)| [觉醒者巴西安](/metaverse/Ground-of-Metaverse/baalzian.md)|覚醒者バシアン|DA’AT -The First Seeker of Souls-|Chunithm NEWPLUS|曲名对应了卡巴拉生命之树的隐藏质点“知识”（或称“智慧”，Da'at）
 
 
 ## 地上真人篇
-![CHU_MAP_default_club0001.png][2]
+
+![ground](metaverse2.jpg)
+
 随着剩余的人类要么毁灭，要么进入电脑世界，程序展开了清理大地并且再造的计划。然而，随着Metaverse中的某个暴君的陨落，电脑世界之外的大地也受到了影响，“真人”觉醒，而新的故事就此展开……
 
 目前已结束。故事时间线为新世界篇结束之后。
 
-| 角色   |日文原名|对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-|[奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)|オメガ・クィントゥス|混沌を越えし我らが神聖なる調律主を讃えよ| Chunithm Air Plus |该人物故事以圣经式的文体描述了地上再造的过程。时间点对应“大灾厄”结束后。
-|[伊泽维尔·亚戈鲁修](/metaverse/Ground-of-Metaverse/izevel.md) |イゼヴェル・ヤグルーシュ|Last Celebration| Chunithm Paradise|
-|梅尼·特尔塞拉|メーネ・テルセーラ| ANU|Chunithm Paradise |
-|[蕾娜•伊修梅尔](/metaverse/Ground-of-Metaverse/lena.md)| レナ・イシュメイル|月詠に鳴る|Chunithm Paradise Lost|
-|[基德翁·莱泽](/metaverse/Ground-of-Metaverse/gideon.md)| ギデオン・ライゼ|Blessing Rain|Chunithm Paradise Lost|
-|[约拿·莱泽](/metaverse/Ground-of-Metaverse/yona.md) | ヨナ・ライゼ|C ＆ B|Chunithm Paradise Lost|
-|萨乌尔·凯姆| サウル・カイム|Elemental Ethnic|Chunithm Paradise Lost|
-|[米利安姆·贝米朵巴尔](/metaverse/Ground-of-Metaverse/miliam.md)| ミリアム・ベミドバル|TECHNOPOLIS 2085|Chunithm Paradise Lost|
-|[布鲁·斯坦因](/metaverse/Ground-of-Metaverse/stein.md) |ブルー・スタイン|X7124   |Chunithm Paradise Lost
-|[亚哈](/metaverse/Ground-of-Metaverse/ahab.md)|エイハヴ|雪男|Chunithm NEW
-|拔示巴·阿西德菲尔|バテシバ・アヒトフェル|［CRYSTAL_ACCESS］|Chunithm NEW
-|[米吉多·科古](/metaverse/Ground-of-Metaverse/megit.md)|メギド・ゴグ|UltraNeon|Chunithm NEW
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca4.png?_=20230510.163623)| [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)|オメガ・クィントゥス|混沌を越えし我らが神聖なる調律主を讃えよ| Chunithm Air Plus |该人物故事以圣经式的文体描述了地上再造的过程。时间点对应“大灾厄”结束后。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p7.png?_=20230510.163623) |[伊泽维尔·亚戈鲁修](/metaverse/Ground-of-Metaverse/izevel.md) |イゼヴェル・ヤグルーシュ|Last Celebration| Chunithm Paradise|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p1s.png?_=20230510.163623)|梅尼·特尔塞拉|メーネ・テルセーラ| ANU|Chunithm Paradise |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p40.png?_=20230510.163623) |[蕾娜•伊修梅尔](/metaverse/Ground-of-Metaverse/lena.md)| レナ・イシュメイル|月詠に鳴る|Chunithm Paradise Lost|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p41.png?_=20230510.163623) |[基德翁·莱泽](/metaverse/Ground-of-Metaverse/gideon.md)| ギデオン・ライゼ|Blessing Rain|Chunithm Paradise Lost|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p28.png?_=20230510.163623) |[约拿·莱泽](/metaverse/Ground-of-Metaverse/yona.md) | ヨナ・ライゼ|C ＆ B|Chunithm Paradise Lost|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p42.png?_=20230510.163623) |[萨乌尔·凯姆](/metaverse/Ground-of-Metaverse/saul.md)| サウル・カイム|Elemental Ethnic|Chunithm Paradise Lost|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p43.png?_=20230510.163623) |[米利安姆·贝米朵巴尔](/metaverse/Ground-of-Metaverse/miliam.md)| ミリアム・ベミドバル|TECHNOPOLIS 2085|Chunithm Paradise Lost|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p44.png?_=20230510.163623) |[布鲁·斯坦因](/metaverse/Ground-of-Metaverse/stein.md) |ブルー・スタイン|X7124   |Chunithm Paradise Lost
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a10.png?_=20230510.163623)| [亚哈](/metaverse/Ground-of-Metaverse/ahab.md)|エイハヴ|雪男|Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b8.png?_=20230510.163623)|拔示巴·阿西德菲尔|バテシバ・アヒトフェル|［CRYSTAL_ACCESS］|Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b9.png?_=20230510.163623)| [米吉多·科古](/metaverse/Ground-of-Metaverse/megit.md)|メギド・ゴグ|UltraNeon|Chunithm NEW
 
 
 ## 地上真人篇·未来
@@ -246,23 +247,22 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 归还地球的人们终于察觉，眼前的地球并非他们所想的天堂。为了从反叛的真人中守护自己，人们和机械种携手拿起了武器进行了反抗。
 而在某场惊天动地的大战之后又经历了数年，全新的战斗即将打响……
 
-| 角色   |日文原名|对应乐曲 |初出版本| 备注
-| ----------- | ----------- | ---------- | --------- | --------- |
-|扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
-泽法·尼亚德|ゼファー・ニアルデ|Qliphothgear|Chunithm New|
-索罗·摩尼亚|ソロ・モーニア|SQUAD-Phvntom-|Chunithm New|
-米思拉·特尔塞拉|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
-约基姆·雅木尔|ヨアキム・イヤムル|Inpaqq|Chunithm New|
-尼尔·尤迪特|ニア・ユーディット|Strange Love|Chunithm New|
-艾萨克·多米南斯VIII|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
-米卡·多米南斯III|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
-丹迪|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
-罗德·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
-马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
-凯南·梅尔威亚斯|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
-艾莉夏·穆尔西亚|エリシャ・ムルシア|盟月|Chunithm SUN
-纳丁·纳塔奈尔|ナディン・ナタナエル|Bitter Juicy|Chunithm SUN
-德威格|ドヴェルグ|Disruptor Array|Chunithm SUN
-安夏尔·奥达奇亚|アンシャール・アウダーチア|Daphnis|Chunithm SUN
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a6.png?_=20230510.163623)|扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_1.png?_=20230510.163623)|泽法·尼亚德|ゼファー・ニアルデ|Qliphothgear|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_2.png?_=20230510.163623)|索罗·摩尼亚|ソロ・モーニア|SQUAD-Phvntom-|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_3.png?_=20230510.163623)|米思拉·特尔塞拉|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_4.png?_=20230510.163623)|约基姆·雅木尔|ヨアキム・イヤムル|Inpaqq|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_5.png?_=20230510.163623)|尼尔·尤迪特|ニア・ユーディット|Strange Love|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/others_5.png?_=20230510.163623)|艾萨克·多米南斯VIII|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
+|![icon]()|米卡·多米南斯III|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_1.png?_=20230510.163623)|丹迪|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_2.png?_=20230510.163623)|罗德·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_3.png?_=20230510.163623)|马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_4.png?_=20230510.163623)|凯南·梅尔威亚斯|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_1.png?_=20230510.163623)|艾莉夏·穆尔西亚|エリシャ・ムルシア|盟月|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_2.png?_=20230510.163623)|纳丁·纳塔奈尔|ナディン・ナタナエル|Bitter Juicy|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_3.png?_=20230510.163623)|德威格|ドヴェルグ|Disruptor Array|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_4.png?_=20230510.163623)|安夏尔·奥达奇亚|アンシャール・アウダーチア|Daphnis|Chunithm SUN
 
- [2]: http://chunithm.noysoft.com/usr/uploads/2022/06/642583952.png

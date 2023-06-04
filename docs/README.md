@@ -7,7 +7,7 @@ Chunithm作为SEGA社的音乐游戏运营多年，积累了大量的原创曲�
 本网站旨在翻译这些隐藏在官网背后的人设故事。所有人物故事来源皆为Chunithm Wiki:https://chunithm.gamerch.com/
 版权归SEGA所有。
 
-# [企鹅开发秘话](/penguin/README.MD)
+# [企鹅开发秘话](/penguin/README.md)
 
 作为游戏默认的吉祥物以及可用角色，制作组在企鹅的角色故事栏填写的并不是什么原创故事，而是制作组自己的各种感想和内容。其中整活，内幕众多，篇章量也较大。
 

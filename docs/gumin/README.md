@@ -11,28 +11,32 @@
 
 # 秋叶原篇
 
-| 角色   |日文原名|对应乐曲 |初出版本|
-| ----------- | ----------- | ---------- | ---------- |
-|[八咫乌钢太郎](/gumin/koutaro.md)|八咫烏 鋼太郎| オススメ☆♂♀☆でぃすとぴあ | Chunithm Air Plus
-|[鬼蝮尤利娅](/gumin/yuria.md)|鬼蝮ユリア|とーきょー全域★アキハバラ？|Chunithm
-|叶和都丽美|葉和 とれび|おまかせ！！トラブルメイ娘☆とれびちゃん| Chunithm Air Plus
-|观音寺笑瑠| 観音寺 にこる|キラメケ→Shoot it Now!|Chunithm STAR
-|津久井静乃|津久井 シズノ	|Kattobi KEIKYU Rider|Chunithm STAR
-|新井桃子|新井　桃子(あらい　ももこ)|足立オウフwwww|Chunithm Amazon
-|鬼蝮爱理|鬼蝮 アイリ|アイリちゃんは暗黒魔導士!	|Chuithm Amazon Plus
-|知云云雀|知雲 ひばり|ちゅんちゅちゅチューン|Chunithm Crystal Plus
-|伊贺崎楠子|伊賀崎ノ楠子|ドルオタ忍道！楠子ノ巻|Chunithm Crystal Plus
-|天稻荷虎彻|天稲荷 コテツ|エキセントリックコンコン|Chunithm Crystal Plus
-|大天使尤利娅|大天使 ユリア|大天使ユリア★降臨!	|Chunithm Crystal Plus
+|<div style="width:115px">头像</div>| 角色   |日文原名|对应乐曲 |初出版本|
+| ----------- | ----------- | ----------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca12.png?_=20230510.163623)|[八咫乌钢太郎](/gumin/koutaro.md)|八咫烏 鋼太郎| オススメ☆♂♀☆でぃすとぴあ | Chunithm Air Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c35.png?_=20230510.163623)|[鬼蝮尤利娅](/gumin/yuria.md)|鬼蝮ユリア|とーきょー全域★アキハバラ？|Chunithm
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca10.png?_=20230510.163623)|叶和都丽美|葉和 とれび|おまかせ！！トラブルメイ娘☆とれびちゃん| Chunithm Air Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs3.png?_=20230510.163623)|观音寺笑瑠| 観音寺 にこる|キラメケ→Shoot it Now!|Chunithm STAR
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs10.png?_=20230510.163623)|津久井静乃|津久井 シズノ	|Kattobi KEIKYU Rider|Chunithm STAR
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a5.png?_=20230510.163623)|新井桃子|新井　桃子(あらい　ももこ)|足立オウフwwww|Chunithm Amazon
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a33.png?_=20230510.163623)|鬼蝮爱理|鬼蝮 アイリ|アイリちゃんは暗黒魔導士!	|Chuithm Amazon Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr44.png?_=20230510.163623)|知云云雀|知雲 ひばり|ちゅんちゅちゅチューン|Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr45.png?_=20230510.163623)|伊贺崎楠子|伊賀崎ノ楠子|ドルオタ忍道！楠子ノ巻|Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr46.png?_=20230510.163623)|天稻荷虎彻|天稲荷 コテツ|エキセントリックコンコン|Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr47.png?_=20230510.163623)|大天使尤利娅|大天使 ユリア|大天使ユリア★降臨!	|Chunithm Crystal Plus
 
 
 # 关西篇
 
 
-| 角色   |日文原名|对应乐曲 |初出版本|
-| ----------- | ----------- | ---------- | ---------- |
-高须来梦|高須 らいむ|おいでよ!高須らいむランド|Chunithm Paradise Lost
-李梅梅|リー・メイメイ|萌豚♥功夫♥大乱舞|Chunithm Paradise Lost
-土吕城由衣|土呂城 ゆい|Crack|Chunithm NEW
-淀川 沙音瑠|淀川 沙音瑠|Give me Love♡|Chunithm NEWPLUS
-[幡桐小历](/gumin/koyomi.md)|幡桐 こよみ|	推してもダメならひいてみな！|Chunithm SUN
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |日文原名|对应乐曲 |初出版本|
+| ----------- | ----------- | ----------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p24.png?_=20230510.163623)|高须来梦|高須 らいむ|おいでよ!高須らいむランド|Chunithm Paradise Lost
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p26.png?_=20230510.163623)|李梅梅|リー・メイメイ|萌豚♥功夫♥大乱舞|Chunithm Paradise Lost
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b3.png?_=20230510.163623)|土吕城由衣|土呂城 ゆい|Crack|Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_2.png?_=20230510.163623)|淀川 沙音瑠|淀川 沙音瑠|Give me Love♡|Chunithm NEWPLUS
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_4.png?_=20230510.163623)| [幡桐小历](/gumin/koyomi.md)|幡桐 こよみ|	推してもダメならひいてみな！|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_1.png?_=20230510.163623)|安倍八云|安倍 八雲|任せてJC陰陽師☆八雲ちゃん|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_2.png?_=20230510.163623)|小鸟游绘里香|小鳥遊 えりか|†大闘士＝クライン・フォーゲル・シュピール＝えりか†|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_3.png?_=20230510.163623)|神开司|神開 つかさ|Fallin' Darlin' Rollin'|Chunithm Sun
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_4.png?_=20230510.163623)|药研堀优|薬研堀 ユウ|恋するみたいに☆かませレッドヘルズ|Chunithm Sun
