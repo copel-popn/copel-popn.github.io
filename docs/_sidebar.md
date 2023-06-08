@@ -102,6 +102,7 @@
       * [布鲁·斯坦因](/metaverse/Ground-of-Metaverse/stein.md)
       * [米吉多·科古](/metaverse/Ground-of-Metaverse/megit.md)
       * [亚哈](/metaverse/Ground-of-Metaverse/ahab.md)
+      * [拔示巴·阿西德菲尔](/metaverse/Ground-of-Metaverse/bathsheba.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)

@@ -238,7 +238,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p43.png?_=20230510.163623) |[米利安姆·贝米朵巴尔](/metaverse/Ground-of-Metaverse/miliam.md)| ミリアム・ベミドバル|TECHNOPOLIS 2085|Chunithm Paradise Lost|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p44.png?_=20230510.163623) |[布鲁·斯坦因](/metaverse/Ground-of-Metaverse/stein.md) |ブルー・スタイン|X7124   |Chunithm Paradise Lost
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a10.png?_=20230510.163623)| [亚哈](/metaverse/Ground-of-Metaverse/ahab.md)|エイハヴ|雪男|Chunithm NEW
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b8.png?_=20230510.163623)|拔示巴·阿西德菲尔|バテシバ・アヒトフェル|［CRYSTAL_ACCESS］|Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b8.png?_=20230510.163623)|[拔示巴·阿西德菲尔](/metaverse/Ground-of-Metaverse/bathsheba.md)|バテシバ・アヒトフェル|［CRYSTAL_ACCESS］|Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b9.png?_=20230510.163623)| [米吉多·科古](/metaverse/Ground-of-Metaverse/megit.md)|メギド・ゴグ|UltraNeon|Chunithm NEW
 
 
