@@ -147,4 +147,5 @@
   
 * [中二企鹅开发秘话](/penguin/README.md)
   * [中二企鹅](/penguin/mujirushi.md)
+  * [中二企鹅/调谐者](/penguin/contactor.md)
 

@@ -14,6 +14,6 @@ NEW更新之后不再内藏，直接公开于官网上，为了刊载方便同�
 中二企鹅/音响游行|チュウニペンギン／サウンドパレード！！ |CHUNITHM AIR
 中二企鹅/救世主|チュウニペンギン／メシア|CHUNITHM STAR
 中二企鹅/爱心|チュウニペンギン／ラブリーハート|CHUNITHM AMAZON
-中二企鹅/调谐者|チュウニペンギン／コンダクター|CHUNITHM CRYSTAL
+[中二企鹅/调谐者](/penguin/contactor.md)|チュウニペンギン／コンダクター|CHUNITHM CRYSTAL
 中二企鹅/BOKUNO联结|チュウニペンギン／ボクノリレイション|CHUNITHM PARADISE
 开发部门七周年纪念杂谈||CHUNITHM NEW
