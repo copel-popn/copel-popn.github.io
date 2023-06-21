@@ -34,6 +34,7 @@
   * [东云彰/东云凛](/relation/shinonome.md)
   * [西尔维娅斯](/relation/folern.md)
   * [艾修(ASH:3-013)](/relation/ash.md)
+  * [玛利梅亚·克雷斯坎斯](/relation/marymare.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇

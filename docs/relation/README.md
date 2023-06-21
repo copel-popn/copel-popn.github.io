@@ -27,3 +27,5 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c25.png?_=20230510.163623)|[东云彰/东云凛](/relation/shinonome.md)|	東雲彰／りん（しののめ　あきら／りん）|こころここから|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a10.png?_=20230510.163623)|[西尔维娅斯](/relation/folern.md)|シルヴィアス|folern|Chunithm Amazon
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_4_3.png?_=20230510.163623)|[艾修(ASH:3-013)](/relation/ash.md)|アッシュ（ASH:3-013）|ASH|CHUNITHM SUN PLUS
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a20.png?_=20230510.163623)|[玛利梅亚·克雷斯坎斯](/relation/marymare.md)|マリーメイア・クレスケンス|Magic|Chunithm Amazon
+
