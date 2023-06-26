@@ -10,6 +10,7 @@
   * 学园MVP篇
     * [月铃那知](/irodorimidori/nachi.md)
     * [月铃白奈](/irodorimidori/shirona.md)
+    * [明坂芹菜](/irodorimidori/serina1.md)
 
 * [心连羁绊](/relation/README.md)
 
