@@ -10,7 +10,11 @@
   * 学园MVP篇
     * [月铃那知](/irodorimidori/nachi.md)
     * [月铃白奈](/irodorimidori/shirona.md)
-    * [明坂芹菜](/irodorimidori/serina1?id=episode-1-明坂芹菜-1)
+    * [明坂芹菜](/irodorimidori/serina1?id=学园mvp篇)
+    * [御形艾丽希安娜](/irodorimidori/aliciana1?id=学园mvp篇)
+    * [天王洲荠](/irodorimidori/nazuna1?id=学园mvp篇)
+    * [小佛凪](/irodorimidori/nagi1?id=小佛凪（学园mvp篇）)
+    * [箱部鸣](/irodorimidori/naru1?id=箱部鸣（学园mvp篇）)
 
 * [心连羁绊](/relation/README.md)
 
