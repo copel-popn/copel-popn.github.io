@@ -123,6 +123,7 @@
   * [暴虐的基泽库尔](/genesis/gizegul.md)
   * [EMANON](/genesis/EMANON.md)
   * [库蒂露卡.普露米耶](/genesis/kudelica.md)
+  * [G.O.D](/genesis/GOD.md)
 
 * [愚民大陆](/gumin/README.md)
   * 秋叶原篇
