@@ -366,7 +366,7 @@ CV|高桥李依
 
 # 大贤者阿尔特拉
 
-![icon](altera2.png)
+![icon](altera3.png)
 
 
 | 角色信息   |          |
