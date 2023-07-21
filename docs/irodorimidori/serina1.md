@@ -281,7 +281,7 @@ LIVE真是辛苦各位了啊——！！
 # 学园MVP篇
 
 
-![serina](serina2.webp "")
+![serina](serina2.png "")
 
 | 角色信息   |          |
 | ----------- | ----------- |
