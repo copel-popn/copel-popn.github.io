@@ -11,7 +11,7 @@
 对应乐曲	 |Grab your sword
 初出	 |CHUNITHM
 
-
+翻译：天堂麻弥 
 
 ## Episode 1 菲涅•阿尔托莉奈斯
 
