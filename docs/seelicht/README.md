@@ -12,7 +12,7 @@
 |<div style="width:115px">头像</div>| 角色   |日文原名|对应乐曲 |初出版本|
 | ----------- | ----------- | ----------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c4.png?_=20230510.163623)|[静间·黑崎](/seelicht/shizuma.md)|シズマ・クロサキ|Theme of SeelischTact|Chunithm
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c9.png?_=20230510.163623)|菲涅·阿尔特里涅斯|フィーネ・アルトリネス|Grab your sword|Chunithm
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c9.png?_=20230510.163623)|[菲涅•阿尔托莉奈斯](/seelicht/fenne.md)|フィーネ・アルトリネス|Grab your sword|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c14.png?_=20230510.163623)|热砂的蒂斯|熱砂のディース|砂漠のハンティングガール♡|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c18.png?_=20230510.163623)|克莱门司·吉克哈尔特|クレメンス・ジークハルト|The ether|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c20.png?_=20230510.163623)|格伦·梵·特兰克罗|グレン・ヴァン・トランクイロ|overcome|Chunithm

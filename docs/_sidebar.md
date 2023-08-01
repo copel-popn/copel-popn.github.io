@@ -110,9 +110,12 @@
       * [米吉多·科古](/metaverse/Ground-of-Metaverse/megit.md)
       * [亚哈](/metaverse/Ground-of-Metaverse/ahab.md)
       * [拔示巴·阿西德菲尔](/metaverse/Ground-of-Metaverse/bathsheba.md)
+    * 地上新人篇·未来
+      * [泽法·尼亚德](/metaverse/Ground-of-Metaverse/zefal.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
+    * [菲涅•阿尔托莉奈斯](/seelicht/fenne.md)
   
   * [群码动物仙境](/animali/README.md)
     * [莉拉](/animali/lila.md)
