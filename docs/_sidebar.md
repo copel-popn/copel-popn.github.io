@@ -112,6 +112,7 @@
       * [拔示巴·阿西德菲尔](/metaverse/Ground-of-Metaverse/bathsheba.md)
     * 地上新人篇·未来
       * [泽法·尼亚德](/metaverse/Ground-of-Metaverse/zefal.md)
+      * [索罗·摩尼亚](/metaverse/Ground-of-Metaverse/solo.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
