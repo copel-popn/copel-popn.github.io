@@ -258,7 +258,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/others_5.png?_=20230510.163623)|艾萨克·多米南斯VIII|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_5.png?_=20230510.163623)|米卡·多米南斯III|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_1.png?_=20230510.163623)|丹迪|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_2.png?_=20230510.163623)|罗德·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_2.png?_=20230510.163623)|洛特·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_3.png?_=20230510.163623)|马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_4.png?_=20230510.163623)|凯南·梅尔威亚斯|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_1.png?_=20230510.163623)|艾莉夏·穆尔西亚|エリシャ・ムルシア|盟月|Chunithm SUN
