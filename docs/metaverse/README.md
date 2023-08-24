@@ -252,7 +252,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a6.png?_=20230510.163623)|扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_1.png?_=20230510.163623)|[泽法·尼亚德](/metaverse/Ground-of-Metaverse/zefal.md)|ゼファー・ニアルデ|Qliphothgear|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_2.png?_=20230510.163623)|[索罗·摩尼亚](/metaverse/Ground-of-Metaverse/solo.md)|ソロ・モーニア|SQUAD-Phvntom-|Chunithm New|
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_3.png?_=20230510.163623)|米斯拉·特尔塞拉|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_3.png?_=20230510.163623)|[米斯拉·特尔塞拉](/metaverse/Ground-of-Metaverse/mythra.md)|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_4.png?_=20230510.163623)|[约基姆·雅木尔](/metaverse/Ground-of-Metaverse/yamul.md)|ヨアキム・イヤムル|Inpaqq|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_5.png?_=20230510.163623)|尼亚·尤迪特|ニア・ユーディット|Strange Love|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/others_5.png?_=20230510.163623)|艾萨克·多米南斯VIII|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
