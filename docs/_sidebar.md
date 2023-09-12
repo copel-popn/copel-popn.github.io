@@ -110,6 +110,7 @@
       * [米吉多·科古](/metaverse/Ground-of-Metaverse/megit.md)
       * [亚哈](/metaverse/Ground-of-Metaverse/ahab.md)
       * [拔示巴·阿西德菲尔](/metaverse/Ground-of-Metaverse/bathsheba.md)
+      * [梅尼·特尔塞拉](/metaverse/Ground-of-Metaverse/mene.md)
     * 地上新人篇·未来
       * [泽法·尼亚德](/metaverse/Ground-of-Metaverse/zefal.md)
       * [索罗·摩尼亚](/metaverse/Ground-of-Metaverse/solo.md)
