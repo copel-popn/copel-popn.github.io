@@ -41,6 +41,7 @@
   * [艾修(ASH:3-013)](/relation/ash.md)
   * [玛利梅亚·克雷斯坎斯](/relation/marymare.md)
   * [超级网络游戏玩家·阿尔特拉](/relation/altera.md)
+  * [织原姬美](/relation/himemi.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
