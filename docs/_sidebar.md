@@ -165,6 +165,7 @@
     * [原初的巫女·艾薇尼亚斯](/sibula/avenis.md)
     * [原初的巫女·梅薇](/sibula/mever.md)
     * [火之精灵](/sibula/irius.md)
+    * [水之精灵](/sibula/jellyfish.md)
 
   
 * [中二企鹅开发秘话](/penguin/README.md)
