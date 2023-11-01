@@ -167,6 +167,7 @@
     * [火之精灵](/sibula/irius.md)
     * [水之精灵](/sibula/jellyfish.md)
     * [风之精灵](/sibula/harpy.md)
+    * [土之精灵](/sibula/spider.md)
 
   
 * [中二企鹅开发秘话](/penguin/README.md)

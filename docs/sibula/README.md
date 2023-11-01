@@ -30,7 +30,7 @@ Paradise Ep2推出的角色和剧情为Crystal Ep2的前传内容。对应的宣
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_4.png?_=20230510.163623)| [原初的巫女·萨拉基亚](/sibula/saragia.md)|原初の巫女サラキア|《偏愛》 ～ Shattered Memories| Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_1.png?_=20230510.163623)|[火之精灵](/sibula/irius.md)|炎の精霊|《真紅》 ～ Pavane Pour La Flamme|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_4.png?_=20230510.163623)|[水之精灵](/sibula/jellyfish.md)|水の精霊|《慈雨》 ～ La Symphonie de Salacia: Agony Movement|Chunithm SUN PLUS
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_2.png?_=20230510.163623)|土之精灵|土の精霊|《楽土》 ～ One and Only One|Chunithm SUN PLUS
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_2.png?_=20230510.163623)|[土之精灵](/sibula/spider.md)|土の精霊|《楽土》 ～ One and Only One|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_3.png?_=20230510.163623)|[风之精灵](/sibula/harpy.md)|風の精霊|《散華》 ～ EMBARK|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_5.png?_=20230510.163623)|希望的巫女·尼非谢|希望の巫女 ネフェシェ|《創造》 ～ Cries, beyond The End|Chunithm SUN PLUS
 
