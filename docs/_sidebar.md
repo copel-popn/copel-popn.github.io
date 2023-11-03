@@ -168,6 +168,7 @@
     * [水之精灵](/sibula/jellyfish.md)
     * [风之精灵](/sibula/harpy.md)
     * [土之精灵](/sibula/spider.md)
+    * [希望之巫女·尼非谢](/sibula/nefe.md)
 
   
 * [中二企鹅开发秘话](/penguin/README.md)
