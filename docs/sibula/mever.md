@@ -9,6 +9,13 @@
 | 初出   |Chunithm NEW    |
 
 
+
+1.[原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)
+2.[原初的巫女·萨拉基亚](/sibula/saragia.md)
+3.[原初的巫女·艾薇尼亚斯](/sibula/avenis.md)
+4.[原初的巫女·梅薇](/sibula/merve.md)
+
+
 ## Episode 1 一线希望
 
 >失去了众多事物的少女，只能奔向前方的目的地。<BR>少女的心中，仍然坚信着。<BR>——只要到达那个地方的话，就可以将世界导向正确的样貌。

@@ -13,10 +13,10 @@
 注：该章节为NEW新加的故事的第二部分。想了解前后内容的可以从泰尔斯乌拉斯篇开始。
 
 * * *
-1.[原初的巫女·泰尔斯乌拉斯](telsuras.md)
-2.[原初的巫女·萨拉基亚](saragia.md)
-3.[原初的巫女·艾薇尼亚斯](avenis.md)
-4.[原初的巫女·梅薇](merve.md)
+1.[原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)
+2.[原初的巫女·萨拉基亚](/sibula/saragia.md)
+3.[原初的巫女·艾薇尼亚斯](/sibula/avenis.md)
+4.[原初的巫女·梅薇](/sibula/merve.md)
 * * *
 
 
