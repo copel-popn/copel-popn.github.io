@@ -14,8 +14,8 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c4.png?_=20230510.163623)|[静间·黑崎](/seelicht/shizuma.md)|シズマ・クロサキ|Theme of SeelischTact|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c9.png?_=20230510.163623)|[菲涅•阿尔托莉奈斯](/seelicht/fenne.md)|フィーネ・アルトリネス|Grab your sword|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c14.png?_=20230510.163623)|热砂的蒂斯|熱砂のディース|砂漠のハンティングガール♡|Chunithm
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c18.png?_=20230510.163623)|克莱门司·吉克哈尔特|クレメンス・ジークハルト|The ether|Chunithm
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c20.png?_=20230510.163623)|格伦·梵·特兰克罗|グレン・ヴァン・トランクイロ|overcome|Chunithm
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c18.png?_=20230510.163623)|[克莱门司·吉克哈尔特](/seelicht/clements.md)|クレメンス・ジークハルト|The ether|Chunithm
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c20.png?_=20230510.163623)|[格伦·梵·特兰克罗](/seelicht/glen.md)|グレン・ヴァン・トランクイロ|overcome|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c22.png?_=20230510.163623)|青之死神|青の死神|luna blu	|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c27.png?_=20230510.163623)|阿尔玛·维斯·奥达琪亚|アルマ・ヴィス・アウダーチア|Alma|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c28.png?_=20230510.163623)|露米艾拉·维斯·阿尼玛特|ルミエラ・ヴィス・アニマート|STAR|Chunithm

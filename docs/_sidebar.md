@@ -123,6 +123,7 @@
     * [静间·黑崎](/seelicht/shizuma.md)
     * [菲涅•阿尔托莉奈斯](/seelicht/fenne.md)
     * [克莱门司·吉克哈尔特](/seelicht/clements.md)
+    * [格伦·梵·特兰克罗](/seelicht/glen.md)
   
   * [群码动物仙境](/animali/README.md)
     * [莉拉](/animali/lila.md)
