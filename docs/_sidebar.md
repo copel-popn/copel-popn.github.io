@@ -119,6 +119,7 @@
       * [米斯拉·特尔塞拉](/metaverse/Ground-of-Metaverse/mythra.md)
       * [尼亚·尤迪特](/metaverse/Ground-of-Metaverse/nier.md)
       * [艾萨克·多米南斯VIII](/metaverse/Ground-of-Metaverse/issac.md)
+      * [米卡·多米南斯III](/metaverse/Ground-of-Metaverse/mika.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)

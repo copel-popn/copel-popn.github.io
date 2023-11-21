@@ -256,7 +256,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_4.png?_=20230510.163623)|[约基姆·雅木尔](/metaverse/Ground-of-Metaverse/yamul.md)|ヨアキム・イヤムル|Inpaqq|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_5.png?_=20230510.163623)|[尼亚·尤迪特](/metaverse/Ground-of-Metaverse/nier.md)|ニア・ユーディット|Strange Love|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/others_5.png?_=20230510.163623)|[艾萨克·多米南斯VIII](/metaverse/Ground-of-Metaverse/issac.md)|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_5.png?_=20230510.163623)|米卡·多米南斯III|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_5.png?_=20230510.163623)|[米卡·多米南斯III](/metaverse/Ground-of-Metaverse/mika.md)|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_1.png?_=20230510.163623)|丹迪|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_2.png?_=20230510.163623)|洛特·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_3.png?_=20230510.163623)|马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
