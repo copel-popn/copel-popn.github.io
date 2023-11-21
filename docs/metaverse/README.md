@@ -254,8 +254,8 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_2.png?_=20230510.163623)|[索罗·摩尼亚](metaverse/solo.html)|ソロ・モーニア|SQUAD-Phvntom-|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_3.png?_=20230510.163623)|[米思拉·特尔塞拉](metaverse/mythra.html)|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_4.png?_=20230510.163623)|[约基姆·雅木尔](metaverse/yamul.html)|ヨアキム・イヤムル|Inpaqq|Chunithm New|
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_5.png?_=20230510.163623)|尼亚·尤迪特|ニア・ユーディット|Strange Love|Chunithm New|
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/others_5.png?_=20230510.163623)|艾萨克·多米南斯VIII|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_5.png?_=20230510.163623)|[尼亚·尤迪特](/metaverse/Ground-of-Metaverse/nier.md)|ニア・ユーディット|Strange Love|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/others_5.png?_=20230510.163623)|[艾萨克·多米南斯VIII](/metaverse/Ground-of-Metaverse/issac.md)|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
 
 
 ## 新涅墨亚之战
@@ -270,7 +270,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_5.png?_=20230510.163623)|米卡·多米南斯III|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_5.png?_=20230510.163623)|[米卡·多米南斯III](/metaverse/Ground-of-Metaverse/mika.md)|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_1.png?_=20230510.163623)|丹迪|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_2.png?_=20230510.163623)|洛特·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
 
