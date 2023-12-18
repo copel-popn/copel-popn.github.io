@@ -271,7 +271,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_5.png?_=20230510.163623)|[米卡·多米南斯III](/metaverse/Ground-of-Metaverse/mika.md)|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_1.png?_=20230510.163623)|丹迪|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_1.png?_=20230510.163623)|[丹迪](/metaverse/Ground-of-Metaverse/dandy.md)|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_2.png?_=20230510.163623)|洛特·十二|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
 
 
