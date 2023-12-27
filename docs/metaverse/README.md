@@ -249,7 +249,6 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 |<div style="width:115px">头像</div>| <div style="width:115px">角色</div>   |<div style="width:100px">日文原名</div>|对应乐曲 |初出版本|<div style="width:100px">备注</div> |
 | ----------- | ----------- | ----------- | ---------- | --------- | --------- |
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a6.png?_=20230510.163623)|扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_1.png?_=20230510.163623)|[泽法·尼亚德](metaverse/zefal.html)|ゼファー・ニアルデ|Qliphothgear|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_2.png?_=20230510.163623)|[索罗·摩尼亚](metaverse/solo.html)|ソロ・モーニア|SQUAD-Phvntom-|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_3.png?_=20230510.163623)|[米思拉·特尔塞拉](metaverse/mythra.html)|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
@@ -273,15 +272,26 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_5.png?_=20230510.163623)|[米卡·多米南斯III](/metaverse/Ground-of-Metaverse/mika.md)|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_1.png?_=20230510.163623)|[丹迪](/metaverse/Ground-of-Metaverse/dandy.md)|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_2.png?_=20230510.163623)|[洛特·十二](/metaverse/Ground-of-Metaverse/rod.md)|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_3.png?_=20230510.163623)|马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
 
 
+## 佩尔修斯殖民地之战
+
+
+如十五年前一般，真人的大军再度集结于佩尔修斯殖民地。
+
+有人为了未来，有人为了野心，有人为了和平，有人为了生存。还有人，为了一个漫长而深渊的计划……
+
+战场内外，到处皆是谋略交锋。
+
+关系到真人和归还种未来的决死一战，再度打响！
 
 
 
 
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_3.png?_=20230510.163623)|马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a6.png?_=20230510.163623)|扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_4.png?_=20230510.163623)|凯南·梅尔威亚斯|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_others_5.png?_=20230510.163623)|艾娃·多米南斯XII|エヴァ・ドミナンスXII|To：Be Continued|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_1.png?_=20230510.163623)|艾莉夏·穆尔西亚|エリシャ・ムルシア|盟月|Chunithm SUN
@@ -293,3 +303,4 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_2.png?_=20230510.163623)|沃特|ヴォイド|Superbia|Chunithm SUNPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_3.png?_=20230510.163623)|赛罗·达文斯|セロ・ダーウィーズ|空間創造理論|Chunithm SUNPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_4.png?_=20230510.163623)|尼亚·拔示巴|ニア・バテシバ|βlαnoir|Chunithm SUNPLUS
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_1_5.png?_=20231215.124240)|索罗·莫尼亚/Metaverse适应体|ソロ・モーニア／メタヴァース適応体|Zegalita|Chunithm Luminous
