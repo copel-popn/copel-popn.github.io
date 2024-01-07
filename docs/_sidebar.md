@@ -122,6 +122,7 @@
       * [米卡·多米南斯III](/metaverse/Ground-of-Metaverse/mika.md)
       * [丹迪](/metaverse/Ground-of-Metaverse/dandy.md)
       * [洛特·十二](/metaverse/Ground-of-Metaverse/rod.md)
+      * [马尔杜克·阿尼玛特](/metaverse/Ground-of-Metaverse/marduk.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
