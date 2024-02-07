@@ -272,7 +272,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_5.png?_=20230510.163623)|[米卡·多米南斯III](/metaverse/Ground-of-Metaverse/mika.md)|ミカ・ドミナンスⅢ|Everlasting Liberty|Chunithm NewPlus|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_1.png?_=20230510.163623)|[丹迪](/metaverse/Ground-of-Metaverse/dandy.md)|ダンディ|#SUP3RORBITAL|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_2.png?_=20230510.163623)|[洛特·十二](/metaverse/Ground-of-Metaverse/rod.md)|ロト・トゥエルヴ|WE’RE BACK！！|Chunithm NewPlus
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_3.png?_=20230510.163623)|马尔杜克·阿尼玛特|マードゥク・アニマート|Brightness|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_3.png?_=20230510.163623)|[马尔杜克·阿尼玛特](/metaverse/Ground-of-Metaverse/marduk.md)|マードゥク・アニマート|Brightness|Chunithm NewPlus
 
 
 ## 第二次佩尔修斯殖民地之战
@@ -291,7 +291,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a6.png?_=20230510.163623)|扎尔刚·菲尔纳斯|サルゴン・フェルネス|IMPACT|Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a6.png?_=20230510.163623)|[萨尔贡·菲尔纳斯](/metaverse/Ground-of-Metaverse/zargon.md)|サルゴン・フェルネス|IMPACT|Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_4.png?_=20230510.163623)|凯南·梅尔威亚斯|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_others_5.png?_=20230510.163623)|艾娃·多米南斯XII|エヴァ・ドミナンスXII|To：Be Continued|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_1.png?_=20230510.163623)|艾莉夏·穆尔西亚|エリシャ・ムルシア|盟月|Chunithm SUN
