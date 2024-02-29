@@ -292,7 +292,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a6.png?_=20230510.163623)|[萨尔贡·菲尔纳斯](/metaverse/Ground-of-Metaverse/zargon.md)|サルゴン・フェルネス|IMPACT|Chunithm NEW
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_4.png?_=20230510.163623)|凯南·梅尔威亚斯|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_4.png?_=20230510.163623)|[凯南·梅尔威亚斯](/metaverse/Ground-of-Metaverse/kainan.md)|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_others_5.png?_=20230510.163623)|艾娃·多米南斯XII|エヴァ・ドミナンスXII|To：Be Continued|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_1.png?_=20230510.163623)|艾莉夏·穆尔西亚|エリシャ・ムルシア|盟月|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_2.png?_=20230510.163623)|纳丁·纳塔奈尔|ナディン・ナタナエル|Bitter Juicy|Chunithm SUN
