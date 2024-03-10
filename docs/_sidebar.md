@@ -133,6 +133,8 @@
     * [克莱门司·吉克哈尔特](/seelicht/clements.md)
     * [格伦·梵·特兰克罗](/seelicht/glen.md)
     * [热砂的蒂斯](/seelicht/diz.md)
+    * [青之死神](/seelicht/death.md)
+    
   
   * [群码动物仙境](/animali/README.md)
     * [莉拉](/animali/lila.md)
