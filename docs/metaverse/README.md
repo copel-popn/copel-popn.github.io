@@ -295,7 +295,22 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_6_4.png?_=20230510.163623)|[凯南·梅尔威亚斯](/metaverse/Ground-of-Metaverse/kainan.md)|カイナン・メルヴィアス|Λzure Vixen|Chunithm NewPlus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_others_5.png?_=20230510.163623)|[艾娃·多米南斯XII](/metaverse/Ground-of-Metaverse/eva.md)|エヴァ・ドミナンスXII|To：Be Continued|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_1.png?_=20230510.163623)|[艾莉夏·穆尔西亚](/metaverse/Ground-of-Metaverse/elisha.md)|エリシャ・ムルシア|盟月|Chunithm SUN
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_2.png?_=20230510.163623)|纳丁·纳塔奈尔|ナディン・ナタナエル|Bitter Juicy|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_2.png?_=20230510.163623)|[纳丁·纳塔奈尔](/metaverse/Ground-of-Metaverse/nadin.md)|ナディン・ナタナエル|Bitter Juicy|Chunithm SUN
+
+
+
+## 萨马拉坎达决战
+
+第二次佩尔修斯殖民地之战已然落幕，然而，却早已有人在这场战役之中达到了目的，并且扬长而去。
+
+信标所指之地，那里正是曾经的圣女·拔示巴所沉睡之地。
+
+真人，归还种，机械种。
+
+三方不同的势力，即将聚首于这诸多命运交汇着的绀青之都！
+
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_3.png?_=20230510.163623)|德威格|ドヴェルグ|Disruptor Array|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_4.png?_=20230510.163623)|安夏尔·奥达奇亚|アンシャール・アウダーチア|Daphnis|Chunithm SUN
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_4_5.png?_=20230510.163623)|艾斯特尔·亚戈鲁修|エステル・ヤグルーシュ|Makear|Chunithm SUN PLUS

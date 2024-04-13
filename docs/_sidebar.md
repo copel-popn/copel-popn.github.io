@@ -128,6 +128,7 @@
       * [凯南·梅尔威亚斯](/metaverse/Ground-of-Metaverse/kainan.md)
       * [艾娃·多米南斯XII](/metaverse/Ground-of-Metaverse/eva.md)
       * [艾莉夏·穆尔西亚](/metaverse/Ground-of-Metaverse/elisha.md)
+      * [纳丁·纳塔奈尔](/metaverse/Ground-of-Metaverse/nadin.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
