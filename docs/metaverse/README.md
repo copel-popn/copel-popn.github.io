@@ -249,10 +249,10 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 |<div style="width:115px">头像</div>| <div style="width:115px">角色</div>   |<div style="width:100px">日文原名</div>|对应乐曲 |初出版本|<div style="width:100px">备注</div> |
 | ----------- | ----------- | ----------- | ---------- | --------- | --------- |
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_1.png?_=20230510.163623)|[泽法·尼亚德](metaverse/zefal.html)|ゼファー・ニアルデ|Qliphothgear|Chunithm New|
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_2.png?_=20230510.163623)|[索罗·摩尼亚](metaverse/solo.html)|ソロ・モーニア|SQUAD-Phvntom-|Chunithm New|
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_3.png?_=20230510.163623)|[米思拉·特尔塞拉](metaverse/mythra.html)|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_4.png?_=20230510.163623)|[约基姆·雅木尔](metaverse/yamul.html)|ヨアキム・イヤムル|Inpaqq|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_1.png?_=20230510.163623)|[泽法·尼亚德](/metaverse/Ground-of-Metaverse/zefal.md)|ゼファー・ニアルデ|Qliphothgear|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_2.png?_=20230510.163623)|[索罗·摩尼亚](/metaverse/Ground-of-Metaverse/solo.md)|ソロ・モーニア|SQUAD-Phvntom-|Chunithm New|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_3.png?_=20230510.163623)|[米思拉·特尔塞拉](/metaverse/Ground-of-Metaverse/mythra.md)|ミスラ・テルセーラ|parvorbital|Chunithm New|为梅尼·特尔塞拉的女儿。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_4.png?_=20230510.163623)|[约基姆·雅木尔]/metaverse/Ground-of-Metaverse/yamul.md)|ヨアキム・イヤムル|Inpaqq|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_3_5.png?_=20230510.163623)|[尼亚·尤迪特](/metaverse/Ground-of-Metaverse/nier.md)|ニア・ユーディット|Strange Love|Chunithm New|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/others_5.png?_=20230510.163623)|[艾萨克·多米南斯VIII](/metaverse/Ground-of-Metaverse/issac.md)|アイザック・ドミナンスⅤⅢ|POTENTIAL|Chunithm New|
 
@@ -311,7 +311,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_3.png?_=20230510.163623)|德威格|ドヴェルグ|Disruptor Array|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_3.png?_=20230510.163623)|[德威格](/metaverse/Ground-of-Metaverse/durweg.md)|ドヴェルグ|Disruptor Array|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_4.png?_=20230510.163623)|安夏尔·奥达奇亚|アンシャール・アウダーチア|Daphnis|Chunithm SUN
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_4_5.png?_=20230510.163623)|艾斯特尔·亚戈鲁修|エステル・ヤグルーシュ|Makear|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_1.png?_=20230510.163623)|蕾娅·艾·弗拉达|レア・エ・フラータ|夢と幻想の終点にて|Chunithm SUN PLUS
