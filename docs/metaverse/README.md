@@ -322,6 +322,16 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_3_2.png?_=20240125.154700)|米斯拉·特尔塞拉/RE Metaverse|ミスラ・テルセーラ／REメタヴァース|Dèfandour|Chunithm Luminous
 
 
+</details>
+
+<details>
+
+<summary>#1UM1N0U5_ep111</summary>
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+||拔示巴/Metaverse异体|バテシバ／メタヴァース異体|Ultimate Force|Chunithm Luminous
+
+
 ## 后日谈
 
 
