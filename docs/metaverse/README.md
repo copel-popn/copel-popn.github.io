@@ -327,14 +327,15 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 <details>
 
 <summary>#1UM1N0U5_ep111</summary>
-|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+
+|<div style="width:50px">头像</div>|<div style="width:125px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
-||拔示巴/Metaverse异体|バテシバ／メタヴァース異体|Ultimate Force|Chunithm Luminous
+|![icon](bathsheba3.png)|拔示巴/Metaverse异体|バテシバ／メタヴァース異体|Ultimate Force|Chunithm Luminous
 
 
 ## 后日谈
 
 
-|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+|<div style="width:50px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_3_1.png?_=20240125.154700)|艾尔·利贝尔德|エル・リベルテ|crazy (about you)|Chunithm Luminous
