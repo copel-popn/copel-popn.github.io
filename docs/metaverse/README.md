@@ -312,7 +312,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_3.png?_=20230510.163623)|[德威格](/metaverse/Ground-of-Metaverse/durweg.md)|ドヴェルグ|Disruptor Array|Chunithm SUN
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_4.png?_=20230510.163623)|安夏尔·奥达奇亚|アンシャール・アウダーチア|Daphnis|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_4.png?_=20230510.163623)|[安夏尔·奥达奇亚](/metaverse/Ground-of-Metaverse/anshal.md)|アンシャール・アウダーチア|Daphnis|Chunithm SUN
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_4_5.png?_=20230510.163623)|艾斯特尔·亚戈鲁修|エステル・ヤグルーシュ|Makear|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_1.png?_=20230510.163623)|蕾娅·艾·弗拉达|レア・エ・フラータ|夢と幻想の終点にて|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_2.png?_=20230510.163623)|沃特|ヴォイド|Superbia|Chunithm SUNPLUS
