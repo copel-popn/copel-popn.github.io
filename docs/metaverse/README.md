@@ -314,22 +314,12 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_3.png?_=20230510.163623)|[德威格](/metaverse/Ground-of-Metaverse/durweg.md)|ドヴェルグ|Disruptor Array|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_3_4.png?_=20230510.163623)|[安夏尔·奥达奇亚](/metaverse/Ground-of-Metaverse/anshal.md)|アンシャール・アウダーチア|Daphnis|Chunithm SUN
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_4_5.png?_=20230510.163623)|[艾斯特尔·亚戈鲁修](/metaverse/Ground-of-Metaverse/estel.md)|エステル・ヤグルーシュ|Makear|Chunithm SUN PLUS
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_1.png?_=20230510.163623)|蕾娅·艾·弗拉达|レア・エ・フラータ|夢と幻想の終点にて|Chunithm SUN PLUS
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_1.png?_=20230510.163623)|[蕾亚·艾·弗拉达](/metaverse/Ground-of-Metaverse/leya.md)|レア・エ・フラータ|夢と幻想の終点にて|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_2.png?_=20230510.163623)|沃特|ヴォイド|Superbia|Chunithm SUNPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_3.png?_=20230510.163623)|赛罗·达文斯|セロ・ダーウィーズ|空間創造理論|Chunithm SUNPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_4.png?_=20230510.163623)|尼亚·拔示巴|ニア・バテシバ|βlαnoir|Chunithm SUNPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_1_5.png?_=20231215.124240)|索罗·莫尼亚/Metaverse适应体|ソロ・モーニア／メタヴァース適応体|Zegalita|Chunithm Luminous
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_3_2.png?_=20240125.154700)|米斯拉·特尔塞拉/RE Metaverse|ミスラ・テルセーラ／REメタヴァース|Dèfandour|Chunithm Luminous
-
-
-</details>
-
-<details>
-
-<summary>#1UM1N0U5_ep111</summary>
-
-|<div style="width:50px">头像</div>|<div style="width:125px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
-| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
 |![icon](bathsheba3.png)|拔示巴/Metaverse异体|バテシバ／メタヴァース異体|Ultimate Force|Chunithm Luminous
 
 
