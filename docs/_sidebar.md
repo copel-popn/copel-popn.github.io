@@ -133,6 +133,7 @@
       * [安夏尔·奥达奇亚](/metaverse/Ground-of-Metaverse/anshal.md)
       * [艾斯特尔·亚戈鲁修](/metaverse/Ground-of-Metaverse/estel.md)
       * [蕾亚·艾·弗拉达](/metaverse/Ground-of-Metaverse/leya.md)
+      * [沃特](/metaverse/Ground-of-Metaverse/void.md)
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
