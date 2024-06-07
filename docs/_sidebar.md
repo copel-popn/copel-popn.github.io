@@ -143,6 +143,8 @@
     * [格伦·梵·特兰克罗](/seelicht/glen.md)
     * [热砂的蒂斯](/seelicht/diz.md)
     * [青之死神](/seelicht/death.md)
+    * [阿尔玛·维斯·奥达琪亚](/seelicht/alma.md)
+
     
   
   * [群码动物仙境](/animali/README.md)
