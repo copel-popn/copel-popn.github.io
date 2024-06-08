@@ -115,7 +115,7 @@
       * [梅尼·特尔塞拉](/metaverse/Ground-of-Metaverse/mene.md)
     * 地上真人篇·未来
       * [泽法·尼亚德](/metaverse/Ground-of-Metaverse/zefal.md)
-      * [索罗·摩尼亚](/metaverse/Ground-of-Metaverse/solo.md)
+      * [索罗·莫尼亚](/metaverse/Ground-of-Metaverse/solo.md)
       * [约基姆·雅木尔](/metaverse/Ground-of-Metaverse/yamul.md)
       * [米斯拉·特尔塞拉](/metaverse/Ground-of-Metaverse/mythra.md)
       * [尼亚·尤迪特](/metaverse/Ground-of-Metaverse/nier.md)
