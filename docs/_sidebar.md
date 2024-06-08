@@ -100,7 +100,7 @@
        * [憎恶之源的古龙](/metaverse/Revive-the-Metaverse/hainuwele.md)
        * [远古的混沌巨人](/metaverse/Revive-the-Metaverse/revol.md)
        * [导师 米姆·米库拉](/metaverse/Revive-the-Metaverse/meme.md)
-    * 地上新人篇
+    * 地上真人篇
       * [奥米加·昆提斯](/metaverse/Ground-of-Metaverse/omega.md)
       * [伊泽维尔·亚戈鲁修](/metaverse/Ground-of-Metaverse/izevel.md)
       * [约拿·莱泽](/metaverse/Ground-of-Metaverse/yona.md)
@@ -113,7 +113,7 @@
       * [亚哈](/metaverse/Ground-of-Metaverse/ahab.md)
       * [拔示巴·阿西德菲尔](/metaverse/Ground-of-Metaverse/bathsheba.md)
       * [梅尼·特尔塞拉](/metaverse/Ground-of-Metaverse/mene.md)
-    * 地上新人篇·未来
+    * 地上真人篇·未来
       * [泽法·尼亚德](/metaverse/Ground-of-Metaverse/zefal.md)
       * [索罗·摩尼亚](/metaverse/Ground-of-Metaverse/solo.md)
       * [约基姆·雅木尔](/metaverse/Ground-of-Metaverse/yamul.md)
