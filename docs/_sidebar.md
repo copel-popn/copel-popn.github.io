@@ -136,6 +136,8 @@
       * [沃特](/metaverse/Ground-of-Metaverse/void.md)
       * [赛罗·达文斯](/metaverse/Ground-of-Metaverse/zero.md)
       * [尼亚·拔示巴](/metaverse/Ground-of-Metaverse/nier_bathsheba.md)
+      * [索罗·莫尼亚/Metaverse适应体](/metaverse/Ground-of-Metaverse/solo_metaverse.md)
+    
 
   * [Seelisch Tact](/seelicht/README.md)
     * [静间·黑崎](/seelicht/shizuma.md)
