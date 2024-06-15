@@ -137,6 +137,7 @@
       * [赛罗·达文斯](/metaverse/Ground-of-Metaverse/zero.md)
       * [尼亚·拔示巴](/metaverse/Ground-of-Metaverse/nier_bathsheba.md)
       * [索罗·莫尼亚/Metaverse适应体](/metaverse/Ground-of-Metaverse/solo_metaverse.md)
+      * [米斯拉·特尔塞拉/RE Metaverse](/metaverse/Ground-of-Metaverse/mythra_metaverse.md)
     
 
   * [Seelisch Tact](/seelicht/README.md)
