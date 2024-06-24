@@ -320,7 +320,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_5_4.png?_=20230510.163623)|[尼亚·拔示巴](/metaverse/Ground-of-Metaverse/nier_bathsheba.md)|ニア・バテシバ|βlαnoir|Chunithm SUNPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_1_5.png?_=20231215.124240)|[索罗·莫尼亚/Metaverse适应体](/metaverse/Ground-of-Metaverse/solo_metaverse.md)|ソロ・モーニア／メタヴァース適応体|Zegalita|Chunithm Luminous
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_3_2.png?_=20240125.154700)|[米斯拉·特尔塞拉/RE Metaverse](/metaverse/Ground-of-Metaverse/mythra_metaverse.md))|ミスラ・テルセーラ／REメタヴァース|Dèfandour|Chunithm Luminous
-|![icon](bathsheba3.png)|拔示巴/Metaverse异体|バテシバ／メタヴァース異体|Ultimate Force|Chunithm Luminous
+|![bathsheba3.png](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_3_3.png?_=20240619.120422)|拔示巴/Metaverse异体|バテシバ／メタヴァース異体|Ultimate Force|Chunithm Luminous
 
 
 ## 后日谈
