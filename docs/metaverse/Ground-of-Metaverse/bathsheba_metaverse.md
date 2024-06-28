@@ -1873,3 +1873,8 @@
 
 “跟我交个朋友吧？”
 
+<br>
+
+<br>
+
+[后日谈](/docs/metaverse/Ground-of-Metaverse/aile.md)
