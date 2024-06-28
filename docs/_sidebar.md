@@ -138,9 +138,9 @@
       * [尼亚·拔示巴](/metaverse/Ground-of-Metaverse/nier_bathsheba.md)
       * [索罗·莫尼亚/Metaverse适应体](/metaverse/Ground-of-Metaverse/solo_metaverse.md)
       * [米斯拉·特尔塞拉/RE Metaverse](/metaverse/Ground-of-Metaverse/mythra_metaverse.md)
-      * [拔示巴/Metaverse异体](/docs/metaverse/Ground-of-Metaverse/bathsheba_metaverse.md)
+      * [拔示巴/Metaverse异体](/metaverse/Ground-of-Metaverse/bathsheba_metaverse.md)
    * 后日谈    
-      * [艾尔·利贝尔德](/docs/metaverse/Ground-of-Metaverse/aile.md)
+      * [艾尔·利贝尔德](/metaverse/Ground-of-Metaverse/aile.md)
     
 
   * [Seelisch Tact](/seelicht/README.md)
