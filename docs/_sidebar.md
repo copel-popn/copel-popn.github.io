@@ -113,7 +113,7 @@
       * [亚哈](/metaverse/Ground-of-Metaverse/ahab.md)
       * [拔示巴·阿西德菲尔](/metaverse/Ground-of-Metaverse/bathsheba.md)
       * [梅尼·特尔塞拉](/metaverse/Ground-of-Metaverse/mene.md)
-    * 地上真人篇·未来
+    * 乐园事变
       * [泽法·尼亚德](/metaverse/Ground-of-Metaverse/zefal.md)
       * [索罗·莫尼亚](/metaverse/Ground-of-Metaverse/solo.md)
       * [约基姆·雅木尔](/metaverse/Ground-of-Metaverse/yamul.md)
@@ -138,6 +138,9 @@
       * [尼亚·拔示巴](/metaverse/Ground-of-Metaverse/nier_bathsheba.md)
       * [索罗·莫尼亚/Metaverse适应体](/metaverse/Ground-of-Metaverse/solo_metaverse.md)
       * [米斯拉·特尔塞拉/RE Metaverse](/metaverse/Ground-of-Metaverse/mythra_metaverse.md)
+      * [拔示巴/Metaverse异体](/docs/metaverse/Ground-of-Metaverse/bathsheba_metaverse.md)
+   * 后日谈    
+      * [艾尔·利贝尔德](/docs/metaverse/Ground-of-Metaverse/aile.md)
     
 
   * [Seelisch Tact](/seelicht/README.md)
