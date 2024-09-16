@@ -40,3 +40,6 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_2.png?_=20230510.163623)|小鸟游绘里香|小鳥遊 えりか|†大闘士＝クライン・フォーゲル・シュピール＝えりか†|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_3.png?_=20230510.163623)|神开司|神開 つかさ|Fallin' Darlin' Rollin'|Chunithm Sun
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_4.png?_=20230510.163623)|药研堀优|薬研堀 ユウ|恋するみたいに☆かませレッドヘルズ|Chunithm Sun
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_1_2.png?_=20240619.120422)|犬公实实美|犬公 ミミ美|君と夏色っ！～わんダフルバケーション～|Chunithm Luminous
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_4_2.png?_=20240619.120422)|羽生二三|羽生二三|幻想ロードオブキング|Chunithm Luminous
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_4_5.png?_=20240619.120422)|明光泽米子|明光澤 米子|コメクエスト|Chunithm Luminous
