@@ -28,14 +28,13 @@
 
 # 关西篇
 
-
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |日文原名|对应乐曲 |初出版本|
 | ----------- | ----------- | ----------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p24.png?_=20230510.163623)|高须来梦|高須 らいむ|おいでよ!高須らいむランド|Chunithm Paradise Lost
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p26.png?_=20230510.163623)|李梅梅|リー・メイメイ|萌豚♥功夫♥大乱舞|Chunithm Paradise Lost
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b3.png?_=20230510.163623)|土吕城由衣|土呂城 ゆい|Crack|Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_4_2.png?_=20230510.163623)|淀川 沙音瑠|淀川 沙音瑠|Give me Love♡|Chunithm NEWPLUS
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_4.png?_=20230510.163623)| [幡桐小历](/gumin/koyomi.md)|幡桐 こよみ|	推してもダメならひいてみな！|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_4.png?_=20230510.163623)| [幡桐小历](gumin/koyomi.html)|幡桐 こよみ|	推してもダメならひいてみな！|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_1.png?_=20230510.163623)|安倍八云|安倍 八雲|任せてJC陰陽師☆八雲ちゃん|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_2.png?_=20230510.163623)|小鸟游绘里香|小鳥遊 えりか|†大闘士＝クライン・フォーゲル・シュピール＝えりか†|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_2_3.png?_=20230510.163623)|神开司|神開 つかさ|Fallin' Darlin' Rollin'|Chunithm Sun
@@ -43,3 +42,5 @@
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_1_2.png?_=20240619.120422)|犬公实实美|犬公 ミミ美|君と夏色っ！～わんダフルバケーション～|Chunithm Luminous
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_4_2.png?_=20240619.120422)|羽生二三|羽生二三|幻想ロードオブキング|Chunithm Luminous
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_4_5.png?_=20240619.120422)|明光泽米子|明光澤 米子|コメクエスト|Chunithm Luminous
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_5_5.png?_=20240619.120422)|土吕城由衣/享欲之梦|土呂城 ゆい／欲楽の夢|ソーシャルワンダーランド|Chunithm Luminous Plus
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_5_2.png?_=20240619.120422)|淀川沙音瑠/章鱼烧的白日梦|淀川 沙音瑠／たこやきデイドリーム|優勝Princess♡|Chunithm Luminous Plus
