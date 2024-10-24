@@ -838,7 +838,7 @@ body {
     overflow: auto;
     padding: 0 1.4rem;
     position: relative;
-    word-wrap: normal
+    word-wrap: on
 }
 
 .token.cdata,
