@@ -141,6 +141,9 @@
       * [拔示巴/Metaverse异体](/metaverse/Ground-of-Metaverse/bathsheba_metaverse.md)
    * 后日谈    
       * [艾尔·利贝尔德](/metaverse/Ground-of-Metaverse/aile.md)
+   * 外传·边缘世界    
+      * [皮埃尔·巴比斯特](/metaverse/Another-Metaverse/puere.md)
+
     
 
   * [Seelisch Tact](/seelicht/README.md)
