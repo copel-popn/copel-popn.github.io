@@ -195,7 +195,7 @@
 
 <br>
 
-![](conductor.png "")
+![](conductor2.png "")
 
 “我是‘调谐者’。守护着六千世界的守护者。”
 
