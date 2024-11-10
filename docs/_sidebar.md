@@ -143,6 +143,7 @@
       * [艾尔·利贝尔德](/metaverse/Ground-of-Metaverse/aile.md)
    * 外传·边缘世界    
       * [皮埃尔·巴比斯特](/metaverse/Another-Metaverse/puere.md)
+      * [利兹利斯威尔](/metaverse/Another-Metaverse/liz.md)
 
     
 
