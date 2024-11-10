@@ -341,6 +341,6 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_6_1.png?_=20240619.120422)|[皮埃尔·巴比斯特](/metaverse/Another-Metaverse/puere.md)|ピュエル・バビステ|Lovely Lovely Lover|Chunithm Luminous Plus
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_6_2.png?_=20240619.120422)|利兹利斯威尔|リズリスヴェル|Fire Engine73|Chunithm Luminous Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_6_2.png?_=20240619.120422)|[利兹利斯威尔](/metaverse/Another-Metaverse/liz.md)|リズリスヴェル|Fire Engine73|Chunithm Luminous Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_6_3.png?_=20240619.120422)|拉菲恩·贝奈鲁埃姆|ラフィン・ベネルエム|LibrariA|Chunithm Luminous Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_6_4.png?_=20240619.120422)|“调谐者”|コンダクター|Tuatha Dé Danann|Chunithm Luminous Plus
