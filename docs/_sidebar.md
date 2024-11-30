@@ -146,6 +146,8 @@
       * [利兹利斯威尔](/metaverse/Another-Metaverse/liz.md)
       * [拉菲恩·贝奈鲁埃姆](/metaverse/Another-Metaverse/laffin.md)
       * [“调谐者”](/metaverse/Another-Metaverse/conductor.md)
+      * [瓦尔马西亚的亡灵](/metaverse/Another-Metaverse/ghost.md)
+
 
     
 
