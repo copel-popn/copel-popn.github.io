@@ -4,6 +4,8 @@ Chunithm作为SEGA社的音乐游戏运营多年，积累了大量的原创曲�
 
 虽说种类繁多，不过基本上可以分为七个世界观。同一世界观内的角色可能互相独立，也可能承前启后甚至多年以后添加伏笔描写。
 
+[征集想要翻译的人物中，有兴趣者可以前往留言。](http://story.chunithm.top/index.php/main/768.html)
+
 本网站旨在翻译这些隐藏在官网背后的人设故事。所有人物故事来源皆为Chunithm Wiki:https://chunithm.gamerch.com/    （旧）
 
 https://wikiwiki.jp/chunithmwiki/ （新）
