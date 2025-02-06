@@ -11,6 +11,8 @@ Paradise Ep2推出的角色和剧情为Crystal Ep2的前传内容。对应的宣
 
 这个系列的角色立绘和封面并不对应，而是分开来绘制的。
 
+Chunithm Verse Ep2推出了崭新的篇章，该篇章的课题曲使用的歌曲符号不再是书名号，而是空心框的中括号。时间线为[創造神 伊迪亚](sibula/idea.html)剧情结束之后经过漫长时间之后发生的故事。
+
 |<div style="width:115px">头像</div>| 角色   |日文原名|对应乐曲 |初出版本|
 | ----------- | ----------- | ----------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr17.png?_=20230510.163623)| [泰达·艾薇尼亚斯](/sibula/tidus.md)  |ティータ・アヴェニアス| 《混乱》 ～ Muspell      | Chunithm Crystal|
@@ -36,3 +38,22 @@ Paradise Ep2推出的角色和剧情为Crystal Ep2的前传内容。对应的宣
 
 ![timeline](timeline.jpg "timeline")
 
+
+
+
+## 西比拉精灵记·新章
+
+
+曾经，神明创造了这个箱庭世界，并且下放了四种力量影响了整个世界。然而神却对自己的世界产生了失望的情绪，并且亲自下凡与人类展开了战争。随着这场残酷的战争结束，不论是神也好，还是身为神明力量的精灵也好，都已经消失不见，只剩下被神降下灾难制裁，只能在荒废的世界之中苟延残喘的人类。
+
+即便经历神明的天罚，抑或是人类自身的丑恶争战，人类的历史也未曾迎来终结。
+
+即将讲述的，是超越了悠久时光，生活于这个被神舍弃的箱庭世界之中的，人类们的故事。
+
+
+|头像| 角色   |日文原名|对应乐曲 |初出版本|
+| ----------- | ----------- | ----------- | ---------- | ---------- |
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_1.png?_=20241211.112252)|阿尔米娜·弗拉姆|アルミナ・フラム|〚隔絶〛 ～Flame of Determination|Chunithm VERSE	
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_2.png?_=20241211.112252)|埃雷海姆·艾尔德|エレハイム・エルデ|〚献身〛 ～Paradox of Choice|Chunithm VERSE
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_3.png?_=20241211.112252)|梅亚·格兰蒂尼|メア・グランディーネ|〚盲従〛 ～Fantasia Sonata Flower	|Chunithm VERSE
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_4.png?_=20241211.112252)|莉亚·莉艾尔|リエア・リエル|〚空虚〛 ～Pyrophilia|Chunithm VERSE
