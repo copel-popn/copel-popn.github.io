@@ -13,6 +13,11 @@ Paradise Ep2推出的角色和剧情为Crystal Ep2的前传内容。对应的宣
 
 Chunithm Verse Ep2推出了崭新的篇章，该篇章的课题曲使用的歌曲符号不再是书名号，而是空心框的中括号。时间线为[創造神 伊迪亚](sibula/idea.html)剧情结束之后经过漫长时间之后发生的故事。
 
+
+## 西比拉精灵记·本篇
+
+曾经有个箱庭般的小世界，诞生了神明，还有身为灵魂容器的“人类”。神创造了自己神力的分身——“精灵”，并且将其赐予了人类。曾经，一切都围绕着神明的期望所发展着，但却从某个契机开始，一切开始向着脱轨的方向发展，无数的悲剧产生，最终形成了难以挽回的局面，而整个世界也渐渐走向了无可避免的毁灭……
+
 |<div style="width:115px">头像</div>| 角色   |日文原名|对应乐曲 |初出版本|
 | ----------- | ----------- | ----------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr17.png?_=20230510.163623)| [泰达·艾薇尼亚斯](/sibula/tidus.md)  |ティータ・アヴェニアス| 《混乱》 ～ Muspell      | Chunithm Crystal|
@@ -22,21 +27,43 @@ Chunithm Verse Ep2推出了崭新的篇章，该篇章的课题曲使用的歌�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr21.png?_=20230510.163623)| [圣女 安娜·玛尔格雷迪](/sibula/anna.md) |聖女 アンナ・マルグレーテ| 《運命》 ～ Ray of Hope| Chunithm Crystal|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr35.png?_=20230510.163623) |[創造神 伊迪亚](/sibula/idea.md) | 創造神 イデア|《破滅》 ～ Rhapsody for The End|Chunithm Crystal|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p18.png?_=20230510.163623)| [露琪亚·雷贝尔娜蒂特](/sibula/lucia.md)|ルチア・レ・ベルナデート  | 《狂乱》 ～ Cataclysm| Chunithm Paradise|
+
+## 西比拉精灵记·前传
+
+这是在箱庭的世界最终崩坏的前夕的故事。表面上一切风平浪静，歌舞升平，然而这个世界的扭曲与黑暗，已经在台面下酝酿了太久，只等某个时刻完全奏响……
+
+|<div style="width:115px">头像</div>| 角色   |日文原名|对应乐曲 |初出版本|
+| ----------- | ----------- | ----------- | ---------- | ---------- |
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p19.png?_=20230510.163623)| [米安·克雷斯塔尼](/sibula/mian2.md)|ミァン・クレスターニ|《投影》 ～ Oh My Baby Doll|Chunithm Paradise|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p20.png?_=20230510.163623)| [希斯缇娜·梅薇](/sibula/sistina.md) |システィーナ・メーヴェ |《信仰》 ～ Eudaimonia| Chunithm Paradise|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p21.png?_=20230510.163623)| [朱娜·菲利克斯](/sibula/juna2.md)|ジュナ・フェリクス|《選別》 ～ Refuge|Chunithm Paradise|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p22.png?_=20230510.163623)| [维斯塔·格洛丽奥萨·佛缇娅](/sibula/vesta.md)|ウェスタ・グロリオサ・フォティア  | 《本能》 ～ ReCoda| Chunithm Paradise|
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_1.png?_=20230510.163623)| [原初的巫女·艾薇尼亚斯](/sibula/avenis.md)|原初の巫女アヴェニアス|《自戒》 ～ Paganelope | Chunithm NEW
+
+
+
+## 西比拉精灵记·原初
+
+箱庭的世界。那是个由上天赐予四股希望的力量，由神所引领的，信仰着行使神力的少女的丰壤世界。
+
+这是一切悲惨宿命的原初之时，是一切的开始。
+
+一同见证，这箱庭世界以及无上神力分崩离析的悲剧发端吧。
+
+
+
+|<div style="width:115px">头像</div>| 角色   |日文原名|对应乐曲 |初出版本|
+| ----------- | ----------- | ----------- | ---------- | ---------- |
+
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_2.png?_=20230510.163623)| [原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)|原初の巫女テルスウラス|《紀律》 ～ As One| Chunithm NEW
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_3.png?_=20230510.163623)| [原初的巫女·梅薇](/sibula/mever.md)|原初の巫女メーヴェ|《種子》 ～ Set You Free| Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_4.png?_=20230510.163623)| [原初的巫女·萨拉基亚](/sibula/saragia.md)|原初の巫女サラキア|《偏愛》 ～ Shattered Memories| Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_1.png?_=20230510.163623)| [原初的巫女·艾薇尼亚斯](/sibula/avenis.md)|原初の巫女アヴェニアス|《自戒》 ～ Paganelope | Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_3.png?_=20230510.163623)| [原初的巫女·梅薇](/sibula/mever.md)|原初の巫女メーヴェ|《種子》 ～ Set You Free| Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_1.png?_=20230510.163623)|[火之精灵](/sibula/irius.md)|炎の精霊|《真紅》 ～ Pavane Pour La Flamme|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_4.png?_=20230510.163623)|[水之精灵](/sibula/jellyfish.md)|水の精霊|《慈雨》 ～ La Symphonie de Salacia: Agony Movement|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_2.png?_=20230510.163623)|[土之精灵](/sibula/spider.md)|土の精霊|《楽土》 ～ One and Only One|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_3.png?_=20230510.163623)|[风之精灵](/sibula/harpy.md)|風の精霊|《散華》 ～ EMBARK|Chunithm SUN PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_6_5.png?_=20230510.163623)|[希望之巫女·尼非谢](/sibula/nefe.md)|希望の巫女 ネフェシェ|《創造》 ～ Cries, beyond The End|Chunithm SUN PLUS
 
-![timeline](timeline.jpg "timeline")
 
 
 
