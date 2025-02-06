@@ -9,6 +9,7 @@
 |职业|从Metaverse归来的归还者
 |对应乐曲|月詠に鳴る
 |初出|Chunithm Paradise Lost|
+CV|内田真礼（Re:Stage联动）
 
 
 ## Episode 1 抉择的扳机
