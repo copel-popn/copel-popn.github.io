@@ -53,7 +53,6 @@ Chunithm Verse Ep2推出了崭新的篇章，该篇章的课题曲使用的歌�
 
 |<div style="width:115px">头像</div>| 角色   |日文原名|对应乐曲 |初出版本|
 | ----------- | ----------- | ----------- | ---------- | ---------- |
-
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_2.png?_=20230510.163623)| [原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)|原初の巫女テルスウラス|《紀律》 ～ As One| Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_4.png?_=20230510.163623)| [原初的巫女·萨拉基亚](/sibula/saragia.md)|原初の巫女サラキア|《偏愛》 ～ Shattered Memories| Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_2_1.png?_=20230510.163623)| [原初的巫女·艾薇尼亚斯](/sibula/avenis.md)|原初の巫女アヴェニアス|《自戒》 ～ Paganelope | Chunithm NEW
