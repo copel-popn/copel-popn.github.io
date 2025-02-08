@@ -176,6 +176,7 @@
   * [EMANON](/genesis/EMANON.md)
   * [库蒂露卡.普露米耶](/genesis/kudelica.md)
   * [G.O.D](/genesis/GOD.md)
+  * [梅莉姆](/genesis/merim.md)
 
 * [愚民大陆](/gumin/README.md)
   * 秋叶原篇
