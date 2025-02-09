@@ -177,6 +177,7 @@
   * [库蒂露卡.普露米耶](/genesis/kudelica.md)
   * [G.O.D](/genesis/GOD.md)
   * [梅莉姆](/genesis/merim.md)
+  * [丽塔·卡尔斯迪特]()
 
 * [愚民大陆](/gumin/README.md)
   * 秋叶原篇
@@ -186,7 +187,7 @@
     * [幡桐小历](/gumin/koyomi.md)
 
 * [西比拉精灵记](/sibula/README.md)
-
+  * 西比拉精灵记·本篇
     * [泰达](/sibula/tidus.md)
     * [米安](/sibula/mian.md)
     * [西埃洛](/sibula/cieo.md)
@@ -194,11 +195,12 @@
     * [圣女安娜](/sibula/anna.md)
     * [创造神 伊迪亚](/sibula/idea.md)
     * [露琪亚](/sibula/lucia.md)
+  * 西比拉精灵记·前传
     * [米安（幼年）](/sibula/mian2.md)
     * [希斯缇娜](/sibula/sistina.md)
     * [朱娜·菲力克斯](/sibula/juna2.md)
     * [维斯塔](/sibula/vesta.md)
-  * 原初的巫女篇
+  * 西比拉精灵记·前传
     * [原初的巫女·泰尔斯乌拉斯](/sibula/telsuras.md)
     * [原初的巫女·萨拉基亚](/sibula/saragia.md)
     * [原初的巫女·艾薇尼亚斯](/sibula/avenis.md)
