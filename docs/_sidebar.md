@@ -177,12 +177,13 @@
   * [库蒂露卡.普露米耶](/genesis/kudelica.md)
   * [G.O.D](/genesis/GOD.md)
   * [梅莉姆](/genesis/merim.md)
-  * [丽塔·卡尔斯迪特]()
+  * [丽塔·卡尔斯迪特](/genesis/rita.md)
 
 * [愚民大陆](/gumin/README.md)
   * 秋叶原篇
     * [八咫乌钢太郎](/gumin/koutaro.md)
     * [鬼蝮尤利娅](/gumin/yuria.md)
+    * [津久井静乃](/gumin/shizuno.md)
   * 关西篇
     * [幡桐小历](/gumin/koyomi.md)
 
