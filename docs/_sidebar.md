@@ -184,6 +184,8 @@
     * [八咫乌钢太郎](/gumin/koutaro.md)
     * [鬼蝮尤利娅](/gumin/yuria.md)
     * [津久井静乃](/gumin/shizuno.md)
+    * [观音寺笑瑠](/gumin/nicoru.md)
+    * [新井桃子](/gumin/momoko.md)
   * 关西篇
     * [幡桐小历](/gumin/koyomi.md)
 

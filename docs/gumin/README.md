@@ -16,9 +16,9 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca12.png?_=20230510.163623)|[八咫乌钢太郎](/gumin/koutaro.md)|八咫烏 鋼太郎| オススメ☆♂♀☆でぃすとぴあ | Chunithm Air Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c35.png?_=20230510.163623)|[鬼蝮尤利娅](/gumin/yuria.md)|鬼蝮ユリア|とーきょー全域★アキハバラ？|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca10.png?_=20230510.163623)|叶和都丽美|葉和 とれび|おまかせ！！トラブルメイ娘☆とれびちゃん| Chunithm Air Plus
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs3.png?_=20230510.163623)|观音寺笑瑠| 観音寺 にこる|キラメケ→Shoot it Now!|Chunithm STAR
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs3.png?_=20230510.163623)|[观音寺笑瑠](/gumin/nicoru.md)| 観音寺 にこる|キラメケ→Shoot it Now!|Chunithm STAR
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs10.png?_=20230510.163623)|[津久井静乃](/gumin/shizuno.md)|津久井 シズノ	|Kattobi KEIKYU Rider|Chunithm STAR
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a5.png?_=20230510.163623)|新井桃子|新井　桃子(あらい　ももこ)|足立オウフwwww|Chunithm Amazon
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a5.png?_=20230510.163623)|[新井桃子](/gumin/momoko.md)|新井　桃子(あらい　ももこ)|足立オウフwwww|Chunithm Amazon
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a33.png?_=20230510.163623)|鬼蝮爱理|鬼蝮 アイリ|アイリちゃんは暗黒魔導士!	|Chuithm Amazon Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr44.png?_=20230510.163623)|知云云雀|知雲 ひばり|ちゅんちゅちゅチューン|Chunithm Crystal Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr45.png?_=20230510.163623)|伊贺崎楠子|伊賀崎ノ楠子|ドルオタ忍道！楠子ノ巻|Chunithm Crystal Plus
