@@ -186,6 +186,7 @@
     * [津久井静乃](/gumin/shizuno.md)
     * [观音寺笑瑠](/gumin/nicoru.md)
     * [新井桃子](/gumin/momoko.md)
+    * [鬼蝮爱理](/gumin/airi.md)
   * 关西篇
     * [幡桐小历](/gumin/koyomi.md)
 
