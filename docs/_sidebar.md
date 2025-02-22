@@ -187,6 +187,7 @@
     * [观音寺笑瑠](/gumin/nicoru.md)
     * [新井桃子](/gumin/momoko.md)
     * [鬼蝮爱理](/gumin/airi.md)
+    * [英格丽特·奥瑞克·康奈尔](/gumin/ingrid.md)
   * 关西篇
     * [幡桐小历](/gumin/koyomi.md)
 
