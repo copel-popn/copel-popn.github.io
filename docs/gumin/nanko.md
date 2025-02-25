@@ -12,6 +12,7 @@
 | 对应版本 | Chunithm Crystal Plus|
 CV|原田瞳
 
+译者：毛颜
 
 （注：从该篇章开始，各分集的标题都是GALGAME标题的恶搞。）
 
