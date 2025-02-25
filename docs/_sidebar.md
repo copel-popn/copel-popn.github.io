@@ -189,7 +189,7 @@
     * [鬼蝮爱理](/gumin/airi.md)
     * [英格丽特·奥瑞克·康奈尔](/gumin/ingrid.md)
     * [知云云雀](/gumin/hibari.md)
-    * 
+    * [伊贺崎楠子](/gumin/nanko.md)
   * 关西篇
     * [幡桐小历](/gumin/koyomi.md)
 
