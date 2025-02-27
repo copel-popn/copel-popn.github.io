@@ -10,6 +10,8 @@
 | 对应曲   |エキセントリックコンコン
 | 对应版本 | Chunithm Crystal Plus|
 
+译者：毛颜
+
 
 ## EPISODE1 魔大陆物语
 
