@@ -22,8 +22,8 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a33.png?_=20230510.163623)|[鬼蝮爱理](/gumin/airi.md)|鬼蝮 アイリ|アイリちゃんは暗黒魔導士!	|Chuithm Amazon Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr4.png?_=20241211.112252)|[英格丽特·奥瑞克·康奈尔](/gumin/ingrid.md)|イングリット・オーリック・コーネル|【冒険】イングリット葛西降臨！【実況】|Chunithm Crystal
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr44.png?_=20230510.163623)|[知云云雀](/gumin/hibari.md)|知雲 ひばり|ちゅんちゅちゅチューン|Chunithm Crystal Plus
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr45.png?_=20230510.163623)|伊贺崎楠子|伊賀崎ノ楠子|ドルオタ忍道！楠子ノ巻|Chunithm Crystal Plus
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr46.png?_=20230510.163623)|天稻荷虎彻|天稲荷 コテツ|エキセントリックコンコン|Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr45.png?_=20230510.163623)|[伊贺崎楠子](/gumin/nanko.md)|伊賀崎ノ楠子|ドルオタ忍道！楠子ノ巻|Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr46.png?_=20230510.163623)|[天稻荷虎彻](/gumin/kotetsu.md)|天稲荷 コテツ|エキセントリックコンコン|Chunithm Crystal Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr47.png?_=20230510.163623)|大天使尤利娅|大天使 ユリア|大天使ユリア★降臨!	|Chunithm Crystal Plus
 
 
