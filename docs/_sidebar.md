@@ -191,6 +191,7 @@
     * [知云云雀](/gumin/hibari.md)
     * [伊贺崎楠子](/gumin/nanko.md)
     * [天稻荷虎彻](/gumin/kotetsu.md)
+    * [大天使尤利娅](/gumin/angelyuria.md)
   * 关西篇
     * [幡桐小历](/gumin/koyomi.md)
 
