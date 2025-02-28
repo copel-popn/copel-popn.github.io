@@ -11,6 +11,8 @@
 | 对应版本 | Chunithm Crystal Plus|
 
 
+译者：毛颜
+
 ## EPISODE1 <ruby>炎之秋叶原偶像<rp>（</rp><rt>炎のアキバアイドル</rt><rp>）</rp></ruby>
 
 >大天使，于秋叶原的中心呐喊着。御宅族与<ruby>派对咖<rp>（</rp><rt>パリピ</rt><rp>）</rp></ruby>的命运，这一切都托付给她了。
