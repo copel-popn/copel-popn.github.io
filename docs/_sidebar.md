@@ -221,6 +221,7 @@
     * [希望之巫女·尼非谢](/sibula/nefe.md)
   * 西比拉精灵记·新章
     * [阿尔米娜·弗拉姆](/sibula/fram.md)
+    * [埃雷海姆·埃尔德](/sibula/elehelm.md)
 
   
 * [中二企鹅开发秘话](/penguin/README.md)
