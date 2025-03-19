@@ -81,5 +81,5 @@ Chunithm Verse Ep2推出了崭新的篇章，该篇章的课题曲使用的歌�
 | ----------- | ----------- | ----------- | ---------- | ---------- |
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_1.png?_=20241211.112252)|[阿尔米娜·弗拉姆](/sibula/fram.md)|アルミナ・フラム|〚隔絶〛 ～Flame of Determination|Chunithm VERSE	
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_2.png?_=20241211.112252)|[埃雷海姆·埃尔德](/sibula/elehelm.md)|エレハイム・エルデ|〚献身〛 ～Paradox of Choice|Chunithm VERSE
-![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_3.png?_=20241211.112252)|梅亚·格兰蒂尼|メア・グランディーネ|〚盲従〛 ～Fantasia Sonata Flower	|Chunithm VERSE
-![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_4.png?_=20241211.112252)|莉亚·莉艾尔|リエア・リエル|〚空虚〛 ～Pyrophilia|Chunithm VERSE
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_3.png?_=20241211.112252)|[梅亚·格兰蒂尼](/sibula/mea.md)|メア・グランディーネ|〚盲従〛 ～Fantasia Sonata Flower	|Chunithm VERSE
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_2_4.png?_=20241211.112252)|[莉亚·莉艾尔](/sibula/lea.md)|リエア・リエル|〚空虚〛 ～Pyrophilia|Chunithm VERSE

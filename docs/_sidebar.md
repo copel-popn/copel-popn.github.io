@@ -223,6 +223,7 @@
     * [阿尔米娜·弗拉姆](/sibula/fram.md)
     * [埃雷海姆·埃尔德](/sibula/elehelm.md)
     * [梅亚·格兰蒂尼](/sibula/mea.md)
+    * [莉亚·莉艾尔](/sibula/lea.md)
 
   
 * [中二企鹅开发秘话](/penguin/README.md)
