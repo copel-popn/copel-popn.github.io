@@ -52,6 +52,7 @@
     * [提亚马特](/metaverse/World-of-Metaverse/tiamat.md)
     * [拉托娜](/metaverse/World-of-Metaverse/latona.md)
     * [创始者 该隐](/metaverse/World-of-Metaverse/cain.md)
+    * [格兰雷斯](/metaverse/Observe-the-Metaverse/granles.md)
   * 地上新人篇·起源
     * [马尔库特的女神](/metaverse/Ground-of-Metaverse/malkuth.md)
     * [觉醒者巴西安](/metaverse/Ground-of-Metaverse/baalzian.md)
