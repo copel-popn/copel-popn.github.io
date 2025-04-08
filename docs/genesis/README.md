@@ -36,10 +36,10 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a50.png?_=20230510.163623)|强尼·赛亚斯丁|ジョニー・サイアスティン|GIGA DRIVE	|Chunithm Amazon Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a51.png?_=20230510.163623)|不动绝音|不動 絶音|Rebellion|Chunithm Amazon Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr6.png?_=20230510.163623)|帕特里奥特|パトリオット|Surrogate Life|Chunithm Crystal
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p2.png?_=20230510.163623)|远夜灯|遠夜 灯|ROAD TO DREAM|Chunithm Paradise
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p2.png?_=20230510.163623)|[远夜灯](/genesis/akari.md)|遠夜 灯|ROAD TO DREAM|Chunithm Paradise
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p29.png?_=20230510.163623)|风焰|風焔|Blazing:Storm|Chunithm Paradise Lost
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a2.png?_=20230510.163623)|[梅莉姆](/genesis/merim.md)|メリム|ピュグマリオンの咒文|Chunithm NEW
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b5.png?_=20230510.163623)|丽塔·卡尔斯迪特|リタ・カールステット	|創世のコンツェルティーナ|Chunithm NEW
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b5.png?_=20230510.163623)|[丽塔·卡尔斯迪特](/genesis/rita.md)|リタ・カールステット	|創世のコンツェルティーナ|Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_5_1.png?_=20230510.163623)|摩根·菲尔|モーガン・フェール	|I’ll make you Super Rock Star|Chunithm NEWPLUS
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_5_3.png?_=20230510.163623)|艾娃·拉格艾尔|エヴァ・ラグエル	|Breakthrough	|Chunithm NEWPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_5_4.png?_=20230510.163623)|被比黑暗更黑之物所侵蚀的巴尼修|闇よりも深い黒に染まるバーニッシュ|	Scythe of Death|Chunithm NEWPLUS
