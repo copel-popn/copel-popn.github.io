@@ -179,6 +179,7 @@
   * [G.O.D](/genesis/GOD.md)
   * [梅莉姆](/genesis/merim.md)
   * [丽塔·卡尔斯迪特](/genesis/rita.md)
+  * [远夜灯](/genesis/akari.md)
 
 * [愚民大陆](/gumin/README.md)
   * 秋叶原篇
