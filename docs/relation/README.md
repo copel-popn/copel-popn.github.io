@@ -31,3 +31,4 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a21.png?_=20230510.163623)|[超级网络游戏玩家·阿尔特拉](/relation/altera.md)|ハイパーネットゲーマーアルテラ|男装女形表裏一体発狂小娘の詐称疑惑と苦悩と情熱。|Chunithm Amazon
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c34.png?_=20230510.163623)|[织原姬美](/relation/himemi.md)|織原 ひめみ|stella=steLLa|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_1_4.png?_=20240125.154700)|[Android_type_Cleaner-2145](/relation/android.md)|アンドロイド・タイプクリーナー２１４５|colorful|Chunithm Luminous
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_u_1.webp?_=20250411.183532)|[蛇狩亚子](/relation/ako.md)|蛇狩 あこ|メッちゅう殴打|Chunithm VERSE

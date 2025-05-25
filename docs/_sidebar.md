@@ -43,6 +43,7 @@
   * [超级网络游戏玩家·阿尔特拉](/relation/altera.md)
   * [织原姬美](/relation/himemi.md)
   * [Android_type_Cleaner-2145](/relation/android.md)
+  * [蛇狩亚子](/relation/ako.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
