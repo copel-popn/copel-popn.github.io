@@ -33,3 +33,4 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_1_4.png?_=20240125.154700)|[Android_type_Cleaner-2145](/relation/android.md)|アンドロイド・タイプクリーナー２１４５|colorful|Chunithm Luminous
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_u_1.webp?_=20250411.183532)|[蛇狩亚子](/relation/ako.md)|蛇狩 あこ|メッちゅう殴打|Chunithm VERSE
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_1.webp?_=20250411.183532)|[冴川芽依](/relation/mei.md)|冴川芽依（さえかわ　めい）|インパアフェクシオン・ホワイトガアル|Chunithm SUN
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a3.webp?_=20250411.183532)|[缘](/relation/enishi.md)||Ring|Chunithm NEW|
