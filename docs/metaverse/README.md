@@ -345,3 +345,33 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_6_3.png?_=20240619.120422)|[拉菲恩·贝奈鲁埃姆](/metaverse/Another-Metaverse/laffin.md)|ラフィン・ベネルエム|LibrariA|Chunithm Luminous Plus
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_6_4.png?_=20240619.120422)|[“调谐者”](/metaverse/Another-Metaverse/conductor.md)|コンダクター|Tuatha Dé Danann|Chunithm Luminous Plus
 ||[瓦尔马西亚的亡灵](/metaverse/Another-Metaverse/ghost.md)|ヴァルマシアゴースト|Forsaken Tale|Chunithm Luminous Plus
+
+
+## 次元放浪记——Cross the Verse
+
+以CHUNITHM VERSE的原创角色所开始的全新世界观，打歌背景仍然沿用地上篇，但是角色并无任何关联。
+
+目前世界观本身的内容仍未解明的内容居多，有待补充。
+
+此世界观中含有多个不同风格的世界，但是其组成以及规则仍不明。
+
+在此世界观中有一部分人持有特殊的能力，也有能够跨越不同世界对其进行管理的存在。
+
+
+
+
+
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
+| ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_5.webp?_=20250715.173658)|威廉·温斯雷特|ウィリアム・ウィンスレッド|Crystallize|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_6.webp?_=20250715.173658)|艾莉尼·居里亚斯|アイリーニ・キュリアス|Oracle|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_7.webp?_=20250715.173658)|毛毛&吉吉|モモ＆ジジ|The Devil Incarnate|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_1.webp?_=20250715.173658)|林内|リンネ|旅星に渇く|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_2.webp?_=20250715.173658)|拉维娜·基顿|ラヴィーナ・キトゥン|ずんずんサファリ|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_3.webp?_=20250715.173658)|阿斯托尔|アストル|jaQup|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_4.webp?_=20250715.173658)|格雷=古|クレイ＝グ|HeinousЯeaper|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_4_1.webp?_=20250715.173658)|安克|アンク|MegiddØ|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_u_4.webp?_=20250715.173658)|拉尔瓦|ラルヴァ|Crossmythos Rhapsodia|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_4.webp?_=20250715.173658)|艾比斯·哈宾格|アイビス・ハービンジャー|χρόνος|Chunithm X-Verse|歌曲名念作“Chronos”
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_5.webp?_=20250715.173658)|希尔妲|ヒルデ|TOXIC|Chunithm X-verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_6.webp?_=20250715.173658)|艾弗雷特·温斯雷特|エヴェレット・ウィンスレッド|並行天涯|Chunithm X-verse|角色名取自美国物理学家休·艾弗雷特三世，提出了多世界诠释的理论。
