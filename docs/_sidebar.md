@@ -46,6 +46,7 @@
   * [蛇狩亚子](/relation/ako.md)
   * [【毛颜】冴川芽依](/relation/mei.md)
   * [【毛颜】缘](/relation/enishi.md)
+  * [劳蕾塔](/relation/lauretta.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
