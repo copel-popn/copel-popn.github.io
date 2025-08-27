@@ -46,8 +46,6 @@
   * [蛇狩亚子](/relation/ako.md)
   * [【毛颜】冴川芽依](/relation/mei.md)
   * [【毛颜】缘](/relation/enishi.md)
-  * [劳蕾塔](/relation/lauretta.md)
-  * [【毛颜】克劳恩](/relation/crown.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
@@ -170,6 +168,7 @@
   
   * [群码动物仙境](/animali/README.md)
     * [莉拉](/animali/lila.md)
+    * [【毛颜】五代](/animali/godai.md)
 
 
 
