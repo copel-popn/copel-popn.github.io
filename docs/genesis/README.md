@@ -12,7 +12,7 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_5_2.png?_=20230510.163623)| [EMANON](/genesis/EMANON.md)|EMANON| Reverberate|CHUNITHM NEW PLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/a49.png?_=20230510.163623)| [库蒂露卡.普露米耶](/genesis/kudelica.md)|クーデルカ・プルミエール|Black Swan Lake| Chunithm Amazon Plus
 ![GOD](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c24.png?_=20230510.163623)|G.O.D|G.O.D|Gate of Fate|Chunithm
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c7.png?_=20230510.163623)|巴尼修|バーニッシュ|Guilty|Chunithm|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c7.png?_=20230510.163623)|[巴尼修](/genesis/varnish.md)|バーニッシュ|Guilty|Chunithm|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c13.png?_=20230510.163623)|波风涟|波風 レン|リリーシア|Chunithm
 |![罗兹玛丽](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c21.png?_=20230510.163623)|罗兹玛丽|ローズマリー|Memories of Sun and Moon|Chunithm
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c40.png?_=20230510.163623)|西拉·史丁格|シラー・スティング|Genesis|Chunithm PLUS|

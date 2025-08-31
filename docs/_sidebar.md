@@ -46,6 +46,7 @@
   * [蛇狩亚子](/relation/ako.md)
   * [【毛颜】冴川芽依](/relation/mei.md)
   * [【毛颜】缘](/relation/enishi.md)
+  * [【毛颜】克劳恩](/relation/crown.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
@@ -185,6 +186,7 @@
   * [丽塔·卡尔斯迪特](/genesis/rita.md)
   * [远夜灯](/genesis/akari.md)
   * [风焰](/genesis/blaze.md)
+  * [【毛颜】巴尼修](/genesis/varnish.md)
 
 * [愚民大陆](/gumin/README.md)
   * 秋叶原篇
