@@ -187,6 +187,7 @@
   * [远夜灯](/genesis/akari.md)
   * [风焰](/genesis/blaze.md)
   * [【毛颜】巴尼修](/genesis/varnish.md)
+  * [被比黑暗更黑之物所侵蚀的巴尼修](/genesis/darkvarnish.md)
 
 * [愚民大陆](/gumin/README.md)
   * 秋叶原篇
