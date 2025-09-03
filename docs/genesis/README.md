@@ -47,3 +47,5 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_6.png?_=20230510.163623)|泰莉·卡司通|ティリー・キャクストン	|CELERITAS|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_7.png?_=20230510.163623)|芙莉西亚·贝亚德|フリーシア・ベイヤード	|グラウンドスライダー協奏曲第一番「風唄」	|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_4_4.png?_=20230510.163623)|乌尔加雷欧|ウルガレオン|ウルガレオン|Chunithm SUN PLUS
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_sin.webp?_=20250715.173658)|[瓦内斯](/genesis/vanus.md)|ヴェーネス|Chaotic Ørder|Chunithm SUN PLUS
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_u_3.webp?_=20250715.173658)|巴尼修/炼狱荣光|バーニッシュ／煉獄のグロウル|Crush the Dystopia|Chunithm VERSE
