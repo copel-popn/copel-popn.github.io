@@ -25,7 +25,7 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca15.png?_=20230510.163623)|玛丽安努·新城|マリアンヌ新城|札付きのワル　～マイケルのうた～|Chunithm AIRPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca5.png?_=20230510.163623)|赛丽德文·玛格梅尔|セリドウェン・マグメール|響|Chunithm AIRPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca6.png?_=20230510.163623)|斯特拉利乌斯·艾昂·普利尔诺瓦|ステラリウス・エオン・ブリルノーヴァ|Warcry|Chunithm AIRPLUS
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca7.png?_=20230510.163623)|白川虎之助|白川 虎之助|覚醒楽奏メタフィクション|Chunithm AIRPLUS
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca7.png?_=20230510.163623)|[白川虎之助](/genesis/toranosuke.md)|白川 虎之助|覚醒楽奏メタフィクション|Chunithm AIRPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs2.png?_=20230510.163623)|纯白的歌斗士 尤丽斯|純白の歌闘士 ユーリス|哀しみ集め|Chunithm STAR
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs4.png?_=20230510.163623)|特利斯墨吉斯忒斯|トリスメギストス|トリスメギストス|Chunithm STAR
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs5.png?_=20230510.163623)|戏曲的佛纽司|戯曲のフォルネウス|PinqPiq|Chunithm STAR
@@ -42,7 +42,7 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1b5.png?_=20230510.163623)|[丽塔·卡尔斯迪特](/genesis/rita.md)|リタ・カールステット	|創世のコンツェルティーナ|Chunithm NEW
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_5_1.png?_=20230510.163623)|摩根·菲尔|モーガン・フェール	|I’ll make you Super Rock Star|Chunithm NEWPLUS
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_5_3.png?_=20230510.163623)|艾娃·拉格艾尔|エヴァ・ラグエル	|Breakthrough	|Chunithm NEWPLUS
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_5_4.png?_=20230510.163623)|被比黑暗更黑之物所侵蚀的巴尼修|闇よりも深い黒に染まるバーニッシュ|	Scythe of Death|Chunithm NEWPLUS
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_5_4.png?_=20230510.163623)|[被比黑暗更黑之物所侵蚀的巴尼修](/genesis/darkvarnish.md)|闇よりも深い黒に染まるバーニッシュ|	Scythe of Death|Chunithm NEWPLUS
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_5.png?_=20230510.163623)|琪基&乌莉修|チキ＆ウリシュ|	ガチ恋ラビリンス	|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_6.png?_=20230510.163623)|泰莉·卡司通|ティリー・キャクストン	|CELERITAS|Chunithm SUN
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-sun/thumbnail/s_1_7.png?_=20230510.163623)|芙莉西亚·贝亚德|フリーシア・ベイヤード	|グラウンドスライダー協奏曲第一番「風唄」	|Chunithm SUN
