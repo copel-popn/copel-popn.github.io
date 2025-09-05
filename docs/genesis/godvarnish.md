@@ -1,5 +1,8 @@
 # 巴尼修/炼狱荣光
 
+
+![alt text](godvarnish.png)
+
 | 角色信息   |  |
 | ----------- | ----------- |
 名称|巴尼修（Ｖａｒｎｉｓｈ）
@@ -8,3 +11,4 @@
 对应乐曲|Crush the Dystopia
 | 对应版本 | Chunithm VERSE
 
+## 
