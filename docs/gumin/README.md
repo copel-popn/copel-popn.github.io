@@ -45,3 +45,12 @@
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_4_5.png?_=20240619.120422)|明光泽米子|明光澤 米子|コメクエスト|Chunithm Luminous
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_5_5.png?_=20240619.120422)|土吕城由衣/享欲之梦|土呂城 ゆい／欲楽の夢|ソーシャルワンダーランド|Chunithm Luminous Plus
 ![icon](https://chunithm.sega.jp/storage/chara/chunithm-luminous/thumbnail/l_5_2.png?_=20240619.120422)|淀川沙音瑠/章鱼烧的白日梦|淀川 沙音瑠／たこやきデイドリーム|優勝Princess♡|Chunithm Luminous Plus
+
+
+
+
+# 独立故事
+
+|<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |日文原名|对应乐曲 |初出版本|
+| ----------- | ----------- | ----------- | ---------- | ---------- |
+![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_11.webp?_=20250715.173658)|[安栖泽香恋](/gumin/karen.md)|安栖沢　香恋（あすみざわ　かれん）|内臓♡マニピ|Chunithm X-VERSE

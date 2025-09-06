@@ -206,6 +206,8 @@
     * [大天使尤利娅](/gumin/angelyuria.md)
   * 关西篇
     * [幡桐小历](/gumin/koyomi.md)
+  * 独立故事
+    * [安栖泽香恋](/gumin/karen.md)
 
 * [西比拉精灵记](/sibula/README.md)
   * 西比拉精灵记·本篇
