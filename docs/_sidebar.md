@@ -190,6 +190,7 @@
   * [被比黑暗更黑之物所侵蚀的巴尼修](/genesis/darkvarnish.md)
   * [白川虎之助](/genesis/toranosuke.md)
   * [【毛颜】瓦内斯](/genesis/vanus.md)
+  * [巴尼修/炼狱荣光](/genesis/godvarnish.md)
 
 * [愚民大陆](/gumin/README.md)
   * 秋叶原篇
