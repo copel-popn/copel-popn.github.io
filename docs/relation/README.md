@@ -36,3 +36,5 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a3.webp?_=20250411.183532)|[缘](/relation/enishi.md)||Ring|Chunithm NEW|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_9.webp?_=20250715.173658)|[劳蕾塔](/relation/lauretta.md)|Lauretta|あの日、あの部屋で、あったこと|Chunithm X-VERSE
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cr32.webp?_=20250715.173658)|[克劳恩](/relation/crown.md)|クラウン|Ghost Dance|Chunithm Crystal Plus
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca36.webp?_=20251001.095855)|[<ruby>空町萌芽<rp>（</rp><rt>ソラマチ・メメ</rt><rp>）</rp></ruby>](/relation/meme.md)|ソラマチ・メメ|ロボットプラネットユートピア|Chunithm AIR
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p30.webp?_=20251001.095855)|[艾薇莉娜](/relation/avelina.md)|エヴェリーナ|ハルシナイト|Chunithm Paradise LOST

@@ -47,6 +47,8 @@
   * [【毛颜】冴川芽依](/relation/mei.md)
   * [【毛颜】缘](/relation/enishi.md)
   * [【毛颜】克劳恩](/relation/crown.md)
+  * [<ruby>空町萌芽<rp>（</rp><rt>ソラマチ・メメ</rt><rp>）</rp></ruby>](/relation/meme.md)
+  * [艾薇莉娜](/relation/avelina.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
