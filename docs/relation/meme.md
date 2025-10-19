@@ -1,7 +1,8 @@
 # 空町萌芽
 
 
-![meme.png][1]
+![alt text](meme.png)
+
  
 | 角色信息   |     <div style="width:155px">     </div>       |
 | ----------- | ----------- |
