@@ -50,6 +50,8 @@
   * [<ruby>空町萌芽<rp>（</rp><rt>ソラマチ・メメ</rt><rp>）</rp></ruby>](/relation/meme.md)
   * [艾薇莉娜](/relation/avelina.md)
   * [星河歌](/relation/fujikyu.md)
+  * [向来隼](/relation/hayato.md)
+  * [御影昴](/relation/subaru.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇

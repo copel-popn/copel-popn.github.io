@@ -39,3 +39,5 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca36.webp?_=20251001.095855)|[<ruby>空町萌芽<rp>（</rp><rt>ソラマチ・メメ</rt><rp>）</rp></ruby>](/relation/meme.md)|ソラマチ・メメ|ロボットプラネットユートピア|Chunithm AIR
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p30.webp?_=20251001.095855)|[艾薇莉娜](/relation/avelina.md)|エヴェリーナ|ハルシナイト|Chunithm Paradise LOST
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca30.webp?_=20251001.095855)|[星河歌](/relation/fujikyu.md)|星河 うた|後夜祭|Chunithm AIR
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p6.webp?_=20251001.095855)|[向来隼](/relation/hayato.md)|向来　隼（こうらい　はやと）|B100d Hunter|Chunithm Paradise 
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p25.webp?_=20251001.095855)|[御影昴](/relation/subaru.md)|御影　昴（みかげ　すばる）|Charlatan|Chunithm Paradise LOST
