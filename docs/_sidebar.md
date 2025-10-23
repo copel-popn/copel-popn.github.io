@@ -52,6 +52,7 @@
   * [星河歌](/relation/fujikyu.md)
   * [向来隼](/relation/hayato.md)
   * [御影昴](/relation/subaru.md)
+  * [法月皮可](/relation/pico.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
