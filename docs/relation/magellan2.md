@@ -1,4 +1,4 @@
-# 麦哲伦·麦哲伦
+# 麦哲伦·麦哲伦/银河恋人
 
 ![alt text](magellan2.webp)
 
