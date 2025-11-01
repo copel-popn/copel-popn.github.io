@@ -42,3 +42,6 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p6.webp?_=20251001.095855)|[向来隼](/relation/hayato.md)|向来　隼（こうらい　はやと）|B100d Hunter|Chunithm Paradise 
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/p25.webp?_=20251001.095855)|[御影昴](/relation/subaru.md)|御影　昴（みかげ　すばる）|Charlatan|Chunithm Paradise LOST
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_3.webp?_=20251001.095855)|[法月皮可](/relation/pico.md)|法月　ピコ|ラブリージャッジメント|Chunithm VERSE
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs1.webp?_=20251001.095855)|[麦哲伦·麦哲伦](/relation/magellan.md)|マゼラン・マゼラン|光線チューニング|Chunithm STAR|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a1.webp?_=20251001.095855)|[麦哲伦·麦哲伦/银河恋人](/relation/magellan2.md)|マゼラン・マゼラン／コズミックラバー|コスモポップファンクラブ|Chunithm NEW|
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c23.webp?_=20251001.095855)|[匹力欧](/relation/pilio.md)|ピリオ| 閃鋼のブリューナク<br>リ・フィクション・O| Chunithm <br>Chunithm Luminous

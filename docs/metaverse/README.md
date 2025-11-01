@@ -139,6 +139,7 @@ VOX：Metaverse中用来管理虚拟世界的功能单元。整体为箱子形�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs35.png?_=20230510.163623)| [厄里斯·涅墨西斯](/metaverse/Observe-the-Metaverse/elise.md)|エリスネメシス | Surveiller et punir | Chunithm Star Plus| 该角色的剧情为暗线，各个章节牵涉到多名角色的故事内幕。
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/ca25.png?_=20230510.163623)| [修伯利斯](/metaverse/Observe-the-Metaverse/supplice.md) |シュープリス|紅華刑|Chunithm Air|该人物的故事属于起源故事，时间线早于天狼星的故事线。
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cso1.png?_=20230510.163623)|[安歇尔&西梅翁](/metaverse/Liberate-the-Metaverse/xevel.md)|アシェル＆シメオン|Xevel | Chunithm Star Plus|该角色剧情独立与其他人物所在的时间点，具体发生时间位于Revive the Metaverse篇附近。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c12.webp?_=20251001.095855)|[TXR-梅尔维亚](/metaverse/Observe-the-Metaverse/TXR.MD)| TXR-メルヴィア|Anemone|Chunithm|该角色故事编写的较早，部分内容可能与后续会有出入。对应的内容为时间年表中“ORB”坠落的事件。
 
 ### 间章2——ES计划
 

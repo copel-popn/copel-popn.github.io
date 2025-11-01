@@ -53,6 +53,9 @@
   * [向来隼](/relation/hayato.md)
   * [御影昴](/relation/subaru.md)
   * [法月皮可](/relation/pico.md)
+  * [麦哲伦·麦哲伦](/relation/magellan.md)
+  * [麦哲伦·麦哲伦/银河恋人](/relation/magellan2.md)
+  * [匹力欧](/relation/pilio.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
@@ -83,6 +86,7 @@
       * [厄里斯·涅墨西斯](/metaverse/Observe-the-Metaverse/elise.md)
       * [布里兰特](/metaverse/Observe-the-Metaverse/brillante.md)
       * [格拉维·诺瓦](/metaverse/Observe-the-Metaverse/grave.md)
+      * [TXR-梅尔维亚](/metaverse/Observe-the-Metaverse/TXR.MD)
     * [Reconnect the Metaverse](/metaverse/Reconnect-the-Metaverse/README.md)
       * [XES-72 狄安娜·普利梅拉](/metaverse/Reconnect-the-Metaverse/diana.md)
       * [XGN-72 露娜·诺瓦](/metaverse/Reconnect-the-Metaverse/luna.md)
