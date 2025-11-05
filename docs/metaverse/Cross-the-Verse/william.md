@@ -1,4 +1,4 @@
-#  	威廉·温斯雷特
+# 威廉·温斯雷特
 
 ![alt text](willam.png)
 
