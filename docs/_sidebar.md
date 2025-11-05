@@ -39,6 +39,7 @@
   * [东云彰/东云凛](/relation/shinonome.md)
   * [西尔维娅斯](/relation/folern.md)
   * [艾修(ASH:3-013)](/relation/ash.md)
+  * [特尔敏特·薇尔吉](/relation/telmint.md)
   * [玛利梅亚·克雷斯坎斯](/relation/marymare.md)
   * [超级网络游戏玩家·阿尔特拉](/relation/altera.md)
   * [织原姬美](/relation/himemi.md)
