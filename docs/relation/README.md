@@ -46,3 +46,4 @@
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/cs1.webp?_=20251001.095855)|[麦哲伦·麦哲伦](/relation/magellan.md)|マゼラン・マゼラン|光線チューニング|Chunithm STAR|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-new/thumbnail/n_1a1.webp?_=20251001.095855)|[麦哲伦·麦哲伦/银河恋人](/relation/magellan2.md)|マゼラン・マゼラン／コズミックラバー|コスモポップファンクラブ|Chunithm NEW|
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c23.webp?_=20251001.095855)|[匹力欧](/relation/pilio.md)|ピリオ| 閃鋼のブリューナク<br>リ・フィクション・O| Chunithm <br>Chunithm Luminous
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm/thumbnail/c8.webp?_=20251001.095855)|[匹力欧](/relation/pilio.md)|[常世之早月](/relation/ixion.md)|常世のサツキ|幾四音-Ixion-|Chunithm

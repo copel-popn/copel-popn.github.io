@@ -57,6 +57,7 @@
   * [麦哲伦·麦哲伦](/relation/magellan.md)
   * [麦哲伦·麦哲伦/银河恋人](/relation/magellan2.md)
   * [匹力欧](/relation/pilio.md)
+  * [常世之早月](/relation/ixion.md)
 
 * [Metaverse](/metaverse/README.md)
   * 旧人类战争篇
