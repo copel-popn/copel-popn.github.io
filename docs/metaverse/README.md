@@ -364,7 +364,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 
 |<div style="width:115px">头像</div>|<div style="width:115px"> 角色</div>   |<div style="width:115px">日文原名</div>|对应乐曲 |初出版本|<div style="width:115px">备注</div>|
 | ----------- | ----------- | ----------- | ---------- | ---------- | ---------- |
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_5.webp?_=20250715.173658)|[威廉·温斯雷特](/metaverse/Cross-the-Verse)|ウィリアム・ウィンスレッド|Crystallize|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_5.webp?_=20250715.173658)|[威廉·温斯雷特](/metaverse/Cross-the-Verse/william.md)|ウィリアム・ウィンスレッド|Crystallize|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_6.webp?_=20250715.173658)|艾莉尼·居里亚斯|アイリーニ・キュリアス|Oracle|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_7.webp?_=20250715.173658)|毛毛&吉吉|モモ＆ジジ|The Devil Incarnate|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_1.webp?_=20250715.173658)|林内|リンネ|旅星に渇く|Chunithm Verse
