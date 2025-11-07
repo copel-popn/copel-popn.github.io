@@ -167,6 +167,7 @@
    * 次元放浪记——Cross the Verse
     * [威廉·温斯雷特](/metaverse/Cross-the-Verse/william.md)
     * [威廉·温斯雷特/Morning Breeze](/metaverse/Cross-the-Verse/william2.md)
+    * [艾莉尼·居里亚斯/起始的蓝天](/metaverse/Cross-the-Verse/airine0.md)
 
 
     
