@@ -367,7 +367,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_5.webp?_=20250715.173658)|[威廉·温斯雷特](/metaverse/Cross-the-Verse/william.md)|ウィリアム・ウィンスレッド|Crystallize|Chunithm Verse|
 ||[威廉·温斯雷特/Morning Breeze](/metaverse/Cross-the-Verse/william2.md)|ウィリアム・ウィンスレッド／Morning breeze|Warp Speed|Chunithm X-Verse|此故事为威廉·温斯雷特故事的前日谈，可以随时阅读。
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_6.webp?_=20250715.173658)|[艾莉尼·居里亚斯/起始的蓝天](/metaverse/Cross-the-Verse/airine0.md)|アイリーニ・キュリアス／はじまりのあおいそら|In the Straying Story| Chunithm X-VERSE
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_6.webp?_=20250715.173658)|艾莉尼·居里亚斯|アイリーニ・キュリアス|Oracle|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_6.webp?_=20250715.173658)|[艾莉尼·居里亚斯](/metaverse/Cross-the-Verse.airine.md)|アイリーニ・キュリアス|Oracle|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_7.webp?_=20250715.173658)|毛毛&吉吉|モモ＆ジジ|The Devil Incarnate|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_1.webp?_=20250715.173658)|林内|リンネ|旅星に渇く|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_2.webp?_=20250715.173658)|拉维娜·基顿|ラヴィーナ・キトゥン|ずんずんサファリ|Chunithm Verse
