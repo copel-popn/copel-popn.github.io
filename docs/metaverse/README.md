@@ -369,7 +369,7 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_6.webp?_=20250715.173658)|[艾莉尼·居里亚斯/起始的蓝天](/metaverse/Cross-the-Verse/airine0.md)|アイリーニ・キュリアス／はじまりのあおいそら|In the Straying Story| Chunithm X-VERSE|此故事为艾莉尼·居里亚斯故事的前日谈。
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_6.webp?_=20250715.173658)|[艾莉尼·居里亚斯](/metaverse/Cross-the-Verse/airine.md)|アイリーニ・キュリアス|Oracle|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_1_7.webp?_=20250715.173658)|[毛毛&吉吉](/metaverse/Cross-the-Verse/momo.md)|モモ＆ジジ|The Devil Incarnate|Chunithm Verse
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_1.webp?_=20250715.173658)|林内|リンネ|旅星に渇く|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_1.webp?_=20250715.173658)|[林内](/metaverse/Cross-the-Verse/rinne.md)|リンネ|旅星に渇く|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_2.webp?_=20250715.173658)|拉维娜·基顿|ラヴィーナ・キトゥン|ずんずんサファリ|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_3.webp?_=20250715.173658)|阿斯托尔|アストル|jaQup|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_4.webp?_=20250715.173658)|格雷=古|クレイ＝グ|HeinousЯeaper|Chunithm Verse

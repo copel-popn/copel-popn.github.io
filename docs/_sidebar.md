@@ -170,6 +170,7 @@
     * [艾莉尼·居里亚斯/起始的蓝天](/metaverse/Cross-the-Verse/airine0.md)
     * [艾莉尼·居里亚斯](/metaverse/Cross-the-Verse/airine.md)
     * [毛毛&吉吉](/metaverse/Cross-the-Verse/momo.md)
+    * [林内](/metaverse/Cross-the-Verse/rinne.md)
 
 
     
