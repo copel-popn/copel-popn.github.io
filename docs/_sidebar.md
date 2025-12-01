@@ -168,6 +168,7 @@
     * [威廉·温斯雷特](/metaverse/Cross-the-Verse/william.md)
     * [威廉·温斯雷特/Morning Breeze](/metaverse/Cross-the-Verse/william2.md)
     * [艾莉尼·居里亚斯/起始的蓝天](/metaverse/Cross-the-Verse/airine0.md)
+    * [玛丽亚·居里亚斯](/metaverse/Cross-the-Verse/maria.md)
     * [艾莉尼·居里亚斯](/metaverse/Cross-the-Verse/airine.md)
     * [毛毛&吉吉](/metaverse/Cross-the-Verse/momo.md)
     * [林内](/metaverse/Cross-the-Verse/rinne.md)
