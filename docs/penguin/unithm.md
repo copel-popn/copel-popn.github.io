@@ -230,7 +230,7 @@ VERSE|代表无穷无尽的不同“<ruby>次元<rp>（</rp><rt>VERSE</rt><rp>�
 |<div style="width:115px">![colchicum](uni.png)</div>|太好……了……
 |<div style="width:115px">![colchicum](uni.png)</div>|……。
 ||
-|<div style="width:115px">![colchicum](uni.png)</div>|——<font color="#00b8ee">NAVI</font><type0716>？<br>……还真是令人怀念的型号。……还有这个？
+|<div style="width:115px">![colchicum](uni.png)</div>|NAVI</font><type0716>？<br>……还真是令人怀念的型号。……还有这个？
 |<div style="width:115px">![colchicum](uni.png)</div>|是吗，原来是这样。
 |<div style="width:115px">![colchicum](uni.png)</div>|……
 |<div style="width:115px">![colchicum](uni.png)</div>|我不过是镜中映出的，一瞬间的镜像罢了。<br>“<font color="#FF00FF">尤尼</font>”很快就会醒过来。<br>——有件事我要拜托你。
