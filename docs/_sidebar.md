@@ -1,5 +1,6 @@
 * [Chunithm Stories Project](README.md)
 * [十周年纪念篇](/penguin/10th.md)
+* [Linked VERSE<记录>](/penguin/unithm.md)
 * [彩绿](/irodorimidori/README.md)
   * 学园祭篇
     * [明坂芹菜](/irodorimidori/serina1.md)
