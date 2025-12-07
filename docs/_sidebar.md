@@ -173,6 +173,7 @@
     * [艾莉尼·居里亚斯](/metaverse/Cross-the-Verse/airine.md)
     * [毛毛&吉吉](/metaverse/Cross-the-Verse/momo.md)
     * [林内](/metaverse/Cross-the-Verse/rinne.md)
+    * [拉维娜·基顿](/metaverse/Cross-the-Verse/lavina.md)
 
 
     
