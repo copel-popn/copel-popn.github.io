@@ -174,6 +174,7 @@
     * [毛毛&吉吉](/metaverse/Cross-the-Verse/momo.md)
     * [林内](/metaverse/Cross-the-Verse/rinne.md)
     * [拉维娜·基顿](/metaverse/Cross-the-Verse/lavina.md)
+    * [阿斯托尔](/metaverse/Cross-the-Verse/astol.md)
 
 
     
