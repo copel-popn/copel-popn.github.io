@@ -262,6 +262,7 @@
     * [埃雷海姆·埃尔德](/sibula/elehelm.md)
     * [梅亚·格兰蒂尼](/sibula/mea.md)
     * [莉亚·莉艾尔](/sibula/lea.md)
+    * [蕾娜斯·奥尔斯奎拉](/sibula/alscula.md)
 
   
 * [中二企鹅开发秘话](/penguin/README.md)
