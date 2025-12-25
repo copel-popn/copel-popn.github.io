@@ -7,7 +7,7 @@
 | 名称    |艾弗雷特·温斯雷特
 | 年龄   |33岁
 | 职业 | 物理学者 / 原大学教授
-| 对应曲   |並行天涯
+| 对应曲   |<ruby>並行天涯<rp>（</rp><rt>Parallel Horizons</rt><rp>）</rp></ruby>
 | 对应版本 |Chunithm Verse
 
 
