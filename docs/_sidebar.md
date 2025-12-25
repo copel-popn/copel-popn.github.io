@@ -175,6 +175,7 @@
     * [林内](/metaverse/Cross-the-Verse/rinne.md)
     * [拉维娜·基顿](/metaverse/Cross-the-Verse/lavina.md)
     * [阿斯托尔](/metaverse/Cross-the-Verse/astol.md)
+    * [艾弗雷特•温斯雷特](/metaverse/Cross-the-Verse/everett.md)
 
 
     
