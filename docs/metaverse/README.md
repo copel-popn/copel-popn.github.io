@@ -372,11 +372,11 @@ ES计划全名为Explorer Survive（探索求生）。为“工厂”为了做�
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_1.webp?_=20250715.173658)|[林内](/metaverse/Cross-the-Verse/rinne.md)|リンネ|旅星に渇く|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_2.webp?_=20250715.173658)|[拉维娜·基顿](/metaverse/Cross-the-Verse/lavina.md)
 |ラヴィーナ・キトゥン|ずんずんサファリ|Chunithm Verse
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_3.webp?_=20250715.173658)|阿斯托尔|アストル|jaQup|Chunithm Verse
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_4.webp?_=20250715.173658)|格雷=古|クレイ＝グ|HeinousЯeaper|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_3.webp?_=20250715.173658)|[阿斯托尔](/metaverse/Cross-the-Verse/astol.md)|アストル|jaQup|Chunithm Verse
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_3_4.webp?_=20250715.173658)|[格雷=古](/metaverse/Cross-the-Verse/gray.md)|クレイ＝グ|HeinousЯeaper|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_4_1.webp?_=20250715.173658)|安克|アンク|MegiddØ|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-verse/thumbnail/v_u_4.webp?_=20250715.173658)|拉尔瓦|ラルヴァ|Crossmythos Rhapsodia|Chunithm Verse
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_4.webp?_=20250715.173658)|艾比斯·哈宾格|アイビス・ハービンジャー|χρόνος|Chunithm X-Verse|歌曲名念作“Chronos”
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_5.webp?_=20250715.173658)|希尔妲|ヒルデ|TOXIC|Chunithm X-verse
-|![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_6.webp?_=20250715.173658)|艾弗雷特·温斯雷特|エヴェレット・ウィンスレッド|並行天涯|Chunithm X-verse|角色名取自美国物理学家休·艾弗雷特三世，他提出了多世界诠释的理论。
+|![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_6.webp?_=20250715.173658)|[艾弗雷特•温斯雷特](/metaverse/Cross-the-Verse/everett.md)|エヴェレット・ウィンスレッド|並行天涯|Chunithm X-verse|角色名取自美国物理学家休·艾弗雷特三世，他提出了多世界诠释的理论。
 |![icon](https://chunithm.sega.jp/storage/chara/chunithm-x-verse/thumbnail/v_1_20.webp?_=20251001.095855)|[玛丽亚·居里亚斯](/metaverse/Cross-the-Verse/maria.md)|マリア・キュリアス|hyperreality|Chunithm X-verse|艾莉尼·居里亚斯的母亲。角色名与姓氏取自著名化学家、物理学家——玛丽·居里，即居里夫人。
