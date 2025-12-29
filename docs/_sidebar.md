@@ -177,6 +177,7 @@
     * [阿斯托尔](/metaverse/Cross-the-Verse/astol.md)
     * [【毛颜】艾弗雷特•温斯雷特](/metaverse/Cross-the-Verse/everett.md)
     * [格雷=古](/metaverse/Cross-the-Verse/gray.md)
+    * [【毛颜】希尔达](/metaverse/Cross-the-Verse/hillda.md)
 
 
     

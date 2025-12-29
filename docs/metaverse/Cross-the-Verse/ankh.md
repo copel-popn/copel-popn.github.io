@@ -12,3 +12,6 @@
 | 对应曲   | MegiddØ
 | 对应版本 |Chunithm Verse
 
+
+
+译者：毛颜

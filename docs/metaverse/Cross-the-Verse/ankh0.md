@@ -11,3 +11,5 @@
 | 职业 | 拾荒者的领头
 | 对应曲   | Deep Blue
 | 对应版本 |Chunithm X-Verse
+
+译者：毛颜
