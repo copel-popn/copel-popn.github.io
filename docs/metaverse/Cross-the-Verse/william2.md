@@ -1,6 +1,6 @@
 # 威廉·温斯雷特/Morning Breeze
 
-![alt text](willam2.webp)
+![alt text](william2.png)
 
 | 角色信息   |  |
 | ----------- | ----------- |
