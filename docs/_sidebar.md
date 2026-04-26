@@ -180,6 +180,7 @@
       * [【毛颜】希尔德](/metaverse/Cross-the-Verse/hillda.md)
       * [【毛颜】安克](/metaverse/Cross-the-Verse/ankh.md)
       * [【毛颜】安克/Whirlwind strike](/metaverse/Cross-the-Verse/ankh0.md)
+      * [星间轨道航行船·海伯里昂](/metaverse/Cross-the-Verse/hyperion.md)
 
     
 
