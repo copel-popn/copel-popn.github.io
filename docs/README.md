@@ -50,13 +50,13 @@ Chunithm Paradise新增加的剧情线。时间同步于假想世界篇中期，
 ## SeelischTact
 ![Seelisch](seelich.jpg "")
 以JRPG幻想风格为主的系列。作曲者大多参与过JRPG的作曲工作。与Chunithm Crystal的故事可以得知，该世界观与Metaverse有紧密联系，基本可以确认Metaverse系列为该世界观超古代时期发生的故事。
-## [心连羁绊（リレイションレーベル　)](/relation/README.md)
+## [心连羁绊（リレイション)](/relation/README.md)
 ![Relation](relation2.png "")
 作曲者以VOCALOID创作者和歌手居多的系列。背景模仿的是niconico动画的界面。歌曲人物对应的故事相对独立，除少部分有剧情联系以外，基本为一章独立的短篇。
 ## 愚民大陆（GUMIN）
 ![GUMIN](gumin2.png "")
 以偶像系和电波曲为主的系列。除少部分公募曲外，全都是带VOCAL的歌曲。除了几名角色单独成系列以外，其余组成一条独立的故事线——魔大陆“秋叶原”。
-## 群码动物仙境（アニマリアレーベル）
+## 群码动物仙境（アニマリア）
 ![animalia](animalia.jpg "")
 以Future Bass曲风为主的系列。全体角色基本位于世界观下一座会说人话的动物的城市——群码县萨法里市（グンマ県サファリ市）。
 ## [西比拉精灵记](/sibula/README.md)
@@ -66,3 +66,5 @@ Chunithm Paradise新增加的剧情线。时间同步于假想世界篇中期，
 Chunithm NEW更新了新章节。内容为远古时期原初的四名巫女的故事。
 
 Chunithm SUN PLUS更新了其后续，讲述了原初的四名巫女以及丰壤之神之后的故事。
+
+Chunithm VERSE更新了新的背景以及新的故事，讲述了世界被毁灭之后，巫女与精灵已经不复存在的，人类与曾经的怪物奋战生存的故事。
